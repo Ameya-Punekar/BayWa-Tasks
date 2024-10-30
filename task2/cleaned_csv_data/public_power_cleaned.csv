@@ -1,0 +1,3841 @@
+timestamp,production_type_name,production_value
+2024-10-14 22:00:00,Hydro pumped storage consumption,-567.4
+2024-10-14 22:15:00,Hydro pumped storage consumption,-445.8
+2024-10-14 22:00:00,Cross border electricity trading,8756.9
+2024-10-14 22:15:00,Cross border electricity trading,8801.1
+2024-10-14 22:00:00,Hydro Run-of-River,2703.4
+2024-10-14 22:15:00,Hydro Run-of-River,2695.6
+2024-10-14 22:00:00,Biomass,4769.3
+2024-10-14 22:15:00,Biomass,4749.8
+2024-10-14 22:00:00,Fossil brown coal / lignite,11770.3
+2024-10-14 22:15:00,Fossil brown coal / lignite,11650.0
+2024-10-14 22:00:00,Fossil hard coal,5344.6
+2024-10-14 22:15:00,Fossil hard coal,5228.6
+2024-10-14 22:00:00,Fossil oil,237.3
+2024-10-14 22:15:00,Fossil oil,237.3
+2024-10-14 22:00:00,Fossil gas,4961.0
+2024-10-14 22:15:00,Fossil gas,4592.5
+2024-10-14 22:00:00,Geothermal,15.4
+2024-10-14 22:15:00,Geothermal,15.4
+2024-10-14 22:00:00,Hydro water reservoir,363.4
+2024-10-14 22:15:00,Hydro water reservoir,260.9
+2024-10-14 22:00:00,Hydro pumped storage,507.4
+2024-10-14 22:15:00,Hydro pumped storage,389.5
+2024-10-14 22:00:00,Others,183.8
+2024-10-14 22:15:00,Others,183.8
+2024-10-14 22:00:00,Waste,1206.2
+2024-10-14 22:15:00,Waste,1210.6
+2024-10-14 22:00:00,Wind offshore,523.5
+2024-10-14 22:15:00,Wind offshore,546.1
+2024-10-14 22:00:00,Wind onshore,2593.5
+2024-10-14 22:15:00,Wind onshore,2636.7
+2024-10-14 22:00:00,Solar,0.0
+2024-10-14 22:15:00,Solar,0.0
+2024-10-14 22:00:00,Load,45868.8
+2024-10-14 22:15:00,Load,45220.4
+2024-10-14 22:00:00,Residual load,42751.8
+2024-10-14 22:15:00,Residual load,42037.7
+2024-10-14 22:00:00,Renewable share of generation,32.8
+2024-10-14 22:15:00,Renewable share of generation,33.4
+2024-10-14 22:00:00,Renewable share of load,25.2
+2024-10-14 22:15:00,Renewable share of load,25.4
+2024-10-14 22:15:00,Hydro pumped storage consumption,-445.8
+2024-10-14 22:30:00,Hydro pumped storage consumption,-218.1
+2024-10-14 22:15:00,Cross border electricity trading,8801.1
+2024-10-14 22:30:00,Cross border electricity trading,9203.8
+2024-10-14 22:15:00,Hydro Run-of-River,2695.6
+2024-10-14 22:30:00,Hydro Run-of-River,2696.3
+2024-10-14 22:15:00,Biomass,4749.8
+2024-10-14 22:30:00,Biomass,4728.4
+2024-10-14 22:15:00,Fossil brown coal / lignite,11650.0
+2024-10-14 22:30:00,Fossil brown coal / lignite,11675.9
+2024-10-14 22:15:00,Fossil hard coal,5228.6
+2024-10-14 22:30:00,Fossil hard coal,5154.0
+2024-10-14 22:15:00,Fossil oil,237.3
+2024-10-14 22:30:00,Fossil oil,237.3
+2024-10-14 22:15:00,Fossil gas,4592.5
+2024-10-14 22:30:00,Fossil gas,4433.1
+2024-10-14 22:15:00,Geothermal,15.4
+2024-10-14 22:30:00,Geothermal,15.4
+2024-10-14 22:15:00,Hydro water reservoir,260.9
+2024-10-14 22:30:00,Hydro water reservoir,121.7
+2024-10-14 22:15:00,Hydro pumped storage,389.5
+2024-10-14 22:30:00,Hydro pumped storage,153.9
+2024-10-14 22:15:00,Others,183.8
+2024-10-14 22:30:00,Others,183.8
+2024-10-14 22:15:00,Waste,1210.6
+2024-10-14 22:30:00,Waste,1208.9
+2024-10-14 22:15:00,Wind offshore,546.1
+2024-10-14 22:30:00,Wind offshore,586.6
+2024-10-14 22:15:00,Wind onshore,2636.7
+2024-10-14 22:30:00,Wind onshore,2659.5
+2024-10-14 22:15:00,Solar,0.0
+2024-10-14 22:30:00,Solar,0.0
+2024-10-14 22:15:00,Load,45220.4
+2024-10-14 22:30:00,Load,44786.7
+2024-10-14 22:15:00,Residual load,42037.7
+2024-10-14 22:30:00,Residual load,41540.7
+2024-10-14 22:15:00,Renewable share of generation,33.4
+2024-10-14 22:30:00,Renewable share of generation,33.6
+2024-10-14 22:15:00,Renewable share of load,25.4
+2024-10-14 22:30:00,Renewable share of load,25.4
+2024-10-14 22:30:00,Hydro pumped storage consumption,-218.1
+2024-10-14 22:45:00,Hydro pumped storage consumption,-496.5
+2024-10-14 22:30:00,Cross border electricity trading,9203.8
+2024-10-14 22:45:00,Cross border electricity trading,9305.5
+2024-10-14 22:30:00,Hydro Run-of-River,2696.3
+2024-10-14 22:45:00,Hydro Run-of-River,2694.4
+2024-10-14 22:30:00,Biomass,4728.4
+2024-10-14 22:45:00,Biomass,4725.7
+2024-10-14 22:30:00,Fossil brown coal / lignite,11675.9
+2024-10-14 22:45:00,Fossil brown coal / lignite,11739.1
+2024-10-14 22:30:00,Fossil hard coal,5154.0
+2024-10-14 22:45:00,Fossil hard coal,5032.9
+2024-10-14 22:30:00,Fossil oil,237.3
+2024-10-14 22:45:00,Fossil oil,237.3
+2024-10-14 22:30:00,Fossil gas,4433.1
+2024-10-14 22:45:00,Fossil gas,4362.1
+2024-10-14 22:30:00,Geothermal,15.4
+2024-10-14 22:45:00,Geothermal,15.4
+2024-10-14 22:30:00,Hydro water reservoir,121.7
+2024-10-14 22:45:00,Hydro water reservoir,84.5
+2024-10-14 22:30:00,Hydro pumped storage,153.9
+2024-10-14 22:45:00,Hydro pumped storage,136.8
+2024-10-14 22:30:00,Others,183.8
+2024-10-14 22:45:00,Others,183.8
+2024-10-14 22:30:00,Waste,1208.9
+2024-10-14 22:45:00,Waste,1210.2
+2024-10-14 22:30:00,Wind offshore,586.6
+2024-10-14 22:45:00,Wind offshore,590.5
+2024-10-14 22:30:00,Wind onshore,2659.5
+2024-10-14 22:45:00,Wind onshore,2660.9
+2024-10-14 22:30:00,Solar,0.0
+2024-10-14 22:45:00,Solar,0.0
+2024-10-14 22:30:00,Load,44786.7
+2024-10-14 22:45:00,Load,44480.5
+2024-10-14 22:30:00,Residual load,41540.7
+2024-10-14 22:45:00,Residual load,41229.1
+2024-10-14 22:30:00,Renewable share of generation,33.6
+2024-10-14 22:45:00,Renewable share of generation,33.7
+2024-10-14 22:30:00,Renewable share of load,25.4
+2024-10-14 22:45:00,Renewable share of load,25.5
+2024-10-14 22:45:00,Hydro pumped storage consumption,-496.5
+2024-10-14 23:00:00,Hydro pumped storage consumption,-1123.6
+2024-10-14 22:45:00,Cross border electricity trading,9305.5
+2024-10-14 23:00:00,Cross border electricity trading,8940.2
+2024-10-14 22:45:00,Hydro Run-of-River,2694.4
+2024-10-14 23:00:00,Hydro Run-of-River,2693.5
+2024-10-14 22:45:00,Biomass,4725.7
+2024-10-14 23:00:00,Biomass,4724.9
+2024-10-14 22:45:00,Fossil brown coal / lignite,11739.1
+2024-10-14 23:00:00,Fossil brown coal / lignite,11924.9
+2024-10-14 22:45:00,Fossil hard coal,5032.9
+2024-10-14 23:00:00,Fossil hard coal,4928.8
+2024-10-14 22:45:00,Fossil oil,237.3
+2024-10-14 23:00:00,Fossil oil,237.3
+2024-10-14 22:45:00,Fossil gas,4362.1
+2024-10-14 23:00:00,Fossil gas,4326.9
+2024-10-14 22:45:00,Geothermal,15.4
+2024-10-14 23:00:00,Geothermal,15.4
+2024-10-14 22:45:00,Hydro water reservoir,84.5
+2024-10-14 23:00:00,Hydro water reservoir,150.8
+2024-10-14 22:45:00,Hydro pumped storage,136.8
+2024-10-14 23:00:00,Hydro pumped storage,370.5
+2024-10-14 22:45:00,Others,183.8
+2024-10-14 23:00:00,Others,181.0
+2024-10-14 22:45:00,Waste,1210.2
+2024-10-14 23:00:00,Waste,1207.2
+2024-10-14 22:45:00,Wind offshore,590.5
+2024-10-14 23:00:00,Wind offshore,508.8
+2024-10-14 22:45:00,Wind onshore,2660.9
+2024-10-14 23:00:00,Wind onshore,2695.8
+2024-10-14 22:45:00,Solar,0.0
+2024-10-14 23:00:00,Solar,0.0
+2024-10-14 22:45:00,Load,44480.5
+2024-10-14 23:00:00,Load,43599.6
+2024-10-14 22:45:00,Residual load,41229.1
+2024-10-14 23:00:00,Residual load,40395.0
+2024-10-14 22:45:00,Renewable share of generation,33.7
+2024-10-14 23:00:00,Renewable share of generation,33.4
+2024-10-14 22:45:00,Renewable share of load,25.5
+2024-10-14 23:00:00,Renewable share of load,26.1
+2024-10-14 23:00:00,Hydro pumped storage consumption,-1123.6
+2024-10-14 23:15:00,Hydro pumped storage consumption,-949.4
+2024-10-14 23:00:00,Cross border electricity trading,8940.2
+2024-10-14 23:15:00,Cross border electricity trading,9018.6
+2024-10-14 23:00:00,Hydro Run-of-River,2693.5
+2024-10-14 23:15:00,Hydro Run-of-River,2692.8
+2024-10-14 23:00:00,Biomass,4724.9
+2024-10-14 23:15:00,Biomass,4717.8
+2024-10-14 23:00:00,Fossil brown coal / lignite,11924.9
+2024-10-14 23:15:00,Fossil brown coal / lignite,12079.5
+2024-10-14 23:00:00,Fossil hard coal,4928.8
+2024-10-14 23:15:00,Fossil hard coal,4803.7
+2024-10-14 23:00:00,Fossil oil,237.3
+2024-10-14 23:15:00,Fossil oil,237.3
+2024-10-14 23:00:00,Fossil gas,4326.9
+2024-10-14 23:15:00,Fossil gas,4222.4
+2024-10-14 23:00:00,Geothermal,15.4
+2024-10-14 23:15:00,Geothermal,15.4
+2024-10-14 23:00:00,Hydro water reservoir,150.8
+2024-10-14 23:15:00,Hydro water reservoir,101.1
+2024-10-14 23:00:00,Hydro pumped storage,370.5
+2024-10-14 23:15:00,Hydro pumped storage,161.0
+2024-10-14 23:00:00,Others,181.0
+2024-10-14 23:15:00,Others,179.7
+2024-10-14 23:00:00,Waste,1207.2
+2024-10-14 23:15:00,Waste,1210.3
+2024-10-14 23:00:00,Wind offshore,508.8
+2024-10-14 23:15:00,Wind offshore,570.7
+2024-10-14 23:00:00,Wind onshore,2695.8
+2024-10-14 23:15:00,Wind onshore,2669.0
+2024-10-14 23:00:00,Solar,0.0
+2024-10-14 23:15:00,Solar,0.0
+2024-10-14 23:00:00,Load,43599.6
+2024-10-14 23:15:00,Load,43613.0
+2024-10-14 23:00:00,Residual load,40395.0
+2024-10-14 23:15:00,Residual load,40373.3
+2024-10-14 23:00:00,Renewable share of generation,33.4
+2024-10-14 23:15:00,Renewable share of generation,33.7
+2024-10-14 23:00:00,Renewable share of load,26.1
+2024-10-14 23:15:00,Renewable share of load,26.0
+2024-10-14 23:15:00,Hydro pumped storage consumption,-949.4
+2024-10-14 23:30:00,Hydro pumped storage consumption,-1715.8
+2024-10-14 23:15:00,Cross border electricity trading,9018.6
+2024-10-14 23:30:00,Cross border electricity trading,9128.9
+2024-10-14 23:15:00,Hydro Run-of-River,2692.8
+2024-10-14 23:30:00,Hydro Run-of-River,2691.3
+2024-10-14 23:15:00,Biomass,4717.8
+2024-10-14 23:30:00,Biomass,4728.0
+2024-10-14 23:15:00,Fossil brown coal / lignite,12079.5
+2024-10-14 23:30:00,Fossil brown coal / lignite,12128.7
+2024-10-14 23:15:00,Fossil hard coal,4803.7
+2024-10-14 23:30:00,Fossil hard coal,4818.8
+2024-10-14 23:15:00,Fossil oil,237.3
+2024-10-14 23:30:00,Fossil oil,237.3
+2024-10-14 23:15:00,Fossil gas,4222.4
+2024-10-14 23:30:00,Fossil gas,4213.0
+2024-10-14 23:15:00,Geothermal,15.4
+2024-10-14 23:30:00,Geothermal,15.4
+2024-10-14 23:15:00,Hydro water reservoir,101.1
+2024-10-14 23:30:00,Hydro water reservoir,103.0
+2024-10-14 23:15:00,Hydro pumped storage,161.0
+2024-10-14 23:30:00,Hydro pumped storage,149.0
+2024-10-14 23:15:00,Others,179.7
+2024-10-14 23:30:00,Others,179.7
+2024-10-14 23:15:00,Waste,1210.3
+2024-10-14 23:30:00,Waste,1199.7
+2024-10-14 23:15:00,Wind offshore,570.7
+2024-10-14 23:30:00,Wind offshore,710.9
+2024-10-14 23:15:00,Wind onshore,2669.0
+2024-10-14 23:30:00,Wind onshore,2628.1
+2024-10-14 23:15:00,Solar,0.0
+2024-10-14 23:30:00,Solar,0.0
+2024-10-14 23:15:00,Load,43613.0
+2024-10-14 23:30:00,Load,43390.7
+2024-10-14 23:15:00,Residual load,40373.3
+2024-10-14 23:30:00,Residual load,40051.8
+2024-10-14 23:15:00,Renewable share of generation,33.7
+2024-10-14 23:30:00,Renewable share of generation,33.9
+2024-10-14 23:15:00,Renewable share of load,26.0
+2024-10-14 23:30:00,Renewable share of load,26.4
+2024-10-14 23:30:00,Hydro pumped storage consumption,-1715.8
+2024-10-14 23:45:00,Hydro pumped storage consumption,-1842.3
+2024-10-14 23:30:00,Cross border electricity trading,9128.9
+2024-10-14 23:45:00,Cross border electricity trading,9165.7
+2024-10-14 23:30:00,Hydro Run-of-River,2691.3
+2024-10-14 23:45:00,Hydro Run-of-River,2691.7
+2024-10-14 23:30:00,Biomass,4728.0
+2024-10-14 23:45:00,Biomass,4743.6
+2024-10-14 23:30:00,Fossil brown coal / lignite,12128.7
+2024-10-14 23:45:00,Fossil brown coal / lignite,12212.6
+2024-10-14 23:30:00,Fossil hard coal,4818.8
+2024-10-14 23:45:00,Fossil hard coal,4732.5
+2024-10-14 23:30:00,Fossil oil,237.3
+2024-10-14 23:45:00,Fossil oil,237.3
+2024-10-14 23:30:00,Fossil gas,4213.0
+2024-10-14 23:45:00,Fossil gas,4211.4
+2024-10-14 23:30:00,Geothermal,15.4
+2024-10-14 23:45:00,Geothermal,15.4
+2024-10-14 23:30:00,Hydro water reservoir,103.0
+2024-10-14 23:45:00,Hydro water reservoir,69.1
+2024-10-14 23:30:00,Hydro pumped storage,149.0
+2024-10-14 23:45:00,Hydro pumped storage,77.0
+2024-10-14 23:30:00,Others,179.7
+2024-10-14 23:45:00,Others,179.7
+2024-10-14 23:30:00,Waste,1199.7
+2024-10-14 23:45:00,Waste,1203.4
+2024-10-14 23:30:00,Wind offshore,710.9
+2024-10-14 23:45:00,Wind offshore,763.5
+2024-10-14 23:30:00,Wind onshore,2628.1
+2024-10-14 23:45:00,Wind onshore,2632.7
+2024-10-14 23:30:00,Solar,0.0
+2024-10-14 23:45:00,Solar,0.0
+2024-10-14 23:30:00,Load,43390.7
+2024-10-14 23:45:00,Load,43147.7
+2024-10-14 23:30:00,Residual load,40051.8
+2024-10-14 23:45:00,Residual load,39751.5
+2024-10-14 23:30:00,Renewable share of generation,33.9
+2024-10-14 23:45:00,Renewable share of generation,34.0
+2024-10-14 23:30:00,Renewable share of load,26.4
+2024-10-14 23:45:00,Renewable share of load,26.6
+2024-10-14 23:45:00,Hydro pumped storage consumption,-1842.3
+2024-10-15 00:00:00,Hydro pumped storage consumption,-2200.3
+2024-10-14 23:45:00,Cross border electricity trading,9165.7
+2024-10-15 00:00:00,Cross border electricity trading,9447.4
+2024-10-14 23:45:00,Hydro Run-of-River,2691.7
+2024-10-15 00:00:00,Hydro Run-of-River,2691.1
+2024-10-14 23:45:00,Biomass,4743.6
+2024-10-15 00:00:00,Biomass,4760.9
+2024-10-14 23:45:00,Fossil brown coal / lignite,12212.6
+2024-10-15 00:00:00,Fossil brown coal / lignite,12266.5
+2024-10-14 23:45:00,Fossil hard coal,4732.5
+2024-10-15 00:00:00,Fossil hard coal,4576.4
+2024-10-14 23:45:00,Fossil oil,237.3
+2024-10-15 00:00:00,Fossil oil,237.3
+2024-10-14 23:45:00,Fossil gas,4211.4
+2024-10-15 00:00:00,Fossil gas,4209.2
+2024-10-14 23:45:00,Geothermal,15.4
+2024-10-15 00:00:00,Geothermal,15.4
+2024-10-14 23:45:00,Hydro water reservoir,69.1
+2024-10-15 00:00:00,Hydro water reservoir,81.9
+2024-10-14 23:45:00,Hydro pumped storage,77.0
+2024-10-15 00:00:00,Hydro pumped storage,125.4
+2024-10-14 23:45:00,Others,179.7
+2024-10-15 00:00:00,Others,179.7
+2024-10-14 23:45:00,Waste,1203.4
+2024-10-15 00:00:00,Waste,1202.1
+2024-10-14 23:45:00,Wind offshore,763.5
+2024-10-15 00:00:00,Wind offshore,829.0
+2024-10-14 23:45:00,Wind onshore,2632.7
+2024-10-15 00:00:00,Wind onshore,2668.9
+2024-10-14 23:45:00,Solar,0.0
+2024-10-15 00:00:00,Solar,0.0
+2024-10-14 23:45:00,Load,43147.7
+2024-10-15 00:00:00,Load,42791.0
+2024-10-14 23:45:00,Residual load,39751.5
+2024-10-15 00:00:00,Residual load,39293.0
+2024-10-14 23:45:00,Renewable share of generation,34.0
+2024-10-15 00:00:00,Renewable share of generation,34.3
+2024-10-14 23:45:00,Renewable share of load,26.6
+2024-10-15 00:00:00,Renewable share of load,27.1
+2024-10-15 00:00:00,Hydro pumped storage consumption,-2200.3
+2024-10-15 00:15:00,Hydro pumped storage consumption,-2472.0
+2024-10-15 00:00:00,Cross border electricity trading,9447.4
+2024-10-15 00:15:00,Cross border electricity trading,9425.5
+2024-10-15 00:00:00,Hydro Run-of-River,2691.1
+2024-10-15 00:15:00,Hydro Run-of-River,2690.2
+2024-10-15 00:00:00,Biomass,4760.9
+2024-10-15 00:15:00,Biomass,4763.0
+2024-10-15 00:00:00,Fossil brown coal / lignite,12266.5
+2024-10-15 00:15:00,Fossil brown coal / lignite,12233.2
+2024-10-15 00:00:00,Fossil hard coal,4576.4
+2024-10-15 00:15:00,Fossil hard coal,4325.5
+2024-10-15 00:00:00,Fossil oil,237.3
+2024-10-15 00:15:00,Fossil oil,237.3
+2024-10-15 00:00:00,Fossil gas,4209.2
+2024-10-15 00:15:00,Fossil gas,4209.5
+2024-10-15 00:00:00,Geothermal,15.4
+2024-10-15 00:15:00,Geothermal,15.4
+2024-10-15 00:00:00,Hydro water reservoir,81.9
+2024-10-15 00:15:00,Hydro water reservoir,87.0
+2024-10-15 00:00:00,Hydro pumped storage,125.4
+2024-10-15 00:15:00,Hydro pumped storage,126.9
+2024-10-15 00:00:00,Others,179.7
+2024-10-15 00:15:00,Others,179.8
+2024-10-15 00:00:00,Waste,1202.1
+2024-10-15 00:15:00,Waste,1202.0
+2024-10-15 00:00:00,Wind offshore,829.0
+2024-10-15 00:15:00,Wind offshore,872.6
+2024-10-15 00:00:00,Wind onshore,2668.9
+2024-10-15 00:15:00,Wind onshore,2726.0
+2024-10-15 00:00:00,Solar,0.0
+2024-10-15 00:15:00,Solar,0.0
+2024-10-15 00:00:00,Load,42791.0
+2024-10-15 00:15:00,Load,42536.8
+2024-10-15 00:00:00,Residual load,39293.0
+2024-10-15 00:15:00,Residual load,38938.2
+2024-10-15 00:00:00,Renewable share of generation,34.3
+2024-10-15 00:15:00,Renewable share of generation,34.8
+2024-10-15 00:00:00,Renewable share of load,27.1
+2024-10-15 00:15:00,Renewable share of load,27.6
+2024-10-15 00:15:00,Hydro pumped storage consumption,-2472.0
+2024-10-15 00:30:00,Hydro pumped storage consumption,-2763.5
+2024-10-15 00:15:00,Cross border electricity trading,9425.5
+2024-10-15 00:30:00,Cross border electricity trading,9435.8
+2024-10-15 00:15:00,Hydro Run-of-River,2690.2
+2024-10-15 00:30:00,Hydro Run-of-River,2690.8
+2024-10-15 00:15:00,Biomass,4763.0
+2024-10-15 00:30:00,Biomass,4773.2
+2024-10-15 00:15:00,Fossil brown coal / lignite,12233.2
+2024-10-15 00:30:00,Fossil brown coal / lignite,12286.4
+2024-10-15 00:15:00,Fossil hard coal,4325.5
+2024-10-15 00:30:00,Fossil hard coal,4235.2
+2024-10-15 00:15:00,Fossil oil,237.3
+2024-10-15 00:30:00,Fossil oil,237.3
+2024-10-15 00:15:00,Fossil gas,4209.5
+2024-10-15 00:30:00,Fossil gas,4193.4
+2024-10-15 00:15:00,Geothermal,15.4
+2024-10-15 00:30:00,Geothermal,15.4
+2024-10-15 00:15:00,Hydro water reservoir,87.0
+2024-10-15 00:30:00,Hydro water reservoir,93.8
+2024-10-15 00:15:00,Hydro pumped storage,126.9
+2024-10-15 00:30:00,Hydro pumped storage,195.0
+2024-10-15 00:15:00,Others,179.8
+2024-10-15 00:30:00,Others,179.7
+2024-10-15 00:15:00,Waste,1202.0
+2024-10-15 00:30:00,Waste,1203.0
+2024-10-15 00:15:00,Wind offshore,872.6
+2024-10-15 00:30:00,Wind offshore,800.7
+2024-10-15 00:15:00,Wind onshore,2726.0
+2024-10-15 00:30:00,Wind onshore,2823.9
+2024-10-15 00:15:00,Solar,0.0
+2024-10-15 00:30:00,Solar,0.0
+2024-10-15 00:15:00,Load,42536.8
+2024-10-15 00:30:00,Load,42440.5
+2024-10-15 00:15:00,Residual load,38938.2
+2024-10-15 00:30:00,Residual load,38815.9
+2024-10-15 00:15:00,Renewable share of generation,34.8
+2024-10-15 00:30:00,Renewable share of generation,34.9
+2024-10-15 00:15:00,Renewable share of load,27.6
+2024-10-15 00:30:00,Renewable share of load,27.7
+2024-10-15 00:30:00,Hydro pumped storage consumption,-2763.5
+2024-10-15 00:45:00,Hydro pumped storage consumption,-2827.9
+2024-10-15 00:30:00,Cross border electricity trading,9435.8
+2024-10-15 00:45:00,Cross border electricity trading,9467.3
+2024-10-15 00:30:00,Hydro Run-of-River,2690.8
+2024-10-15 00:45:00,Hydro Run-of-River,2693.0
+2024-10-15 00:30:00,Biomass,4773.2
+2024-10-15 00:45:00,Biomass,4794.1
+2024-10-15 00:30:00,Fossil brown coal / lignite,12286.4
+2024-10-15 00:45:00,Fossil brown coal / lignite,12329.5
+2024-10-15 00:30:00,Fossil hard coal,4235.2
+2024-10-15 00:45:00,Fossil hard coal,4181.4
+2024-10-15 00:30:00,Fossil oil,237.3
+2024-10-15 00:45:00,Fossil oil,237.3
+2024-10-15 00:30:00,Fossil gas,4193.4
+2024-10-15 00:45:00,Fossil gas,4168.5
+2024-10-15 00:30:00,Geothermal,15.4
+2024-10-15 00:45:00,Geothermal,15.4
+2024-10-15 00:30:00,Hydro water reservoir,93.8
+2024-10-15 00:45:00,Hydro water reservoir,110.5
+2024-10-15 00:30:00,Hydro pumped storage,195.0
+2024-10-15 00:45:00,Hydro pumped storage,234.3
+2024-10-15 00:30:00,Others,179.7
+2024-10-15 00:45:00,Others,179.8
+2024-10-15 00:30:00,Waste,1203.0
+2024-10-15 00:45:00,Waste,1206.0
+2024-10-15 00:30:00,Wind offshore,800.7
+2024-10-15 00:45:00,Wind offshore,744.5
+2024-10-15 00:30:00,Wind onshore,2823.9
+2024-10-15 00:45:00,Wind onshore,2936.6
+2024-10-15 00:30:00,Solar,0.0
+2024-10-15 00:45:00,Solar,0.0
+2024-10-15 00:30:00,Load,42440.5
+2024-10-15 00:45:00,Load,42539.6
+2024-10-15 00:30:00,Residual load,38815.9
+2024-10-15 00:45:00,Residual load,38858.4
+2024-10-15 00:30:00,Renewable share of generation,34.9
+2024-10-15 00:45:00,Renewable share of generation,35.1
+2024-10-15 00:30:00,Renewable share of load,27.7
+2024-10-15 00:45:00,Renewable share of load,27.9
+2024-10-15 00:45:00,Hydro pumped storage consumption,-2827.9
+2024-10-15 01:00:00,Hydro pumped storage consumption,-2721.0
+2024-10-15 00:45:00,Cross border electricity trading,9467.3
+2024-10-15 01:00:00,Cross border electricity trading,10086.4
+2024-10-15 00:45:00,Hydro Run-of-River,2693.0
+2024-10-15 01:00:00,Hydro Run-of-River,2690.5
+2024-10-15 00:45:00,Biomass,4794.1
+2024-10-15 01:00:00,Biomass,4810.8
+2024-10-15 00:45:00,Fossil brown coal / lignite,12329.5
+2024-10-15 01:00:00,Fossil brown coal / lignite,12167.3
+2024-10-15 00:45:00,Fossil hard coal,4181.4
+2024-10-15 01:00:00,Fossil hard coal,4068.2
+2024-10-15 00:45:00,Fossil oil,237.3
+2024-10-15 01:00:00,Fossil oil,237.3
+2024-10-15 00:45:00,Fossil gas,4168.5
+2024-10-15 01:00:00,Fossil gas,4126.1
+2024-10-15 00:45:00,Geothermal,15.4
+2024-10-15 01:00:00,Geothermal,15.4
+2024-10-15 00:45:00,Hydro water reservoir,110.5
+2024-10-15 01:00:00,Hydro water reservoir,105.2
+2024-10-15 00:45:00,Hydro pumped storage,234.3
+2024-10-15 01:00:00,Hydro pumped storage,162.2
+2024-10-15 00:45:00,Others,179.8
+2024-10-15 01:00:00,Others,179.7
+2024-10-15 00:45:00,Waste,1206.0
+2024-10-15 01:00:00,Waste,1200.4
+2024-10-15 00:45:00,Wind offshore,744.5
+2024-10-15 01:00:00,Wind offshore,681.9
+2024-10-15 00:45:00,Wind onshore,2936.6
+2024-10-15 01:00:00,Wind onshore,2989.8
+2024-10-15 00:45:00,Solar,0.0
+2024-10-15 01:00:00,Solar,0.0
+2024-10-15 00:45:00,Load,42539.6
+2024-10-15 01:00:00,Load,42816.3
+2024-10-15 00:45:00,Residual load,38858.4
+2024-10-15 01:00:00,Residual load,39144.6
+2024-10-15 00:45:00,Renewable share of generation,35.1
+2024-10-15 01:00:00,Renewable share of generation,35.5
+2024-10-15 00:45:00,Renewable share of load,27.9
+2024-10-15 01:00:00,Renewable share of load,27.7
+2024-10-15 01:00:00,Hydro pumped storage consumption,-2721.0
+2024-10-15 01:15:00,Hydro pumped storage consumption,-2335.6
+2024-10-15 01:00:00,Cross border electricity trading,10086.4
+2024-10-15 01:15:00,Cross border electricity trading,10122.2
+2024-10-15 01:00:00,Hydro Run-of-River,2690.5
+2024-10-15 01:15:00,Hydro Run-of-River,2689.5
+2024-10-15 01:00:00,Biomass,4810.8
+2024-10-15 01:15:00,Biomass,4813.8
+2024-10-15 01:00:00,Fossil brown coal / lignite,12167.3
+2024-10-15 01:15:00,Fossil brown coal / lignite,11944.6
+2024-10-15 01:00:00,Fossil hard coal,4068.2
+2024-10-15 01:15:00,Fossil hard coal,4015.8
+2024-10-15 01:00:00,Fossil oil,237.3
+2024-10-15 01:15:00,Fossil oil,237.3
+2024-10-15 01:00:00,Fossil gas,4126.1
+2024-10-15 01:15:00,Fossil gas,4123.4
+2024-10-15 01:00:00,Geothermal,15.4
+2024-10-15 01:15:00,Geothermal,15.4
+2024-10-15 01:00:00,Hydro water reservoir,105.2
+2024-10-15 01:15:00,Hydro water reservoir,58.9
+2024-10-15 01:00:00,Hydro pumped storage,162.2
+2024-10-15 01:15:00,Hydro pumped storage,181.0
+2024-10-15 01:00:00,Others,179.7
+2024-10-15 01:15:00,Others,179.7
+2024-10-15 01:00:00,Waste,1200.4
+2024-10-15 01:15:00,Waste,1198.6
+2024-10-15 01:00:00,Wind offshore,681.9
+2024-10-15 01:15:00,Wind offshore,666.0
+2024-10-15 01:00:00,Wind onshore,2989.8
+2024-10-15 01:15:00,Wind onshore,2956.7
+2024-10-15 01:00:00,Solar,0.0
+2024-10-15 01:15:00,Solar,0.0
+2024-10-15 01:00:00,Load,42816.3
+2024-10-15 01:15:00,Load,42759.6
+2024-10-15 01:00:00,Residual load,39144.6
+2024-10-15 01:15:00,Residual load,39136.8
+2024-10-15 01:00:00,Renewable share of generation,35.5
+2024-10-15 01:15:00,Renewable share of generation,35.6
+2024-10-15 01:00:00,Renewable share of load,27.7
+2024-10-15 01:15:00,Renewable share of load,27.5
+2024-10-15 01:15:00,Hydro pumped storage consumption,-2335.6
+2024-10-15 01:30:00,Hydro pumped storage consumption,-2215.7
+2024-10-15 01:15:00,Cross border electricity trading,10122.2
+2024-10-15 01:30:00,Cross border electricity trading,10161.6
+2024-10-15 01:15:00,Hydro Run-of-River,2689.5
+2024-10-15 01:30:00,Hydro Run-of-River,2690.6
+2024-10-15 01:15:00,Biomass,4813.8
+2024-10-15 01:30:00,Biomass,4825.4
+2024-10-15 01:15:00,Fossil brown coal / lignite,11944.6
+2024-10-15 01:30:00,Fossil brown coal / lignite,11919.7
+2024-10-15 01:15:00,Fossil hard coal,4015.8
+2024-10-15 01:30:00,Fossil hard coal,4005.4
+2024-10-15 01:15:00,Fossil oil,237.3
+2024-10-15 01:30:00,Fossil oil,237.3
+2024-10-15 01:15:00,Fossil gas,4123.4
+2024-10-15 01:30:00,Fossil gas,4118.4
+2024-10-15 01:15:00,Geothermal,15.4
+2024-10-15 01:30:00,Geothermal,15.4
+2024-10-15 01:15:00,Hydro water reservoir,58.9
+2024-10-15 01:30:00,Hydro water reservoir,55.4
+2024-10-15 01:15:00,Hydro pumped storage,181.0
+2024-10-15 01:30:00,Hydro pumped storage,179.5
+2024-10-15 01:15:00,Others,179.7
+2024-10-15 01:30:00,Others,179.6
+2024-10-15 01:15:00,Waste,1198.6
+2024-10-15 01:30:00,Waste,1196.5
+2024-10-15 01:15:00,Wind offshore,666.0
+2024-10-15 01:30:00,Wind offshore,679.7
+2024-10-15 01:15:00,Wind onshore,2956.7
+2024-10-15 01:30:00,Wind onshore,2968.4
+2024-10-15 01:15:00,Solar,0.0
+2024-10-15 01:30:00,Solar,0.0
+2024-10-15 01:15:00,Load,42759.6
+2024-10-15 01:30:00,Load,42811.8
+2024-10-15 01:15:00,Residual load,39136.8
+2024-10-15 01:30:00,Residual load,39163.7
+2024-10-15 01:15:00,Renewable share of generation,35.6
+2024-10-15 01:30:00,Renewable share of generation,35.7
+2024-10-15 01:15:00,Renewable share of load,27.5
+2024-10-15 01:30:00,Renewable share of load,27.6
+2024-10-15 01:30:00,Hydro pumped storage consumption,-2215.7
+2024-10-15 01:45:00,Hydro pumped storage consumption,-1993.0
+2024-10-15 01:30:00,Cross border electricity trading,10161.6
+2024-10-15 01:45:00,Cross border electricity trading,10194.0
+2024-10-15 01:30:00,Hydro Run-of-River,2690.6
+2024-10-15 01:45:00,Hydro Run-of-River,2688.8
+2024-10-15 01:30:00,Biomass,4825.4
+2024-10-15 01:45:00,Biomass,4857.0
+2024-10-15 01:30:00,Fossil brown coal / lignite,11919.7
+2024-10-15 01:45:00,Fossil brown coal / lignite,11882.0
+2024-10-15 01:30:00,Fossil hard coal,4005.4
+2024-10-15 01:45:00,Fossil hard coal,4024.4
+2024-10-15 01:30:00,Fossil oil,237.3
+2024-10-15 01:45:00,Fossil oil,237.3
+2024-10-15 01:30:00,Fossil gas,4118.4
+2024-10-15 01:45:00,Fossil gas,4132.2
+2024-10-15 01:30:00,Geothermal,15.4
+2024-10-15 01:45:00,Geothermal,15.4
+2024-10-15 01:30:00,Hydro water reservoir,55.4
+2024-10-15 01:45:00,Hydro water reservoir,47.7
+2024-10-15 01:30:00,Hydro pumped storage,179.5
+2024-10-15 01:45:00,Hydro pumped storage,132.0
+2024-10-15 01:30:00,Others,179.6
+2024-10-15 01:45:00,Others,179.6
+2024-10-15 01:30:00,Waste,1196.5
+2024-10-15 01:45:00,Waste,1195.3
+2024-10-15 01:30:00,Wind offshore,679.7
+2024-10-15 01:45:00,Wind offshore,683.5
+2024-10-15 01:30:00,Wind onshore,2968.4
+2024-10-15 01:45:00,Wind onshore,3025.3
+2024-10-15 01:30:00,Solar,0.0
+2024-10-15 01:45:00,Solar,0.0
+2024-10-15 01:30:00,Load,42811.8
+2024-10-15 01:45:00,Load,43006.3
+2024-10-15 01:30:00,Residual load,39163.7
+2024-10-15 01:45:00,Residual load,39297.5
+2024-10-15 01:30:00,Renewable share of generation,35.7
+2024-10-15 01:45:00,Renewable share of generation,35.9
+2024-10-15 01:30:00,Renewable share of load,27.6
+2024-10-15 01:45:00,Renewable share of load,27.6
+2024-10-15 01:45:00,Hydro pumped storage consumption,-1993.0
+2024-10-15 02:00:00,Hydro pumped storage consumption,-2207.3
+2024-10-15 01:45:00,Cross border electricity trading,10194.0
+2024-10-15 02:00:00,Cross border electricity trading,10478.5
+2024-10-15 01:45:00,Hydro Run-of-River,2688.8
+2024-10-15 02:00:00,Hydro Run-of-River,2688.0
+2024-10-15 01:45:00,Biomass,4857.0
+2024-10-15 02:00:00,Biomass,4882.1
+2024-10-15 01:45:00,Fossil brown coal / lignite,11882.0
+2024-10-15 02:00:00,Fossil brown coal / lignite,11946.3
+2024-10-15 01:45:00,Fossil hard coal,4024.4
+2024-10-15 02:00:00,Fossil hard coal,4076.0
+2024-10-15 01:45:00,Fossil oil,237.3
+2024-10-15 02:00:00,Fossil oil,237.3
+2024-10-15 01:45:00,Fossil gas,4132.2
+2024-10-15 02:00:00,Fossil gas,4359.5
+2024-10-15 01:45:00,Geothermal,15.4
+2024-10-15 02:00:00,Geothermal,15.4
+2024-10-15 01:45:00,Hydro water reservoir,47.7
+2024-10-15 02:00:00,Hydro water reservoir,54.6
+2024-10-15 01:45:00,Hydro pumped storage,132.0
+2024-10-15 02:00:00,Hydro pumped storage,335.9
+2024-10-15 01:45:00,Others,179.6
+2024-10-15 02:00:00,Others,179.6
+2024-10-15 01:45:00,Waste,1195.3
+2024-10-15 02:00:00,Waste,1200.3
+2024-10-15 01:45:00,Wind offshore,683.5
+2024-10-15 02:00:00,Wind offshore,710.0
+2024-10-15 01:45:00,Wind onshore,3025.3
+2024-10-15 02:00:00,Wind onshore,3081.6
+2024-10-15 01:45:00,Solar,0.0
+2024-10-15 02:00:00,Solar,0.0
+2024-10-15 01:45:00,Load,43006.3
+2024-10-15 02:00:00,Load,43316.3
+2024-10-15 01:45:00,Residual load,39297.5
+2024-10-15 02:00:00,Residual load,39524.6
+2024-10-15 01:45:00,Renewable share of generation,35.9
+2024-10-15 02:00:00,Renewable share of generation,35.5
+2024-10-15 01:45:00,Renewable share of load,27.6
+2024-10-15 02:00:00,Renewable share of load,27.7
+2024-10-15 02:00:00,Hydro pumped storage consumption,-2207.3
+2024-10-15 02:15:00,Hydro pumped storage consumption,-2783.3
+2024-10-15 02:00:00,Cross border electricity trading,10478.5
+2024-10-15 02:15:00,Cross border electricity trading,10461.1
+2024-10-15 02:00:00,Hydro Run-of-River,2688.0
+2024-10-15 02:15:00,Hydro Run-of-River,2687.1
+2024-10-15 02:00:00,Biomass,4882.1
+2024-10-15 02:15:00,Biomass,4883.0
+2024-10-15 02:00:00,Fossil brown coal / lignite,11946.3
+2024-10-15 02:15:00,Fossil brown coal / lignite,12123.6
+2024-10-15 02:00:00,Fossil hard coal,4076.0
+2024-10-15 02:15:00,Fossil hard coal,4091.7
+2024-10-15 02:00:00,Fossil oil,237.3
+2024-10-15 02:15:00,Fossil oil,237.3
+2024-10-15 02:00:00,Fossil gas,4359.5
+2024-10-15 02:15:00,Fossil gas,4396.4
+2024-10-15 02:00:00,Geothermal,15.4
+2024-10-15 02:15:00,Geothermal,15.4
+2024-10-15 02:00:00,Hydro water reservoir,54.6
+2024-10-15 02:15:00,Hydro water reservoir,67.4
+2024-10-15 02:00:00,Hydro pumped storage,335.9
+2024-10-15 02:15:00,Hydro pumped storage,430.4
+2024-10-15 02:00:00,Others,179.6
+2024-10-15 02:15:00,Others,179.6
+2024-10-15 02:00:00,Waste,1200.3
+2024-10-15 02:15:00,Waste,1193.4
+2024-10-15 02:00:00,Wind offshore,710.0
+2024-10-15 02:15:00,Wind offshore,758.9
+2024-10-15 02:00:00,Wind onshore,3081.6
+2024-10-15 02:15:00,Wind onshore,3113.6
+2024-10-15 02:00:00,Solar,0.0
+2024-10-15 02:15:00,Solar,0.0
+2024-10-15 02:00:00,Load,43316.3
+2024-10-15 02:15:00,Load,43656.8
+2024-10-15 02:00:00,Residual load,39524.6
+2024-10-15 02:15:00,Residual load,39784.3
+2024-10-15 02:00:00,Renewable share of generation,35.5
+2024-10-15 02:15:00,Renewable share of generation,35.4
+2024-10-15 02:00:00,Renewable share of load,27.7
+2024-10-15 02:15:00,Renewable share of load,27.7
+2024-10-15 02:15:00,Hydro pumped storage consumption,-2783.3
+2024-10-15 02:30:00,Hydro pumped storage consumption,-2352.1
+2024-10-15 02:15:00,Cross border electricity trading,10461.1
+2024-10-15 02:30:00,Cross border electricity trading,10440.3
+2024-10-15 02:15:00,Hydro Run-of-River,2687.1
+2024-10-15 02:30:00,Hydro Run-of-River,2684.8
+2024-10-15 02:15:00,Biomass,4883.0
+2024-10-15 02:30:00,Biomass,4893.7
+2024-10-15 02:15:00,Fossil brown coal / lignite,12123.6
+2024-10-15 02:30:00,Fossil brown coal / lignite,12000.8
+2024-10-15 02:15:00,Fossil hard coal,4091.7
+2024-10-15 02:30:00,Fossil hard coal,4339.2
+2024-10-15 02:15:00,Fossil oil,237.3
+2024-10-15 02:30:00,Fossil oil,237.3
+2024-10-15 02:15:00,Fossil gas,4396.4
+2024-10-15 02:30:00,Fossil gas,4426.2
+2024-10-15 02:15:00,Geothermal,15.4
+2024-10-15 02:30:00,Geothermal,15.4
+2024-10-15 02:15:00,Hydro water reservoir,67.4
+2024-10-15 02:30:00,Hydro water reservoir,103.5
+2024-10-15 02:15:00,Hydro pumped storage,430.4
+2024-10-15 02:30:00,Hydro pumped storage,561.6
+2024-10-15 02:15:00,Others,179.6
+2024-10-15 02:30:00,Others,179.5
+2024-10-15 02:15:00,Waste,1193.4
+2024-10-15 02:30:00,Waste,1190.6
+2024-10-15 02:15:00,Wind offshore,758.9
+2024-10-15 02:30:00,Wind offshore,776.0
+2024-10-15 02:15:00,Wind onshore,3113.6
+2024-10-15 02:30:00,Wind onshore,3107.3
+2024-10-15 02:15:00,Solar,0.0
+2024-10-15 02:30:00,Solar,0.0
+2024-10-15 02:15:00,Load,43656.8
+2024-10-15 02:30:00,Load,44341.3
+2024-10-15 02:15:00,Residual load,39784.3
+2024-10-15 02:30:00,Residual load,40458.1
+2024-10-15 02:15:00,Renewable share of generation,35.4
+2024-10-15 02:30:00,Renewable share of generation,35.2
+2024-10-15 02:15:00,Renewable share of load,27.7
+2024-10-15 02:30:00,Renewable share of load,27.4
+2024-10-15 02:30:00,Hydro pumped storage consumption,-2352.1
+2024-10-15 02:45:00,Hydro pumped storage consumption,-2333.0
+2024-10-15 02:30:00,Cross border electricity trading,10440.3
+2024-10-15 02:45:00,Cross border electricity trading,10385.6
+2024-10-15 02:30:00,Hydro Run-of-River,2684.8
+2024-10-15 02:45:00,Hydro Run-of-River,2683.9
+2024-10-15 02:30:00,Biomass,4893.7
+2024-10-15 02:45:00,Biomass,4923.2
+2024-10-15 02:30:00,Fossil brown coal / lignite,12000.8
+2024-10-15 02:45:00,Fossil brown coal / lignite,11848.2
+2024-10-15 02:30:00,Fossil hard coal,4339.2
+2024-10-15 02:45:00,Fossil hard coal,4534.2
+2024-10-15 02:30:00,Fossil oil,237.3
+2024-10-15 02:45:00,Fossil oil,237.3
+2024-10-15 02:30:00,Fossil gas,4426.2
+2024-10-15 02:45:00,Fossil gas,4467.3
+2024-10-15 02:30:00,Geothermal,15.4
+2024-10-15 02:45:00,Geothermal,15.4
+2024-10-15 02:30:00,Hydro water reservoir,103.5
+2024-10-15 02:45:00,Hydro water reservoir,95.4
+2024-10-15 02:30:00,Hydro pumped storage,561.6
+2024-10-15 02:45:00,Hydro pumped storage,609.0
+2024-10-15 02:30:00,Others,179.5
+2024-10-15 02:45:00,Others,181.2
+2024-10-15 02:30:00,Waste,1190.6
+2024-10-15 02:45:00,Waste,1204.0
+2024-10-15 02:30:00,Wind offshore,776.0
+2024-10-15 02:45:00,Wind offshore,785.8
+2024-10-15 02:30:00,Wind onshore,3107.3
+2024-10-15 02:45:00,Wind onshore,3088.4
+2024-10-15 02:30:00,Solar,0.0
+2024-10-15 02:45:00,Solar,0.0
+2024-10-15 02:30:00,Load,44341.3
+2024-10-15 02:45:00,Load,45040.8
+2024-10-15 02:30:00,Residual load,40458.1
+2024-10-15 02:45:00,Residual load,41166.6
+2024-10-15 02:30:00,Renewable share of generation,35.2
+2024-10-15 02:45:00,Renewable share of generation,35.1
+2024-10-15 02:30:00,Renewable share of load,27.4
+2024-10-15 02:45:00,Renewable share of load,27.0
+2024-10-15 02:45:00,Hydro pumped storage consumption,-2333.0
+2024-10-15 03:00:00,Hydro pumped storage consumption,-1940.5
+2024-10-15 02:45:00,Cross border electricity trading,10385.6
+2024-10-15 03:00:00,Cross border electricity trading,10367.0
+2024-10-15 02:45:00,Hydro Run-of-River,2683.9
+2024-10-15 03:00:00,Hydro Run-of-River,2679.7
+2024-10-15 02:45:00,Biomass,4923.2
+2024-10-15 03:00:00,Biomass,4936.5
+2024-10-15 02:45:00,Fossil brown coal / lignite,11848.2
+2024-10-15 03:00:00,Fossil brown coal / lignite,11826.9
+2024-10-15 02:45:00,Fossil hard coal,4534.2
+2024-10-15 03:00:00,Fossil hard coal,4852.6
+2024-10-15 02:45:00,Fossil oil,237.3
+2024-10-15 03:00:00,Fossil oil,237.3
+2024-10-15 02:45:00,Fossil gas,4467.3
+2024-10-15 03:00:00,Fossil gas,5078.6
+2024-10-15 02:45:00,Geothermal,15.4
+2024-10-15 03:00:00,Geothermal,15.4
+2024-10-15 02:45:00,Hydro water reservoir,95.4
+2024-10-15 03:00:00,Hydro water reservoir,94.1
+2024-10-15 02:45:00,Hydro pumped storage,609.0
+2024-10-15 03:00:00,Hydro pumped storage,420.0
+2024-10-15 02:45:00,Others,181.2
+2024-10-15 03:00:00,Others,187.1
+2024-10-15 02:45:00,Waste,1204.0
+2024-10-15 03:00:00,Waste,1205.7
+2024-10-15 02:45:00,Wind offshore,785.8
+2024-10-15 03:00:00,Wind offshore,798.7
+2024-10-15 02:45:00,Wind onshore,3088.4
+2024-10-15 03:00:00,Wind onshore,3047.5
+2024-10-15 02:45:00,Solar,0.0
+2024-10-15 03:00:00,Solar,0.0
+2024-10-15 02:45:00,Load,45040.8
+2024-10-15 03:00:00,Load,46044.3
+2024-10-15 02:45:00,Residual load,41166.6
+2024-10-15 03:00:00,Residual load,42198.1
+2024-10-15 02:45:00,Renewable share of generation,35.1
+2024-10-15 03:00:00,Renewable share of generation,34.3
+2024-10-15 02:45:00,Renewable share of load,27.0
+2024-10-15 03:00:00,Renewable share of load,26.4
+2024-10-15 03:00:00,Hydro pumped storage consumption,-1940.5
+2024-10-15 03:15:00,Hydro pumped storage consumption,-1118.8
+2024-10-15 03:00:00,Cross border electricity trading,10367.0
+2024-10-15 03:15:00,Cross border electricity trading,10279.8
+2024-10-15 03:00:00,Hydro Run-of-River,2679.7
+2024-10-15 03:15:00,Hydro Run-of-River,2677.8
+2024-10-15 03:00:00,Biomass,4936.5
+2024-10-15 03:15:00,Biomass,4945.9
+2024-10-15 03:00:00,Fossil brown coal / lignite,11826.9
+2024-10-15 03:15:00,Fossil brown coal / lignite,11655.8
+2024-10-15 03:00:00,Fossil hard coal,4852.6
+2024-10-15 03:15:00,Fossil hard coal,5205.8
+2024-10-15 03:00:00,Fossil oil,237.3
+2024-10-15 03:15:00,Fossil oil,237.3
+2024-10-15 03:00:00,Fossil gas,5078.6
+2024-10-15 03:15:00,Fossil gas,5278.2
+2024-10-15 03:00:00,Geothermal,15.4
+2024-10-15 03:15:00,Geothermal,15.4
+2024-10-15 03:00:00,Hydro water reservoir,94.1
+2024-10-15 03:15:00,Hydro water reservoir,126.2
+2024-10-15 03:00:00,Hydro pumped storage,420.0
+2024-10-15 03:15:00,Hydro pumped storage,433.0
+2024-10-15 03:00:00,Others,187.1
+2024-10-15 03:15:00,Others,187.1
+2024-10-15 03:00:00,Waste,1205.7
+2024-10-15 03:15:00,Waste,1200.9
+2024-10-15 03:00:00,Wind offshore,798.7
+2024-10-15 03:15:00,Wind offshore,714.0
+2024-10-15 03:00:00,Wind onshore,3047.5
+2024-10-15 03:15:00,Wind onshore,3021.6
+2024-10-15 03:00:00,Solar,0.0
+2024-10-15 03:15:00,Solar,0.0
+2024-10-15 03:00:00,Load,46044.3
+2024-10-15 03:15:00,Load,46846.3
+2024-10-15 03:00:00,Residual load,42198.1
+2024-10-15 03:15:00,Residual load,43110.8
+2024-10-15 03:00:00,Renewable share of generation,34.3
+2024-10-15 03:15:00,Renewable share of generation,33.8
+2024-10-15 03:00:00,Renewable share of load,26.4
+2024-10-15 03:15:00,Renewable share of load,25.8
+2024-10-15 03:15:00,Hydro pumped storage consumption,-1118.8
+2024-10-15 03:30:00,Hydro pumped storage consumption,-192.7
+2024-10-15 03:15:00,Cross border electricity trading,10279.8
+2024-10-15 03:30:00,Cross border electricity trading,10234.1
+2024-10-15 03:15:00,Hydro Run-of-River,2677.8
+2024-10-15 03:30:00,Hydro Run-of-River,2674.6
+2024-10-15 03:15:00,Biomass,4945.9
+2024-10-15 03:30:00,Biomass,4957.9
+2024-10-15 03:15:00,Fossil brown coal / lignite,11655.8
+2024-10-15 03:30:00,Fossil brown coal / lignite,11554.1
+2024-10-15 03:15:00,Fossil hard coal,5205.8
+2024-10-15 03:30:00,Fossil hard coal,5500.8
+2024-10-15 03:15:00,Fossil oil,237.3
+2024-10-15 03:30:00,Fossil oil,237.3
+2024-10-15 03:15:00,Fossil gas,5278.2
+2024-10-15 03:30:00,Fossil gas,5766.4
+2024-10-15 03:15:00,Geothermal,15.4
+2024-10-15 03:30:00,Geothermal,15.4
+2024-10-15 03:15:00,Hydro water reservoir,126.2
+2024-10-15 03:30:00,Hydro water reservoir,112.2
+2024-10-15 03:15:00,Hydro pumped storage,433.0
+2024-10-15 03:30:00,Hydro pumped storage,489.0
+2024-10-15 03:15:00,Others,187.1
+2024-10-15 03:30:00,Others,187.1
+2024-10-15 03:15:00,Waste,1200.9
+2024-10-15 03:30:00,Waste,1208.5
+2024-10-15 03:15:00,Wind offshore,714.0
+2024-10-15 03:30:00,Wind offshore,665.2
+2024-10-15 03:15:00,Wind onshore,3021.6
+2024-10-15 03:30:00,Wind onshore,2996.3
+2024-10-15 03:15:00,Solar,0.0
+2024-10-15 03:30:00,Solar,0.0
+2024-10-15 03:15:00,Load,46846.3
+2024-10-15 03:30:00,Load,47822.9
+2024-10-15 03:15:00,Residual load,43110.8
+2024-10-15 03:30:00,Residual load,44161.4
+2024-10-15 03:15:00,Renewable share of generation,33.8
+2024-10-15 03:30:00,Renewable share of generation,33.0
+2024-10-15 03:15:00,Renewable share of load,25.8
+2024-10-15 03:30:00,Renewable share of load,25.1
+2024-10-15 03:30:00,Hydro pumped storage consumption,-192.7
+2024-10-15 03:45:00,Hydro pumped storage consumption,-96.9
+2024-10-15 03:30:00,Cross border electricity trading,10234.1
+2024-10-15 03:45:00,Cross border electricity trading,10113.6
+2024-10-15 03:30:00,Hydro Run-of-River,2674.6
+2024-10-15 03:45:00,Hydro Run-of-River,2672.4
+2024-10-15 03:30:00,Biomass,4957.9
+2024-10-15 03:45:00,Biomass,4978.0
+2024-10-15 03:30:00,Fossil brown coal / lignite,11554.1
+2024-10-15 03:45:00,Fossil brown coal / lignite,11366.8
+2024-10-15 03:30:00,Fossil hard coal,5500.8
+2024-10-15 03:45:00,Fossil hard coal,5688.0
+2024-10-15 03:30:00,Fossil oil,237.3
+2024-10-15 03:45:00,Fossil oil,237.3
+2024-10-15 03:30:00,Fossil gas,5766.4
+2024-10-15 03:45:00,Fossil gas,6491.0
+2024-10-15 03:30:00,Geothermal,15.4
+2024-10-15 03:45:00,Geothermal,15.4
+2024-10-15 03:30:00,Hydro water reservoir,112.2
+2024-10-15 03:45:00,Hydro water reservoir,198.6
+2024-10-15 03:30:00,Hydro pumped storage,489.0
+2024-10-15 03:45:00,Hydro pumped storage,669.2
+2024-10-15 03:30:00,Others,187.1
+2024-10-15 03:45:00,Others,187.1
+2024-10-15 03:30:00,Waste,1208.5
+2024-10-15 03:45:00,Waste,1212.5
+2024-10-15 03:30:00,Wind offshore,665.2
+2024-10-15 03:45:00,Wind offshore,629.4
+2024-10-15 03:30:00,Wind onshore,2996.3
+2024-10-15 03:45:00,Wind onshore,3033.4
+2024-10-15 03:30:00,Solar,0.0
+2024-10-15 03:45:00,Solar,0.0
+2024-10-15 03:30:00,Load,47822.9
+2024-10-15 03:45:00,Load,49025.7
+2024-10-15 03:30:00,Residual load,44161.4
+2024-10-15 03:45:00,Residual load,45362.9
+2024-10-15 03:30:00,Renewable share of generation,33.0
+2024-10-15 03:45:00,Renewable share of generation,32.4
+2024-10-15 03:30:00,Renewable share of load,25.1
+2024-10-15 03:45:00,Renewable share of load,24.7
+2024-10-15 03:45:00,Hydro pumped storage consumption,-96.9
+2024-10-15 04:00:00,Hydro pumped storage consumption,-121.0
+2024-10-15 03:45:00,Cross border electricity trading,10113.6
+2024-10-15 04:00:00,Cross border electricity trading,11411.6
+2024-10-15 03:45:00,Hydro Run-of-River,2672.4
+2024-10-15 04:00:00,Hydro Run-of-River,2649.0
+2024-10-15 03:45:00,Biomass,4978.0
+2024-10-15 04:00:00,Biomass,5008.8
+2024-10-15 03:45:00,Fossil brown coal / lignite,11366.8
+2024-10-15 04:00:00,Fossil brown coal / lignite,11305.4
+2024-10-15 03:45:00,Fossil hard coal,5688.0
+2024-10-15 04:00:00,Fossil hard coal,5861.8
+2024-10-15 03:45:00,Fossil oil,237.3
+2024-10-15 04:00:00,Fossil oil,237.3
+2024-10-15 03:45:00,Fossil gas,6491.0
+2024-10-15 04:00:00,Fossil gas,7562.0
+2024-10-15 03:45:00,Geothermal,15.4
+2024-10-15 04:00:00,Geothermal,15.4
+2024-10-15 03:45:00,Hydro water reservoir,198.6
+2024-10-15 04:00:00,Hydro water reservoir,308.7
+2024-10-15 03:45:00,Hydro pumped storage,669.2
+2024-10-15 04:00:00,Hydro pumped storage,806.6
+2024-10-15 03:45:00,Others,187.1
+2024-10-15 04:00:00,Others,186.9
+2024-10-15 03:45:00,Waste,1212.5
+2024-10-15 04:00:00,Waste,1211.9
+2024-10-15 03:45:00,Wind offshore,629.4
+2024-10-15 04:00:00,Wind offshore,629.4
+2024-10-15 03:45:00,Wind onshore,3033.4
+2024-10-15 04:00:00,Wind onshore,3160.8
+2024-10-15 03:45:00,Solar,0.0
+2024-10-15 04:00:00,Solar,0.0
+2024-10-15 03:45:00,Load,49025.7
+2024-10-15 04:00:00,Load,51734.2
+2024-10-15 03:45:00,Residual load,45362.9
+2024-10-15 04:00:00,Residual load,47944.0
+2024-10-15 03:45:00,Renewable share of generation,32.4
+2024-10-15 04:00:00,Renewable share of generation,31.7
+2024-10-15 03:45:00,Renewable share of load,24.7
+2024-10-15 04:00:00,Renewable share of load,23.9
+2024-10-15 04:00:00,Hydro pumped storage consumption,-121.0
+2024-10-15 04:15:00,Hydro pumped storage consumption,-12.3
+2024-10-15 04:00:00,Cross border electricity trading,11411.6
+2024-10-15 04:15:00,Cross border electricity trading,11412.6
+2024-10-15 04:00:00,Hydro Run-of-River,2649.0
+2024-10-15 04:15:00,Hydro Run-of-River,2629.8
+2024-10-15 04:00:00,Biomass,5008.8
+2024-10-15 04:15:00,Biomass,5019.0
+2024-10-15 04:00:00,Fossil brown coal / lignite,11305.4
+2024-10-15 04:15:00,Fossil brown coal / lignite,11316.3
+2024-10-15 04:00:00,Fossil hard coal,5861.8
+2024-10-15 04:15:00,Fossil hard coal,6129.4
+2024-10-15 04:00:00,Fossil oil,237.3
+2024-10-15 04:15:00,Fossil oil,237.3
+2024-10-15 04:00:00,Fossil gas,7562.0
+2024-10-15 04:15:00,Fossil gas,8070.3
+2024-10-15 04:00:00,Geothermal,15.4
+2024-10-15 04:15:00,Geothermal,15.4
+2024-10-15 04:00:00,Hydro water reservoir,308.7
+2024-10-15 04:15:00,Hydro water reservoir,347.4
+2024-10-15 04:00:00,Hydro pumped storage,806.6
+2024-10-15 04:15:00,Hydro pumped storage,1823.3
+2024-10-15 04:00:00,Others,186.9
+2024-10-15 04:15:00,Others,186.9
+2024-10-15 04:00:00,Waste,1211.9
+2024-10-15 04:15:00,Waste,1181.3
+2024-10-15 04:00:00,Wind offshore,629.4
+2024-10-15 04:15:00,Wind offshore,571.6
+2024-10-15 04:00:00,Wind onshore,3160.8
+2024-10-15 04:15:00,Wind onshore,3309.6
+2024-10-15 04:00:00,Solar,0.0
+2024-10-15 04:15:00,Solar,0.0
+2024-10-15 04:00:00,Load,51734.2
+2024-10-15 04:15:00,Load,53652.9
+2024-10-15 04:00:00,Residual load,47944.0
+2024-10-15 04:15:00,Residual load,49771.8
+2024-10-15 04:00:00,Renewable share of generation,31.7
+2024-10-15 04:15:00,Renewable share of generation,30.5
+2024-10-15 04:00:00,Renewable share of load,23.9
+2024-10-15 04:15:00,Renewable share of load,23.2
+2024-10-15 04:15:00,Hydro pumped storage consumption,-12.3
+2024-10-15 04:30:00,Hydro pumped storage consumption,-9.4
+2024-10-15 04:15:00,Cross border electricity trading,11412.6
+2024-10-15 04:30:00,Cross border electricity trading,11172.5
+2024-10-15 04:15:00,Hydro Run-of-River,2629.8
+2024-10-15 04:30:00,Hydro Run-of-River,2616.5
+2024-10-15 04:15:00,Biomass,5019.0
+2024-10-15 04:30:00,Biomass,5043.5
+2024-10-15 04:15:00,Fossil brown coal / lignite,11316.3
+2024-10-15 04:30:00,Fossil brown coal / lignite,11320.6
+2024-10-15 04:15:00,Fossil hard coal,6129.4
+2024-10-15 04:30:00,Fossil hard coal,6336.8
+2024-10-15 04:15:00,Fossil oil,237.3
+2024-10-15 04:30:00,Fossil oil,237.3
+2024-10-15 04:15:00,Fossil gas,8070.3
+2024-10-15 04:30:00,Fossil gas,8493.2
+2024-10-15 04:15:00,Geothermal,15.4
+2024-10-15 04:30:00,Geothermal,15.4
+2024-10-15 04:15:00,Hydro water reservoir,347.4
+2024-10-15 04:30:00,Hydro water reservoir,481.8
+2024-10-15 04:15:00,Hydro pumped storage,1823.3
+2024-10-15 04:30:00,Hydro pumped storage,2979.8
+2024-10-15 04:15:00,Others,186.9
+2024-10-15 04:30:00,Others,187.2
+2024-10-15 04:15:00,Waste,1181.3
+2024-10-15 04:30:00,Waste,1177.9
+2024-10-15 04:15:00,Wind offshore,571.6
+2024-10-15 04:30:00,Wind offshore,490.9
+2024-10-15 04:15:00,Wind onshore,3309.6
+2024-10-15 04:30:00,Wind onshore,3414.6
+2024-10-15 04:15:00,Solar,0.0
+2024-10-15 04:30:00,Solar,0.0
+2024-10-15 04:15:00,Load,53652.9
+2024-10-15 04:30:00,Load,55196.2
+2024-10-15 04:15:00,Residual load,49771.8
+2024-10-15 04:30:00,Residual load,51290.7
+2024-10-15 04:15:00,Renewable share of generation,30.5
+2024-10-15 04:30:00,Renewable share of generation,29.5
+2024-10-15 04:15:00,Renewable share of load,23.2
+2024-10-15 04:30:00,Renewable share of load,22.9
+2024-10-15 04:30:00,Hydro pumped storage consumption,-9.4
+2024-10-15 04:45:00,Hydro pumped storage consumption,-9.8
+2024-10-15 04:30:00,Cross border electricity trading,11172.5
+2024-10-15 04:45:00,Cross border electricity trading,11048.6
+2024-10-15 04:30:00,Hydro Run-of-River,2616.5
+2024-10-15 04:45:00,Hydro Run-of-River,2617.2
+2024-10-15 04:30:00,Biomass,5043.5
+2024-10-15 04:45:00,Biomass,5063.2
+2024-10-15 04:30:00,Fossil brown coal / lignite,11320.6
+2024-10-15 04:45:00,Fossil brown coal / lignite,11299.2
+2024-10-15 04:30:00,Fossil hard coal,6336.8
+2024-10-15 04:45:00,Fossil hard coal,6522.4
+2024-10-15 04:30:00,Fossil oil,237.3
+2024-10-15 04:45:00,Fossil oil,263.2
+2024-10-15 04:30:00,Fossil gas,8493.2
+2024-10-15 04:45:00,Fossil gas,8814.6
+2024-10-15 04:30:00,Geothermal,15.4
+2024-10-15 04:45:00,Geothermal,15.4
+2024-10-15 04:30:00,Hydro water reservoir,481.8
+2024-10-15 04:45:00,Hydro water reservoir,469.5
+2024-10-15 04:30:00,Hydro pumped storage,2979.8
+2024-10-15 04:45:00,Hydro pumped storage,3580.2
+2024-10-15 04:30:00,Others,187.2
+2024-10-15 04:45:00,Others,187.2
+2024-10-15 04:30:00,Waste,1177.9
+2024-10-15 04:45:00,Waste,1177.4
+2024-10-15 04:30:00,Wind offshore,490.9
+2024-10-15 04:45:00,Wind offshore,403.6
+2024-10-15 04:30:00,Wind onshore,3414.6
+2024-10-15 04:45:00,Wind onshore,3549.5
+2024-10-15 04:30:00,Solar,0.0
+2024-10-15 04:45:00,Solar,0.0
+2024-10-15 04:30:00,Load,55196.2
+2024-10-15 04:45:00,Load,56411.1
+2024-10-15 04:30:00,Residual load,51290.7
+2024-10-15 04:45:00,Residual load,52458.0
+2024-10-15 04:30:00,Renewable share of generation,29.5
+2024-10-15 04:45:00,Renewable share of generation,28.8
+2024-10-15 04:30:00,Renewable share of load,22.9
+2024-10-15 04:45:00,Renewable share of load,22.5
+2024-10-15 04:45:00,Hydro pumped storage consumption,-9.8
+2024-10-15 05:00:00,Hydro pumped storage consumption,-9.3
+2024-10-15 04:45:00,Cross border electricity trading,11048.6
+2024-10-15 05:00:00,Cross border electricity trading,12351.9
+2024-10-15 04:45:00,Hydro Run-of-River,2617.2
+2024-10-15 05:00:00,Hydro Run-of-River,2602.3
+2024-10-15 04:45:00,Biomass,5063.2
+2024-10-15 05:00:00,Biomass,5072.6
+2024-10-15 04:45:00,Fossil brown coal / lignite,11299.2
+2024-10-15 05:00:00,Fossil brown coal / lignite,11308.7
+2024-10-15 04:45:00,Fossil hard coal,6522.4
+2024-10-15 05:00:00,Fossil hard coal,6577.8
+2024-10-15 04:45:00,Fossil oil,263.2
+2024-10-15 05:00:00,Fossil oil,340.2
+2024-10-15 04:45:00,Fossil gas,8814.6
+2024-10-15 05:00:00,Fossil gas,9032.8
+2024-10-15 04:45:00,Geothermal,15.4
+2024-10-15 05:00:00,Geothermal,15.4
+2024-10-15 04:45:00,Hydro water reservoir,469.5
+2024-10-15 05:00:00,Hydro water reservoir,448.2
+2024-10-15 04:45:00,Hydro pumped storage,3580.2
+2024-10-15 05:00:00,Hydro pumped storage,3961.2
+2024-10-15 04:45:00,Others,187.2
+2024-10-15 05:00:00,Others,187.3
+2024-10-15 04:45:00,Waste,1177.4
+2024-10-15 05:00:00,Waste,1173.4
+2024-10-15 04:45:00,Wind offshore,403.6
+2024-10-15 05:00:00,Wind offshore,353.3
+2024-10-15 04:45:00,Wind onshore,3549.5
+2024-10-15 05:00:00,Wind onshore,3632.3
+2024-10-15 04:45:00,Solar,0.0
+2024-10-15 05:00:00,Solar,0.0
+2024-10-15 04:45:00,Load,56411.1
+2024-10-15 05:00:00,Load,58521.5
+2024-10-15 04:45:00,Residual load,52458.0
+2024-10-15 05:00:00,Residual load,54535.9
+2024-10-15 04:45:00,Renewable share of generation,28.8
+2024-10-15 05:00:00,Renewable share of generation,28.4
+2024-10-15 04:45:00,Renewable share of load,22.5
+2024-10-15 05:00:00,Renewable share of load,21.7
+2024-10-15 05:00:00,Hydro pumped storage consumption,-9.3
+2024-10-15 05:15:00,Hydro pumped storage consumption,-8.6
+2024-10-15 05:00:00,Cross border electricity trading,12351.9
+2024-10-15 05:15:00,Cross border electricity trading,12304.8
+2024-10-15 05:00:00,Hydro Run-of-River,2602.3
+2024-10-15 05:15:00,Hydro Run-of-River,2569.5
+2024-10-15 05:00:00,Biomass,5072.6
+2024-10-15 05:15:00,Biomass,5068.2
+2024-10-15 05:00:00,Fossil brown coal / lignite,11308.7
+2024-10-15 05:15:00,Fossil brown coal / lignite,11331.3
+2024-10-15 05:00:00,Fossil hard coal,6577.8
+2024-10-15 05:15:00,Fossil hard coal,6608.6
+2024-10-15 05:00:00,Fossil oil,340.2
+2024-10-15 05:15:00,Fossil oil,360.4
+2024-10-15 05:00:00,Fossil gas,9032.8
+2024-10-15 05:15:00,Fossil gas,9113.2
+2024-10-15 05:00:00,Geothermal,15.4
+2024-10-15 05:15:00,Geothermal,15.4
+2024-10-15 05:00:00,Hydro water reservoir,448.2
+2024-10-15 05:15:00,Hydro water reservoir,444.5
+2024-10-15 05:00:00,Hydro pumped storage,3961.2
+2024-10-15 05:15:00,Hydro pumped storage,4883.3
+2024-10-15 05:00:00,Others,187.3
+2024-10-15 05:15:00,Others,187.2
+2024-10-15 05:00:00,Waste,1173.4
+2024-10-15 05:15:00,Waste,1161.2
+2024-10-15 05:00:00,Wind offshore,353.3
+2024-10-15 05:15:00,Wind offshore,364.8
+2024-10-15 05:00:00,Wind onshore,3632.3
+2024-10-15 05:15:00,Wind onshore,3723.2
+2024-10-15 05:00:00,Solar,0.0
+2024-10-15 05:15:00,Solar,9.9
+2024-10-15 05:00:00,Load,58521.5
+2024-10-15 05:15:00,Load,59417.5
+2024-10-15 05:00:00,Residual load,54535.9
+2024-10-15 05:15:00,Residual load,55319.6
+2024-10-15 05:00:00,Renewable share of generation,28.4
+2024-10-15 05:15:00,Renewable share of generation,27.8
+2024-10-15 05:00:00,Renewable share of load,21.7
+2024-10-15 05:15:00,Renewable share of load,21.4
+2024-10-15 05:15:00,Hydro pumped storage consumption,-8.6
+2024-10-15 05:30:00,Hydro pumped storage consumption,-9.0
+2024-10-15 05:15:00,Cross border electricity trading,12304.8
+2024-10-15 05:30:00,Cross border electricity trading,12363.2
+2024-10-15 05:15:00,Hydro Run-of-River,2569.5
+2024-10-15 05:30:00,Hydro Run-of-River,2566.7
+2024-10-15 05:15:00,Biomass,5068.2
+2024-10-15 05:30:00,Biomass,5087.3
+2024-10-15 05:15:00,Fossil brown coal / lignite,11331.3
+2024-10-15 05:30:00,Fossil brown coal / lignite,11352.8
+2024-10-15 05:15:00,Fossil hard coal,6608.6
+2024-10-15 05:30:00,Fossil hard coal,6611.9
+2024-10-15 05:15:00,Fossil oil,360.4
+2024-10-15 05:30:00,Fossil oil,360.3
+2024-10-15 05:15:00,Fossil gas,9113.2
+2024-10-15 05:30:00,Fossil gas,9147.5
+2024-10-15 05:15:00,Geothermal,15.4
+2024-10-15 05:30:00,Geothermal,15.4
+2024-10-15 05:15:00,Hydro water reservoir,444.5
+2024-10-15 05:30:00,Hydro water reservoir,419.3
+2024-10-15 05:15:00,Hydro pumped storage,4883.3
+2024-10-15 05:30:00,Hydro pumped storage,5319.7
+2024-10-15 05:15:00,Others,187.2
+2024-10-15 05:30:00,Others,187.3
+2024-10-15 05:15:00,Waste,1161.2
+2024-10-15 05:30:00,Waste,1176.1
+2024-10-15 05:15:00,Wind offshore,364.8
+2024-10-15 05:30:00,Wind offshore,383.1
+2024-10-15 05:15:00,Wind onshore,3723.2
+2024-10-15 05:30:00,Wind onshore,3837.0
+2024-10-15 05:15:00,Solar,9.9
+2024-10-15 05:30:00,Solar,85.5
+2024-10-15 05:15:00,Load,59417.5
+2024-10-15 05:30:00,Load,60102.2
+2024-10-15 05:15:00,Residual load,55319.6
+2024-10-15 05:30:00,Residual load,55796.7
+2024-10-15 05:15:00,Renewable share of generation,27.8
+2024-10-15 05:30:00,Renewable share of generation,27.8
+2024-10-15 05:15:00,Renewable share of load,21.4
+2024-10-15 05:30:00,Renewable share of load,21.5
+2024-10-15 05:30:00,Hydro pumped storage consumption,-9.0
+2024-10-15 05:45:00,Hydro pumped storage consumption,-8.6
+2024-10-15 05:30:00,Cross border electricity trading,12363.2
+2024-10-15 05:45:00,Cross border electricity trading,12466.1
+2024-10-15 05:30:00,Hydro Run-of-River,2566.7
+2024-10-15 05:45:00,Hydro Run-of-River,2560.9
+2024-10-15 05:30:00,Biomass,5087.3
+2024-10-15 05:45:00,Biomass,5057.2
+2024-10-15 05:30:00,Fossil brown coal / lignite,11352.8
+2024-10-15 05:45:00,Fossil brown coal / lignite,11363.7
+2024-10-15 05:30:00,Fossil hard coal,6611.9
+2024-10-15 05:45:00,Fossil hard coal,6621.6
+2024-10-15 05:30:00,Fossil oil,360.3
+2024-10-15 05:45:00,Fossil oil,360.4
+2024-10-15 05:30:00,Fossil gas,9147.5
+2024-10-15 05:45:00,Fossil gas,9155.6
+2024-10-15 05:30:00,Geothermal,15.4
+2024-10-15 05:45:00,Geothermal,15.4
+2024-10-15 05:30:00,Hydro water reservoir,419.3
+2024-10-15 05:45:00,Hydro water reservoir,424.0
+2024-10-15 05:30:00,Hydro pumped storage,5319.7
+2024-10-15 05:45:00,Hydro pumped storage,5229.1
+2024-10-15 05:30:00,Others,187.3
+2024-10-15 05:45:00,Others,187.2
+2024-10-15 05:30:00,Waste,1176.1
+2024-10-15 05:45:00,Waste,1180.0
+2024-10-15 05:30:00,Wind offshore,383.1
+2024-10-15 05:45:00,Wind offshore,368.7
+2024-10-15 05:30:00,Wind onshore,3837.0
+2024-10-15 05:45:00,Wind onshore,3996.8
+2024-10-15 05:30:00,Solar,85.5
+2024-10-15 05:45:00,Solar,339.2
+2024-10-15 05:30:00,Load,60102.2
+2024-10-15 05:45:00,Load,60446.9
+2024-10-15 05:30:00,Residual load,55796.7
+2024-10-15 05:45:00,Residual load,55742.3
+2024-10-15 05:30:00,Renewable share of generation,27.8
+2024-10-15 05:45:00,Renewable share of generation,28.4
+2024-10-15 05:30:00,Renewable share of load,21.5
+2024-10-15 05:45:00,Renewable share of load,22.0
+2024-10-15 05:45:00,Hydro pumped storage consumption,-8.6
+2024-10-15 06:00:00,Hydro pumped storage consumption,-8.1
+2024-10-15 05:45:00,Cross border electricity trading,12466.1
+2024-10-15 06:00:00,Cross border electricity trading,12166.0
+2024-10-15 05:45:00,Hydro Run-of-River,2560.9
+2024-10-15 06:00:00,Hydro Run-of-River,2536.1
+2024-10-15 05:45:00,Biomass,5057.2
+2024-10-15 06:00:00,Biomass,5044.6
+2024-10-15 05:45:00,Fossil brown coal / lignite,11363.7
+2024-10-15 06:00:00,Fossil brown coal / lignite,11357.9
+2024-10-15 05:45:00,Fossil hard coal,6621.6
+2024-10-15 06:00:00,Fossil hard coal,6651.9
+2024-10-15 05:45:00,Fossil oil,360.4
+2024-10-15 06:00:00,Fossil oil,360.4
+2024-10-15 05:45:00,Fossil gas,9155.6
+2024-10-15 06:00:00,Fossil gas,9267.7
+2024-10-15 05:45:00,Geothermal,15.4
+2024-10-15 06:00:00,Geothermal,15.4
+2024-10-15 05:45:00,Hydro water reservoir,424.0
+2024-10-15 06:00:00,Hydro water reservoir,482.2
+2024-10-15 05:45:00,Hydro pumped storage,5229.1
+2024-10-15 06:00:00,Hydro pumped storage,4895.8
+2024-10-15 05:45:00,Others,187.2
+2024-10-15 06:00:00,Others,187.3
+2024-10-15 05:45:00,Waste,1180.0
+2024-10-15 06:00:00,Waste,1191.5
+2024-10-15 05:45:00,Wind offshore,368.7
+2024-10-15 06:00:00,Wind offshore,321.8
+2024-10-15 05:45:00,Wind onshore,3996.8
+2024-10-15 06:00:00,Wind onshore,4170.9
+2024-10-15 05:45:00,Solar,339.2
+2024-10-15 06:00:00,Solar,956.8
+2024-10-15 05:45:00,Load,60446.9
+2024-10-15 06:00:00,Load,61161.4
+2024-10-15 05:45:00,Residual load,55742.3
+2024-10-15 06:00:00,Residual load,55711.8
+2024-10-15 05:45:00,Renewable share of generation,28.4
+2024-10-15 06:00:00,Renewable share of generation,29.7
+2024-10-15 05:45:00,Renewable share of load,22.0
+2024-10-15 06:00:00,Renewable share of load,23.0
+2024-10-15 06:00:00,Hydro pumped storage consumption,-8.1
+2024-10-15 06:15:00,Hydro pumped storage consumption,-8.2
+2024-10-15 06:00:00,Cross border electricity trading,12166.0
+2024-10-15 06:15:00,Cross border electricity trading,11992.4
+2024-10-15 06:00:00,Hydro Run-of-River,2536.1
+2024-10-15 06:15:00,Hydro Run-of-River,2536.5
+2024-10-15 06:00:00,Biomass,5044.6
+2024-10-15 06:15:00,Biomass,5058.0
+2024-10-15 06:00:00,Fossil brown coal / lignite,11357.9
+2024-10-15 06:15:00,Fossil brown coal / lignite,11368.2
+2024-10-15 06:00:00,Fossil hard coal,6651.9
+2024-10-15 06:15:00,Fossil hard coal,6623.6
+2024-10-15 06:00:00,Fossil oil,360.4
+2024-10-15 06:15:00,Fossil oil,333.1
+2024-10-15 06:00:00,Fossil gas,9267.7
+2024-10-15 06:15:00,Fossil gas,9267.2
+2024-10-15 06:00:00,Geothermal,15.4
+2024-10-15 06:15:00,Geothermal,15.4
+2024-10-15 06:00:00,Hydro water reservoir,482.2
+2024-10-15 06:15:00,Hydro water reservoir,485.5
+2024-10-15 06:00:00,Hydro pumped storage,4895.8
+2024-10-15 06:15:00,Hydro pumped storage,4647.2
+2024-10-15 06:00:00,Others,187.3
+2024-10-15 06:15:00,Others,187.4
+2024-10-15 06:00:00,Waste,1191.5
+2024-10-15 06:15:00,Waste,1188.0
+2024-10-15 06:00:00,Wind offshore,321.8
+2024-10-15 06:15:00,Wind offshore,324.4
+2024-10-15 06:00:00,Wind onshore,4170.9
+2024-10-15 06:15:00,Wind onshore,4210.3
+2024-10-15 06:00:00,Solar,956.8
+2024-10-15 06:15:00,Solar,2060.5
+2024-10-15 06:00:00,Load,61161.4
+2024-10-15 06:15:00,Load,62095.7
+2024-10-15 06:00:00,Residual load,55711.8
+2024-10-15 06:15:00,Residual load,55500.5
+2024-10-15 06:00:00,Renewable share of generation,29.7
+2024-10-15 06:15:00,Renewable share of generation,31.6
+2024-10-15 06:00:00,Renewable share of load,23.0
+2024-10-15 06:15:00,Renewable share of load,24.6
+2024-10-15 06:15:00,Hydro pumped storage consumption,-8.2
+2024-10-15 06:30:00,Hydro pumped storage consumption,-8.1
+2024-10-15 06:15:00,Cross border electricity trading,11992.4
+2024-10-15 06:30:00,Cross border electricity trading,11936.9
+2024-10-15 06:15:00,Hydro Run-of-River,2536.5
+2024-10-15 06:30:00,Hydro Run-of-River,2545.6
+2024-10-15 06:15:00,Biomass,5058.0
+2024-10-15 06:30:00,Biomass,5072.1
+2024-10-15 06:15:00,Fossil brown coal / lignite,11368.2
+2024-10-15 06:30:00,Fossil brown coal / lignite,11328.6
+2024-10-15 06:15:00,Fossil hard coal,6623.6
+2024-10-15 06:30:00,Fossil hard coal,6612.6
+2024-10-15 06:15:00,Fossil oil,333.1
+2024-10-15 06:30:00,Fossil oil,282.6
+2024-10-15 06:15:00,Fossil gas,9267.2
+2024-10-15 06:30:00,Fossil gas,9206.9
+2024-10-15 06:15:00,Geothermal,15.4
+2024-10-15 06:30:00,Geothermal,15.4
+2024-10-15 06:15:00,Hydro water reservoir,485.5
+2024-10-15 06:30:00,Hydro water reservoir,450.8
+2024-10-15 06:15:00,Hydro pumped storage,4647.2
+2024-10-15 06:30:00,Hydro pumped storage,3874.8
+2024-10-15 06:15:00,Others,187.4
+2024-10-15 06:30:00,Others,187.4
+2024-10-15 06:15:00,Waste,1188.0
+2024-10-15 06:30:00,Waste,1185.0
+2024-10-15 06:15:00,Wind offshore,324.4
+2024-10-15 06:30:00,Wind offshore,395.6
+2024-10-15 06:15:00,Wind onshore,4210.3
+2024-10-15 06:30:00,Wind onshore,4230.0
+2024-10-15 06:15:00,Solar,2060.5
+2024-10-15 06:30:00,Solar,3393.6
+2024-10-15 06:15:00,Load,62095.7
+2024-10-15 06:30:00,Load,62752.4
+2024-10-15 06:15:00,Residual load,55500.5
+2024-10-15 06:30:00,Residual load,54733.2
+2024-10-15 06:15:00,Renewable share of generation,31.6
+2024-10-15 06:30:00,Renewable share of generation,34.2
+2024-10-15 06:15:00,Renewable share of load,24.6
+2024-10-15 06:30:00,Renewable share of load,26.6
+2024-10-15 06:30:00,Hydro pumped storage consumption,-8.1
+2024-10-15 06:45:00,Hydro pumped storage consumption,-8.7
+2024-10-15 06:30:00,Cross border electricity trading,11936.9
+2024-10-15 06:45:00,Cross border electricity trading,11888.9
+2024-10-15 06:30:00,Hydro Run-of-River,2545.6
+2024-10-15 06:45:00,Hydro Run-of-River,2545.1
+2024-10-15 06:30:00,Biomass,5072.1
+2024-10-15 06:45:00,Biomass,5031.7
+2024-10-15 06:30:00,Fossil brown coal / lignite,11328.6
+2024-10-15 06:45:00,Fossil brown coal / lignite,11307.5
+2024-10-15 06:30:00,Fossil hard coal,6612.6
+2024-10-15 06:45:00,Fossil hard coal,6616.5
+2024-10-15 06:30:00,Fossil oil,282.6
+2024-10-15 06:45:00,Fossil oil,237.3
+2024-10-15 06:30:00,Fossil gas,9206.9
+2024-10-15 06:45:00,Fossil gas,9186.7
+2024-10-15 06:30:00,Geothermal,15.4
+2024-10-15 06:45:00,Geothermal,15.4
+2024-10-15 06:30:00,Hydro water reservoir,450.8
+2024-10-15 06:45:00,Hydro water reservoir,373.1
+2024-10-15 06:30:00,Hydro pumped storage,3874.8
+2024-10-15 06:45:00,Hydro pumped storage,3181.0
+2024-10-15 06:30:00,Others,187.4
+2024-10-15 06:45:00,Others,186.9
+2024-10-15 06:30:00,Waste,1185.0
+2024-10-15 06:45:00,Waste,1176.3
+2024-10-15 06:30:00,Wind offshore,395.6
+2024-10-15 06:45:00,Wind offshore,454.6
+2024-10-15 06:30:00,Wind onshore,4230.0
+2024-10-15 06:45:00,Wind onshore,4219.6
+2024-10-15 06:30:00,Solar,3393.6
+2024-10-15 06:45:00,Solar,4866.2
+2024-10-15 06:30:00,Load,62752.4
+2024-10-15 06:45:00,Load,63425.2
+2024-10-15 06:30:00,Residual load,54733.2
+2024-10-15 06:45:00,Residual load,53884.8
+2024-10-15 06:30:00,Renewable share of generation,34.2
+2024-10-15 06:45:00,Renewable share of generation,36.6
+2024-10-15 06:30:00,Renewable share of load,26.6
+2024-10-15 06:45:00,Renewable share of load,28.5
+2024-10-15 06:45:00,Hydro pumped storage consumption,-8.7
+2024-10-15 07:00:00,Hydro pumped storage consumption,-11.8
+2024-10-15 06:45:00,Cross border electricity trading,11888.9
+2024-10-15 07:00:00,Cross border electricity trading,10476.0
+2024-10-15 06:45:00,Hydro Run-of-River,2545.1
+2024-10-15 07:00:00,Hydro Run-of-River,2553.0
+2024-10-15 06:45:00,Biomass,5031.7
+2024-10-15 07:00:00,Biomass,5022.6
+2024-10-15 06:45:00,Fossil brown coal / lignite,11307.5
+2024-10-15 07:00:00,Fossil brown coal / lignite,11275.1
+2024-10-15 06:45:00,Fossil hard coal,6616.5
+2024-10-15 07:00:00,Fossil hard coal,6604.6
+2024-10-15 06:45:00,Fossil oil,237.3
+2024-10-15 07:00:00,Fossil oil,237.3
+2024-10-15 06:45:00,Fossil gas,9186.7
+2024-10-15 07:00:00,Fossil gas,8893.6
+2024-10-15 06:45:00,Geothermal,15.4
+2024-10-15 07:00:00,Geothermal,15.4
+2024-10-15 06:45:00,Hydro water reservoir,373.1
+2024-10-15 07:00:00,Hydro water reservoir,483.7
+2024-10-15 06:45:00,Hydro pumped storage,3181.0
+2024-10-15 07:00:00,Hydro pumped storage,2529.7
+2024-10-15 06:45:00,Others,186.9
+2024-10-15 07:00:00,Others,186.9
+2024-10-15 06:45:00,Waste,1176.3
+2024-10-15 07:00:00,Waste,1172.3
+2024-10-15 06:45:00,Wind offshore,454.6
+2024-10-15 07:00:00,Wind offshore,495.8
+2024-10-15 06:45:00,Wind onshore,4219.6
+2024-10-15 07:00:00,Wind onshore,4174.0
+2024-10-15 06:45:00,Solar,4866.2
+2024-10-15 07:00:00,Solar,6664.6
+2024-10-15 06:45:00,Load,63425.2
+2024-10-15 07:00:00,Load,62924.2
+2024-10-15 06:45:00,Residual load,53884.8
+2024-10-15 07:00:00,Residual load,51589.8
+2024-10-15 06:45:00,Renewable share of generation,36.6
+2024-10-15 07:00:00,Renewable share of generation,39.7
+2024-10-15 06:45:00,Renewable share of load,28.5
+2024-10-15 07:00:00,Renewable share of load,31.7
+2024-10-15 07:00:00,Hydro pumped storage consumption,-11.8
+2024-10-15 07:15:00,Hydro pumped storage consumption,-14.5
+2024-10-15 07:00:00,Cross border electricity trading,10476.0
+2024-10-15 07:15:00,Cross border electricity trading,10408.0
+2024-10-15 07:00:00,Hydro Run-of-River,2553.0
+2024-10-15 07:15:00,Hydro Run-of-River,2557.9
+2024-10-15 07:00:00,Biomass,5022.6
+2024-10-15 07:15:00,Biomass,5019.8
+2024-10-15 07:00:00,Fossil brown coal / lignite,11275.1
+2024-10-15 07:15:00,Fossil brown coal / lignite,10766.7
+2024-10-15 07:00:00,Fossil hard coal,6604.6
+2024-10-15 07:15:00,Fossil hard coal,6408.4
+2024-10-15 07:00:00,Fossil oil,237.3
+2024-10-15 07:15:00,Fossil oil,237.3
+2024-10-15 07:00:00,Fossil gas,8893.6
+2024-10-15 07:15:00,Fossil gas,8393.2
+2024-10-15 07:00:00,Geothermal,15.4
+2024-10-15 07:15:00,Geothermal,15.4
+2024-10-15 07:00:00,Hydro water reservoir,483.7
+2024-10-15 07:15:00,Hydro water reservoir,464.0
+2024-10-15 07:00:00,Hydro pumped storage,2529.7
+2024-10-15 07:15:00,Hydro pumped storage,1628.7
+2024-10-15 07:00:00,Others,186.9
+2024-10-15 07:15:00,Others,186.8
+2024-10-15 07:00:00,Waste,1172.3
+2024-10-15 07:15:00,Waste,1186.7
+2024-10-15 07:00:00,Wind offshore,495.8
+2024-10-15 07:15:00,Wind offshore,503.2
+2024-10-15 07:00:00,Wind onshore,4174.0
+2024-10-15 07:15:00,Wind onshore,4211.0
+2024-10-15 07:00:00,Solar,6664.6
+2024-10-15 07:15:00,Solar,8696.0
+2024-10-15 07:00:00,Load,62924.2
+2024-10-15 07:15:00,Load,62464.7
+2024-10-15 07:00:00,Residual load,51589.8
+2024-10-15 07:15:00,Residual load,49054.4
+2024-10-15 07:00:00,Renewable share of generation,39.7
+2024-10-15 07:15:00,Renewable share of generation,43.8
+2024-10-15 07:00:00,Renewable share of load,31.7
+2024-10-15 07:15:00,Renewable share of load,35.3
+2024-10-15 07:15:00,Hydro pumped storage consumption,-14.5
+2024-10-15 07:30:00,Hydro pumped storage consumption,-25.1
+2024-10-15 07:15:00,Cross border electricity trading,10408.0
+2024-10-15 07:30:00,Cross border electricity trading,10693.2
+2024-10-15 07:15:00,Hydro Run-of-River,2557.9
+2024-10-15 07:30:00,Hydro Run-of-River,2559.0
+2024-10-15 07:15:00,Biomass,5019.8
+2024-10-15 07:30:00,Biomass,5011.1
+2024-10-15 07:15:00,Fossil brown coal / lignite,10766.7
+2024-10-15 07:30:00,Fossil brown coal / lignite,11243.4
+2024-10-15 07:15:00,Fossil hard coal,6408.4
+2024-10-15 07:30:00,Fossil hard coal,6195.1
+2024-10-15 07:15:00,Fossil oil,237.3
+2024-10-15 07:30:00,Fossil oil,237.3
+2024-10-15 07:15:00,Fossil gas,8393.2
+2024-10-15 07:30:00,Fossil gas,7645.1
+2024-10-15 07:15:00,Geothermal,15.4
+2024-10-15 07:30:00,Geothermal,15.4
+2024-10-15 07:15:00,Hydro water reservoir,464.0
+2024-10-15 07:30:00,Hydro water reservoir,310.5
+2024-10-15 07:15:00,Hydro pumped storage,1628.7
+2024-10-15 07:30:00,Hydro pumped storage,1319.8
+2024-10-15 07:15:00,Others,186.8
+2024-10-15 07:30:00,Others,187.0
+2024-10-15 07:15:00,Waste,1186.7
+2024-10-15 07:30:00,Waste,1182.6
+2024-10-15 07:15:00,Wind offshore,503.2
+2024-10-15 07:30:00,Wind offshore,568.1
+2024-10-15 07:15:00,Wind onshore,4211.0
+2024-10-15 07:30:00,Wind onshore,4182.6
+2024-10-15 07:15:00,Solar,8696.0
+2024-10-15 07:30:00,Solar,10615.7
+2024-10-15 07:15:00,Load,62464.7
+2024-10-15 07:30:00,Load,64544.7
+2024-10-15 07:15:00,Residual load,49054.4
+2024-10-15 07:30:00,Residual load,49178.4
+2024-10-15 07:15:00,Renewable share of generation,43.8
+2024-10-15 07:30:00,Renewable share of generation,46.5
+2024-10-15 07:15:00,Renewable share of load,35.3
+2024-10-15 07:30:00,Renewable share of load,36.9
+2024-10-15 07:30:00,Hydro pumped storage consumption,-25.1
+2024-10-15 07:45:00,Hydro pumped storage consumption,-18.0
+2024-10-15 07:30:00,Cross border electricity trading,10693.2
+2024-10-15 07:45:00,Cross border electricity trading,10651.3
+2024-10-15 07:30:00,Hydro Run-of-River,2559.0
+2024-10-15 07:45:00,Hydro Run-of-River,2572.2
+2024-10-15 07:30:00,Biomass,5011.1
+2024-10-15 07:45:00,Biomass,4967.4
+2024-10-15 07:30:00,Fossil brown coal / lignite,11243.4
+2024-10-15 07:45:00,Fossil brown coal / lignite,11307.0
+2024-10-15 07:30:00,Fossil hard coal,6195.1
+2024-10-15 07:45:00,Fossil hard coal,5963.0
+2024-10-15 07:30:00,Fossil oil,237.3
+2024-10-15 07:45:00,Fossil oil,237.3
+2024-10-15 07:30:00,Fossil gas,7645.1
+2024-10-15 07:45:00,Fossil gas,7111.0
+2024-10-15 07:30:00,Geothermal,15.4
+2024-10-15 07:45:00,Geothermal,15.4
+2024-10-15 07:30:00,Hydro water reservoir,310.5
+2024-10-15 07:45:00,Hydro water reservoir,226.8
+2024-10-15 07:30:00,Hydro pumped storage,1319.8
+2024-10-15 07:45:00,Hydro pumped storage,718.8
+2024-10-15 07:30:00,Others,187.0
+2024-10-15 07:45:00,Others,187.1
+2024-10-15 07:30:00,Waste,1182.6
+2024-10-15 07:45:00,Waste,1175.2
+2024-10-15 07:30:00,Wind offshore,568.1
+2024-10-15 07:45:00,Wind offshore,555.5
+2024-10-15 07:30:00,Wind onshore,4182.6
+2024-10-15 07:45:00,Wind onshore,4021.7
+2024-10-15 07:30:00,Solar,10615.7
+2024-10-15 07:45:00,Solar,12214.2
+2024-10-15 07:30:00,Load,64544.7
+2024-10-15 07:45:00,Load,64750.9
+2024-10-15 07:30:00,Residual load,49178.4
+2024-10-15 07:45:00,Residual load,47959.5
+2024-10-15 07:30:00,Renewable share of generation,46.5
+2024-10-15 07:45:00,Renewable share of generation,49.0
+2024-10-15 07:30:00,Renewable share of load,36.9
+2024-10-15 07:45:00,Renewable share of load,38.8
+2024-10-15 07:45:00,Hydro pumped storage consumption,-18.0
+2024-10-15 08:00:00,Hydro pumped storage consumption,-142.8
+2024-10-15 07:45:00,Cross border electricity trading,10651.3
+2024-10-15 08:00:00,Cross border electricity trading,7993.1
+2024-10-15 07:45:00,Hydro Run-of-River,2572.2
+2024-10-15 08:00:00,Hydro Run-of-River,2579.3
+2024-10-15 07:45:00,Biomass,4967.4
+2024-10-15 08:00:00,Biomass,4956.6
+2024-10-15 07:45:00,Fossil brown coal / lignite,11307.0
+2024-10-15 08:00:00,Fossil brown coal / lignite,11300.0
+2024-10-15 07:45:00,Fossil hard coal,5963.0
+2024-10-15 08:00:00,Fossil hard coal,5767.3
+2024-10-15 07:45:00,Fossil oil,237.3
+2024-10-15 08:00:00,Fossil oil,237.3
+2024-10-15 07:45:00,Fossil gas,7111.0
+2024-10-15 08:00:00,Fossil gas,6545.2
+2024-10-15 07:45:00,Geothermal,15.4
+2024-10-15 08:00:00,Geothermal,15.4
+2024-10-15 07:45:00,Hydro water reservoir,226.8
+2024-10-15 08:00:00,Hydro water reservoir,407.3
+2024-10-15 07:45:00,Hydro pumped storage,718.8
+2024-10-15 08:00:00,Hydro pumped storage,922.1
+2024-10-15 07:45:00,Others,187.1
+2024-10-15 08:00:00,Others,187.1
+2024-10-15 07:45:00,Waste,1175.2
+2024-10-15 08:00:00,Waste,1161.6
+2024-10-15 07:45:00,Wind offshore,555.5
+2024-10-15 08:00:00,Wind offshore,591.6
+2024-10-15 07:45:00,Wind onshore,4021.7
+2024-10-15 08:00:00,Wind onshore,3879.5
+2024-10-15 07:45:00,Solar,12214.2
+2024-10-15 08:00:00,Solar,13734.9
+2024-10-15 07:45:00,Load,64750.9
+2024-10-15 08:00:00,Load,64436.1
+2024-10-15 07:45:00,Residual load,47959.5
+2024-10-15 08:00:00,Residual load,46230.2
+2024-10-15 07:45:00,Renewable share of generation,49.0
+2024-10-15 08:00:00,Renewable share of generation,51.1
+2024-10-15 07:45:00,Renewable share of load,38.8
+2024-10-15 08:00:00,Renewable share of load,41.5
+2024-10-15 08:00:00,Hydro pumped storage consumption,-142.8
+2024-10-15 08:15:00,Hydro pumped storage consumption,-150.0
+2024-10-15 08:00:00,Cross border electricity trading,7993.1
+2024-10-15 08:15:00,Cross border electricity trading,8101.3
+2024-10-15 08:00:00,Hydro Run-of-River,2579.3
+2024-10-15 08:15:00,Hydro Run-of-River,2578.3
+2024-10-15 08:00:00,Biomass,4956.6
+2024-10-15 08:15:00,Biomass,4945.6
+2024-10-15 08:00:00,Fossil brown coal / lignite,11300.0
+2024-10-15 08:15:00,Fossil brown coal / lignite,11263.7
+2024-10-15 08:00:00,Fossil hard coal,5767.3
+2024-10-15 08:15:00,Fossil hard coal,5554.9
+2024-10-15 08:00:00,Fossil oil,237.3
+2024-10-15 08:15:00,Fossil oil,237.3
+2024-10-15 08:00:00,Fossil gas,6545.2
+2024-10-15 08:15:00,Fossil gas,6240.0
+2024-10-15 08:00:00,Geothermal,15.4
+2024-10-15 08:15:00,Geothermal,15.4
+2024-10-15 08:00:00,Hydro water reservoir,407.3
+2024-10-15 08:15:00,Hydro water reservoir,256.0
+2024-10-15 08:00:00,Hydro pumped storage,922.1
+2024-10-15 08:15:00,Hydro pumped storage,965.4
+2024-10-15 08:00:00,Others,187.1
+2024-10-15 08:15:00,Others,187.0
+2024-10-15 08:00:00,Waste,1161.6
+2024-10-15 08:15:00,Waste,1142.6
+2024-10-15 08:00:00,Wind offshore,591.6
+2024-10-15 08:15:00,Wind offshore,693.0
+2024-10-15 08:00:00,Wind onshore,3879.5
+2024-10-15 08:15:00,Wind onshore,3600.2
+2024-10-15 08:00:00,Solar,13734.9
+2024-10-15 08:15:00,Solar,15408.1
+2024-10-15 08:00:00,Load,64436.1
+2024-10-15 08:15:00,Load,65401.1
+2024-10-15 08:00:00,Residual load,46230.2
+2024-10-15 08:15:00,Residual load,45699.8
+2024-10-15 08:00:00,Renewable share of generation,51.1
+2024-10-15 08:15:00,Renewable share of generation,52.8
+2024-10-15 08:00:00,Renewable share of load,41.5
+2024-10-15 08:15:00,Renewable share of load,42.9
+2024-10-15 08:15:00,Hydro pumped storage consumption,-150.0
+2024-10-15 08:30:00,Hydro pumped storage consumption,-154.1
+2024-10-15 08:15:00,Cross border electricity trading,8101.3
+2024-10-15 08:30:00,Cross border electricity trading,8149.4
+2024-10-15 08:15:00,Hydro Run-of-River,2578.3
+2024-10-15 08:30:00,Hydro Run-of-River,2570.3
+2024-10-15 08:15:00,Biomass,4945.6
+2024-10-15 08:30:00,Biomass,4921.1
+2024-10-15 08:15:00,Fossil brown coal / lignite,11263.7
+2024-10-15 08:30:00,Fossil brown coal / lignite,11195.5
+2024-10-15 08:15:00,Fossil hard coal,5554.9
+2024-10-15 08:30:00,Fossil hard coal,5122.0
+2024-10-15 08:15:00,Fossil oil,237.3
+2024-10-15 08:30:00,Fossil oil,237.3
+2024-10-15 08:15:00,Fossil gas,6240.0
+2024-10-15 08:30:00,Fossil gas,5766.3
+2024-10-15 08:15:00,Geothermal,15.4
+2024-10-15 08:30:00,Geothermal,15.4
+2024-10-15 08:15:00,Hydro water reservoir,256.0
+2024-10-15 08:30:00,Hydro water reservoir,280.8
+2024-10-15 08:15:00,Hydro pumped storage,965.4
+2024-10-15 08:30:00,Hydro pumped storage,558.4
+2024-10-15 08:15:00,Others,187.0
+2024-10-15 08:30:00,Others,187.0
+2024-10-15 08:15:00,Waste,1142.6
+2024-10-15 08:30:00,Waste,1160.5
+2024-10-15 08:15:00,Wind offshore,693.0
+2024-10-15 08:30:00,Wind offshore,792.4
+2024-10-15 08:15:00,Wind onshore,3600.2
+2024-10-15 08:30:00,Wind onshore,3231.5
+2024-10-15 08:15:00,Solar,15408.1
+2024-10-15 08:30:00,Solar,16956.5
+2024-10-15 08:15:00,Load,65401.1
+2024-10-15 08:30:00,Load,65467.5
+2024-10-15 08:15:00,Residual load,45699.8
+2024-10-15 08:30:00,Residual load,44487.1
+2024-10-15 08:15:00,Renewable share of generation,52.8
+2024-10-15 08:30:00,Renewable share of generation,55.3
+2024-10-15 08:15:00,Renewable share of load,42.9
+2024-10-15 08:30:00,Renewable share of load,44.8
+2024-10-15 08:30:00,Hydro pumped storage consumption,-154.1
+2024-10-15 08:45:00,Hydro pumped storage consumption,-336.4
+2024-10-15 08:30:00,Cross border electricity trading,8149.4
+2024-10-15 08:45:00,Cross border electricity trading,8104.9
+2024-10-15 08:30:00,Hydro Run-of-River,2570.3
+2024-10-15 08:45:00,Hydro Run-of-River,2572.6
+2024-10-15 08:30:00,Biomass,4921.1
+2024-10-15 08:45:00,Biomass,4903.9
+2024-10-15 08:30:00,Fossil brown coal / lignite,11195.5
+2024-10-15 08:45:00,Fossil brown coal / lignite,11214.2
+2024-10-15 08:30:00,Fossil hard coal,5122.0
+2024-10-15 08:45:00,Fossil hard coal,4924.0
+2024-10-15 08:30:00,Fossil oil,237.3
+2024-10-15 08:45:00,Fossil oil,237.3
+2024-10-15 08:30:00,Fossil gas,5766.3
+2024-10-15 08:45:00,Fossil gas,5576.4
+2024-10-15 08:30:00,Geothermal,15.4
+2024-10-15 08:45:00,Geothermal,15.4
+2024-10-15 08:30:00,Hydro water reservoir,280.8
+2024-10-15 08:45:00,Hydro water reservoir,205.3
+2024-10-15 08:30:00,Hydro pumped storage,558.4
+2024-10-15 08:45:00,Hydro pumped storage,346.4
+2024-10-15 08:30:00,Others,187.0
+2024-10-15 08:45:00,Others,186.9
+2024-10-15 08:30:00,Waste,1160.5
+2024-10-15 08:45:00,Waste,1148.5
+2024-10-15 08:30:00,Wind offshore,792.4
+2024-10-15 08:45:00,Wind offshore,821.0
+2024-10-15 08:30:00,Wind onshore,3231.5
+2024-10-15 08:45:00,Wind onshore,2934.2
+2024-10-15 08:30:00,Solar,16956.5
+2024-10-15 08:45:00,Solar,18331.1
+2024-10-15 08:30:00,Load,65467.5
+2024-10-15 08:45:00,Load,65431.1
+2024-10-15 08:30:00,Residual load,44487.1
+2024-10-15 08:45:00,Residual load,43344.7
+2024-10-15 08:30:00,Renewable share of generation,55.3
+2024-10-15 08:45:00,Renewable share of generation,56.8
+2024-10-15 08:30:00,Renewable share of load,44.8
+2024-10-15 08:45:00,Renewable share of load,46.3
+2024-10-15 08:45:00,Hydro pumped storage consumption,-336.4
+2024-10-15 09:00:00,Hydro pumped storage consumption,-141.8
+2024-10-15 08:45:00,Cross border electricity trading,8104.9
+2024-10-15 09:00:00,Cross border electricity trading,6190.3
+2024-10-15 08:45:00,Hydro Run-of-River,2572.6
+2024-10-15 09:00:00,Hydro Run-of-River,2573.4
+2024-10-15 08:45:00,Biomass,4903.9
+2024-10-15 09:00:00,Biomass,4888.1
+2024-10-15 08:45:00,Fossil brown coal / lignite,11214.2
+2024-10-15 09:00:00,Fossil brown coal / lignite,11392.4
+2024-10-15 08:45:00,Fossil hard coal,4924.0
+2024-10-15 09:00:00,Fossil hard coal,4683.4
+2024-10-15 08:45:00,Fossil oil,237.3
+2024-10-15 09:00:00,Fossil oil,237.3
+2024-10-15 08:45:00,Fossil gas,5576.4
+2024-10-15 09:00:00,Fossil gas,5469.4
+2024-10-15 08:45:00,Geothermal,15.4
+2024-10-15 09:00:00,Geothermal,15.4
+2024-10-15 08:45:00,Hydro water reservoir,205.3
+2024-10-15 09:00:00,Hydro water reservoir,360.8
+2024-10-15 08:45:00,Hydro pumped storage,346.4
+2024-10-15 09:00:00,Hydro pumped storage,652.0
+2024-10-15 08:45:00,Others,186.9
+2024-10-15 09:00:00,Others,187.2
+2024-10-15 08:45:00,Waste,1148.5
+2024-10-15 09:00:00,Waste,1146.4
+2024-10-15 08:45:00,Wind offshore,821.0
+2024-10-15 09:00:00,Wind offshore,863.4
+2024-10-15 08:45:00,Wind onshore,2934.2
+2024-10-15 09:00:00,Wind onshore,2785.8
+2024-10-15 08:45:00,Solar,18331.1
+2024-10-15 09:00:00,Solar,19543.3
+2024-10-15 08:45:00,Load,65431.1
+2024-10-15 09:00:00,Load,65120.1
+2024-10-15 08:45:00,Residual load,43344.7
+2024-10-15 09:00:00,Residual load,41927.7
+2024-10-15 08:45:00,Renewable share of generation,56.8
+2024-10-15 09:00:00,Renewable share of generation,57.6
+2024-10-15 08:45:00,Renewable share of load,46.3
+2024-10-15 09:00:00,Renewable share of load,48.5
+2024-10-15 09:00:00,Hydro pumped storage consumption,-141.8
+2024-10-15 09:15:00,Hydro pumped storage consumption,-133.7
+2024-10-15 09:00:00,Cross border electricity trading,6190.3
+2024-10-15 09:15:00,Cross border electricity trading,6282.9
+2024-10-15 09:00:00,Hydro Run-of-River,2573.4
+2024-10-15 09:15:00,Hydro Run-of-River,2578.2
+2024-10-15 09:00:00,Biomass,4888.1
+2024-10-15 09:15:00,Biomass,4882.9
+2024-10-15 09:00:00,Fossil brown coal / lignite,11392.4
+2024-10-15 09:15:00,Fossil brown coal / lignite,11594.5
+2024-10-15 09:00:00,Fossil hard coal,4683.4
+2024-10-15 09:15:00,Fossil hard coal,4339.9
+2024-10-15 09:00:00,Fossil oil,237.3
+2024-10-15 09:15:00,Fossil oil,237.3
+2024-10-15 09:00:00,Fossil gas,5469.4
+2024-10-15 09:15:00,Fossil gas,5189.1
+2024-10-15 09:00:00,Geothermal,15.4
+2024-10-15 09:15:00,Geothermal,15.4
+2024-10-15 09:00:00,Hydro water reservoir,360.8
+2024-10-15 09:15:00,Hydro water reservoir,354.1
+2024-10-15 09:00:00,Hydro pumped storage,652.0
+2024-10-15 09:15:00,Hydro pumped storage,428.6
+2024-10-15 09:00:00,Others,187.2
+2024-10-15 09:15:00,Others,187.1
+2024-10-15 09:00:00,Waste,1146.4
+2024-10-15 09:15:00,Waste,1149.9
+2024-10-15 09:00:00,Wind offshore,863.4
+2024-10-15 09:15:00,Wind offshore,998.8
+2024-10-15 09:00:00,Wind onshore,2785.8
+2024-10-15 09:15:00,Wind onshore,2788.3
+2024-10-15 09:00:00,Solar,19543.3
+2024-10-15 09:15:00,Solar,20610.2
+2024-10-15 09:00:00,Load,65120.1
+2024-10-15 09:15:00,Load,65189.1
+2024-10-15 09:00:00,Residual load,41927.7
+2024-10-15 09:15:00,Residual load,40791.7
+2024-10-15 09:00:00,Renewable share of generation,57.6
+2024-10-15 09:15:00,Renewable share of generation,59.2
+2024-10-15 09:00:00,Renewable share of load,48.5
+2024-10-15 09:15:00,Renewable share of load,50.3
+2024-10-15 09:15:00,Hydro pumped storage consumption,-133.7
+2024-10-15 09:30:00,Hydro pumped storage consumption,-381.9
+2024-10-15 09:15:00,Cross border electricity trading,6282.9
+2024-10-15 09:30:00,Cross border electricity trading,6331.8
+2024-10-15 09:15:00,Hydro Run-of-River,2578.2
+2024-10-15 09:30:00,Hydro Run-of-River,2577.3
+2024-10-15 09:15:00,Biomass,4882.9
+2024-10-15 09:30:00,Biomass,4879.1
+2024-10-15 09:15:00,Fossil brown coal / lignite,11594.5
+2024-10-15 09:30:00,Fossil brown coal / lignite,11691.0
+2024-10-15 09:15:00,Fossil hard coal,4339.9
+2024-10-15 09:30:00,Fossil hard coal,4164.8
+2024-10-15 09:15:00,Fossil oil,237.3
+2024-10-15 09:30:00,Fossil oil,237.3
+2024-10-15 09:15:00,Fossil gas,5189.1
+2024-10-15 09:30:00,Fossil gas,4896.6
+2024-10-15 09:15:00,Geothermal,15.4
+2024-10-15 09:30:00,Geothermal,15.4
+2024-10-15 09:15:00,Hydro water reservoir,354.1
+2024-10-15 09:30:00,Hydro water reservoir,284.0
+2024-10-15 09:15:00,Hydro pumped storage,428.6
+2024-10-15 09:30:00,Hydro pumped storage,452.8
+2024-10-15 09:15:00,Others,187.1
+2024-10-15 09:30:00,Others,187.1
+2024-10-15 09:15:00,Waste,1149.9
+2024-10-15 09:30:00,Waste,1131.7
+2024-10-15 09:15:00,Wind offshore,998.8
+2024-10-15 09:30:00,Wind offshore,1055.4
+2024-10-15 09:15:00,Wind onshore,2788.3
+2024-10-15 09:30:00,Wind onshore,2932.4
+2024-10-15 09:15:00,Solar,20610.2
+2024-10-15 09:30:00,Solar,21423.0
+2024-10-15 09:15:00,Load,65189.1
+2024-10-15 09:30:00,Load,65328.1
+2024-10-15 09:15:00,Residual load,40791.7
+2024-10-15 09:30:00,Residual load,39917.3
+2024-10-15 09:15:00,Renewable share of generation,59.2
+2024-10-15 09:30:00,Renewable share of generation,60.3
+2024-10-15 09:15:00,Renewable share of load,50.3
+2024-10-15 09:30:00,Renewable share of load,51.6
+2024-10-15 09:30:00,Hydro pumped storage consumption,-381.9
+2024-10-15 09:45:00,Hydro pumped storage consumption,-731.4
+2024-10-15 09:30:00,Cross border electricity trading,6331.8
+2024-10-15 09:45:00,Cross border electricity trading,6443.3
+2024-10-15 09:30:00,Hydro Run-of-River,2577.3
+2024-10-15 09:45:00,Hydro Run-of-River,2582.5
+2024-10-15 09:30:00,Biomass,4879.1
+2024-10-15 09:45:00,Biomass,4869.2
+2024-10-15 09:30:00,Fossil brown coal / lignite,11691.0
+2024-10-15 09:45:00,Fossil brown coal / lignite,11464.1
+2024-10-15 09:30:00,Fossil hard coal,4164.8
+2024-10-15 09:45:00,Fossil hard coal,4072.1
+2024-10-15 09:30:00,Fossil oil,237.3
+2024-10-15 09:45:00,Fossil oil,237.3
+2024-10-15 09:30:00,Fossil gas,4896.6
+2024-10-15 09:45:00,Fossil gas,4801.8
+2024-10-15 09:30:00,Geothermal,15.4
+2024-10-15 09:45:00,Geothermal,15.4
+2024-10-15 09:30:00,Hydro water reservoir,284.0
+2024-10-15 09:45:00,Hydro water reservoir,317.6
+2024-10-15 09:30:00,Hydro pumped storage,452.8
+2024-10-15 09:45:00,Hydro pumped storage,295.8
+2024-10-15 09:30:00,Others,187.1
+2024-10-15 09:45:00,Others,187.2
+2024-10-15 09:30:00,Waste,1131.7
+2024-10-15 09:45:00,Waste,1108.0
+2024-10-15 09:30:00,Wind offshore,1055.4
+2024-10-15 09:45:00,Wind offshore,1046.8
+2024-10-15 09:30:00,Wind onshore,2932.4
+2024-10-15 09:45:00,Wind onshore,3071.3
+2024-10-15 09:30:00,Solar,21423.0
+2024-10-15 09:45:00,Solar,22098.5
+2024-10-15 09:30:00,Load,65328.1
+2024-10-15 09:45:00,Load,65375.8
+2024-10-15 09:30:00,Residual load,39917.3
+2024-10-15 09:45:00,Residual load,39159.2
+2024-10-15 09:30:00,Renewable share of generation,60.3
+2024-10-15 09:45:00,Renewable share of generation,61.5
+2024-10-15 09:30:00,Renewable share of load,51.6
+2024-10-15 09:45:00,Renewable share of load,52.8
+2024-10-15 09:45:00,Hydro pumped storage consumption,-731.4
+2024-10-15 10:00:00,Hydro pumped storage consumption,-1053.4
+2024-10-15 09:45:00,Cross border electricity trading,6443.3
+2024-10-15 10:00:00,Cross border electricity trading,7734.9
+2024-10-15 09:45:00,Hydro Run-of-River,2582.5
+2024-10-15 10:00:00,Hydro Run-of-River,2586.2
+2024-10-15 09:45:00,Biomass,4869.2
+2024-10-15 10:00:00,Biomass,4858.6
+2024-10-15 09:45:00,Fossil brown coal / lignite,11464.1
+2024-10-15 10:00:00,Fossil brown coal / lignite,11459.6
+2024-10-15 09:45:00,Fossil hard coal,4072.1
+2024-10-15 10:00:00,Fossil hard coal,3883.1
+2024-10-15 09:45:00,Fossil oil,237.3
+2024-10-15 10:00:00,Fossil oil,237.3
+2024-10-15 09:45:00,Fossil gas,4801.8
+2024-10-15 10:00:00,Fossil gas,4462.4
+2024-10-15 09:45:00,Geothermal,15.4
+2024-10-15 10:00:00,Geothermal,15.4
+2024-10-15 09:45:00,Hydro water reservoir,317.6
+2024-10-15 10:00:00,Hydro water reservoir,237.4
+2024-10-15 09:45:00,Hydro pumped storage,295.8
+2024-10-15 10:00:00,Hydro pumped storage,71.2
+2024-10-15 09:45:00,Others,187.2
+2024-10-15 10:00:00,Others,187.1
+2024-10-15 09:45:00,Waste,1108.0
+2024-10-15 10:00:00,Waste,1129.4
+2024-10-15 09:45:00,Wind offshore,1046.8
+2024-10-15 10:00:00,Wind offshore,1091.2
+2024-10-15 09:45:00,Wind onshore,3071.3
+2024-10-15 10:00:00,Wind onshore,3344.1
+2024-10-15 09:45:00,Solar,22098.5
+2024-10-15 10:00:00,Solar,22565.6
+2024-10-15 09:45:00,Load,65375.8
+2024-10-15 10:00:00,Load,65249.8
+2024-10-15 09:45:00,Residual load,39159.2
+2024-10-15 10:00:00,Residual load,38249.0
+2024-10-15 09:45:00,Renewable share of generation,61.5
+2024-10-15 10:00:00,Renewable share of generation,62.8
+2024-10-15 09:45:00,Renewable share of load,52.8
+2024-10-15 10:00:00,Renewable share of load,54.0
+2024-10-15 10:00:00,Hydro pumped storage consumption,-1053.4
+2024-10-15 10:15:00,Hydro pumped storage consumption,-2322.8
+2024-10-15 10:00:00,Cross border electricity trading,7734.9
+2024-10-15 10:15:00,Cross border electricity trading,7916.4
+2024-10-15 10:00:00,Hydro Run-of-River,2586.2
+2024-10-15 10:15:00,Hydro Run-of-River,2588.5
+2024-10-15 10:00:00,Biomass,4858.6
+2024-10-15 10:15:00,Biomass,4843.1
+2024-10-15 10:00:00,Fossil brown coal / lignite,11459.6
+2024-10-15 10:15:00,Fossil brown coal / lignite,11268.4
+2024-10-15 10:00:00,Fossil hard coal,3883.1
+2024-10-15 10:15:00,Fossil hard coal,3809.7
+2024-10-15 10:00:00,Fossil oil,237.3
+2024-10-15 10:15:00,Fossil oil,237.3
+2024-10-15 10:00:00,Fossil gas,4462.4
+2024-10-15 10:15:00,Fossil gas,4373.7
+2024-10-15 10:00:00,Geothermal,15.4
+2024-10-15 10:15:00,Geothermal,15.4
+2024-10-15 10:00:00,Hydro water reservoir,237.4
+2024-10-15 10:15:00,Hydro water reservoir,132.2
+2024-10-15 10:00:00,Hydro pumped storage,71.2
+2024-10-15 10:15:00,Hydro pumped storage,8.8
+2024-10-15 10:00:00,Others,187.1
+2024-10-15 10:15:00,Others,187.1
+2024-10-15 10:00:00,Waste,1129.4
+2024-10-15 10:15:00,Waste,1137.0
+2024-10-15 10:00:00,Wind offshore,1091.2
+2024-10-15 10:15:00,Wind offshore,1185.8
+2024-10-15 10:00:00,Wind onshore,3344.1
+2024-10-15 10:15:00,Wind onshore,3674.2
+2024-10-15 10:00:00,Solar,22565.6
+2024-10-15 10:15:00,Solar,22707.1
+2024-10-15 10:00:00,Load,65249.8
+2024-10-15 10:15:00,Load,64752.5
+2024-10-15 10:00:00,Residual load,38249.0
+2024-10-15 10:15:00,Residual load,37185.4
+2024-10-15 10:00:00,Renewable share of generation,62.8
+2024-10-15 10:15:00,Renewable share of generation,63.5
+2024-10-15 10:00:00,Renewable share of load,54.0
+2024-10-15 10:15:00,Renewable share of load,55.1
+2024-10-15 10:15:00,Hydro pumped storage consumption,-2322.8
+2024-10-15 10:30:00,Hydro pumped storage consumption,-3111.4
+2024-10-15 10:15:00,Cross border electricity trading,7916.4
+2024-10-15 10:30:00,Cross border electricity trading,8042.0
+2024-10-15 10:15:00,Hydro Run-of-River,2588.5
+2024-10-15 10:30:00,Hydro Run-of-River,2586.1
+2024-10-15 10:15:00,Biomass,4843.1
+2024-10-15 10:30:00,Biomass,4841.0
+2024-10-15 10:15:00,Fossil brown coal / lignite,11268.4
+2024-10-15 10:30:00,Fossil brown coal / lignite,11117.8
+2024-10-15 10:15:00,Fossil hard coal,3809.7
+2024-10-15 10:30:00,Fossil hard coal,3811.3
+2024-10-15 10:15:00,Fossil oil,237.3
+2024-10-15 10:30:00,Fossil oil,237.3
+2024-10-15 10:15:00,Fossil gas,4373.7
+2024-10-15 10:30:00,Fossil gas,4339.0
+2024-10-15 10:15:00,Geothermal,15.4
+2024-10-15 10:30:00,Geothermal,15.4
+2024-10-15 10:15:00,Hydro water reservoir,132.2
+2024-10-15 10:30:00,Hydro water reservoir,119.8
+2024-10-15 10:15:00,Hydro pumped storage,8.8
+2024-10-15 10:30:00,Hydro pumped storage,11.4
+2024-10-15 10:15:00,Others,187.1
+2024-10-15 10:30:00,Others,187.1
+2024-10-15 10:15:00,Waste,1137.0
+2024-10-15 10:30:00,Waste,1140.2
+2024-10-15 10:15:00,Wind offshore,1185.8
+2024-10-15 10:30:00,Wind offshore,1266.6
+2024-10-15 10:15:00,Wind onshore,3674.2
+2024-10-15 10:30:00,Wind onshore,3959.5
+2024-10-15 10:15:00,Solar,22707.1
+2024-10-15 10:30:00,Solar,22698.7
+2024-10-15 10:15:00,Load,64752.5
+2024-10-15 10:30:00,Load,64690.4
+2024-10-15 10:15:00,Residual load,37185.4
+2024-10-15 10:30:00,Residual load,36765.5
+2024-10-15 10:15:00,Renewable share of generation,63.5
+2024-10-15 10:30:00,Renewable share of generation,64.0
+2024-10-15 10:15:00,Renewable share of load,55.1
+2024-10-15 10:30:00,Renewable share of load,55.7
+2024-10-15 10:30:00,Hydro pumped storage consumption,-3111.4
+2024-10-15 10:45:00,Hydro pumped storage consumption,-3675.8
+2024-10-15 10:30:00,Cross border electricity trading,8042.0
+2024-10-15 10:45:00,Cross border electricity trading,8127.8
+2024-10-15 10:30:00,Hydro Run-of-River,2586.1
+2024-10-15 10:45:00,Hydro Run-of-River,2585.7
+2024-10-15 10:30:00,Biomass,4841.0
+2024-10-15 10:45:00,Biomass,4843.5
+2024-10-15 10:30:00,Fossil brown coal / lignite,11117.8
+2024-10-15 10:45:00,Fossil brown coal / lignite,10931.8
+2024-10-15 10:30:00,Fossil hard coal,3811.3
+2024-10-15 10:45:00,Fossil hard coal,3803.3
+2024-10-15 10:30:00,Fossil oil,237.3
+2024-10-15 10:45:00,Fossil oil,237.3
+2024-10-15 10:30:00,Fossil gas,4339.0
+2024-10-15 10:45:00,Fossil gas,4229.1
+2024-10-15 10:30:00,Geothermal,15.4
+2024-10-15 10:45:00,Geothermal,15.4
+2024-10-15 10:30:00,Hydro water reservoir,119.8
+2024-10-15 10:45:00,Hydro water reservoir,188.5
+2024-10-15 10:30:00,Hydro pumped storage,11.4
+2024-10-15 10:45:00,Hydro pumped storage,61.7
+2024-10-15 10:30:00,Others,187.1
+2024-10-15 10:45:00,Others,187.2
+2024-10-15 10:30:00,Waste,1140.2
+2024-10-15 10:45:00,Waste,1122.7
+2024-10-15 10:30:00,Wind offshore,1266.6
+2024-10-15 10:45:00,Wind offshore,1378.0
+2024-10-15 10:30:00,Wind onshore,3959.5
+2024-10-15 10:45:00,Wind onshore,4176.5
+2024-10-15 10:30:00,Solar,22698.7
+2024-10-15 10:45:00,Solar,22667.8
+2024-10-15 10:30:00,Load,64690.4
+2024-10-15 10:45:00,Load,64268.8
+2024-10-15 10:30:00,Residual load,36765.5
+2024-10-15 10:45:00,Residual load,36046.5
+2024-10-15 10:30:00,Renewable share of generation,64.0
+2024-10-15 10:45:00,Renewable share of generation,64.5
+2024-10-15 10:30:00,Renewable share of load,55.7
+2024-10-15 10:45:00,Renewable share of load,56.6
+2024-10-15 10:45:00,Hydro pumped storage consumption,-3675.8
+2024-10-15 11:00:00,Hydro pumped storage consumption,-3501.0
+2024-10-15 10:45:00,Cross border electricity trading,8127.8
+2024-10-15 11:00:00,Cross border electricity trading,8575.1
+2024-10-15 10:45:00,Hydro Run-of-River,2585.7
+2024-10-15 11:00:00,Hydro Run-of-River,2583.0
+2024-10-15 10:45:00,Biomass,4843.5
+2024-10-15 11:00:00,Biomass,4855.5
+2024-10-15 10:45:00,Fossil brown coal / lignite,10931.8
+2024-10-15 11:00:00,Fossil brown coal / lignite,10624.1
+2024-10-15 10:45:00,Fossil hard coal,3803.3
+2024-10-15 11:00:00,Fossil hard coal,3772.3
+2024-10-15 10:45:00,Fossil oil,237.3
+2024-10-15 11:00:00,Fossil oil,237.3
+2024-10-15 10:45:00,Fossil gas,4229.1
+2024-10-15 11:00:00,Fossil gas,3934.2
+2024-10-15 10:45:00,Geothermal,15.4
+2024-10-15 11:00:00,Geothermal,15.4
+2024-10-15 10:45:00,Hydro water reservoir,188.5
+2024-10-15 11:00:00,Hydro water reservoir,261.0
+2024-10-15 10:45:00,Hydro pumped storage,61.7
+2024-10-15 11:00:00,Hydro pumped storage,137.5
+2024-10-15 10:45:00,Others,187.2
+2024-10-15 11:00:00,Others,187.2
+2024-10-15 10:45:00,Waste,1122.7
+2024-10-15 11:00:00,Waste,1118.9
+2024-10-15 10:45:00,Wind offshore,1378.0
+2024-10-15 11:00:00,Wind offshore,1475.8
+2024-10-15 10:45:00,Wind onshore,4176.5
+2024-10-15 11:00:00,Wind onshore,4420.4
+2024-10-15 10:45:00,Solar,22667.8
+2024-10-15 11:00:00,Solar,22496.5
+2024-10-15 10:45:00,Load,64268.8
+2024-10-15 11:00:00,Load,63964.6
+2024-10-15 10:45:00,Residual load,36046.5
+2024-10-15 11:00:00,Residual load,35571.9
+2024-10-15 10:45:00,Renewable share of generation,64.5
+2024-10-15 11:00:00,Renewable share of generation,65.3
+2024-10-15 10:45:00,Renewable share of load,56.6
+2024-10-15 11:00:00,Renewable share of load,57.3
+2024-10-15 11:00:00,Hydro pumped storage consumption,-3501.0
+2024-10-15 11:15:00,Hydro pumped storage consumption,-3863.7
+2024-10-15 11:00:00,Cross border electricity trading,8575.1
+2024-10-15 11:15:00,Cross border electricity trading,8506.6
+2024-10-15 11:00:00,Hydro Run-of-River,2583.0
+2024-10-15 11:15:00,Hydro Run-of-River,2580.2
+2024-10-15 11:00:00,Biomass,4855.5
+2024-10-15 11:15:00,Biomass,4860.2
+2024-10-15 11:00:00,Fossil brown coal / lignite,10624.1
+2024-10-15 11:15:00,Fossil brown coal / lignite,10525.6
+2024-10-15 11:00:00,Fossil hard coal,3772.3
+2024-10-15 11:15:00,Fossil hard coal,3626.2
+2024-10-15 11:00:00,Fossil oil,237.3
+2024-10-15 11:15:00,Fossil oil,237.3
+2024-10-15 11:00:00,Fossil gas,3934.2
+2024-10-15 11:15:00,Fossil gas,3889.1
+2024-10-15 11:00:00,Geothermal,15.4
+2024-10-15 11:15:00,Geothermal,15.4
+2024-10-15 11:00:00,Hydro water reservoir,261.0
+2024-10-15 11:15:00,Hydro water reservoir,186.4
+2024-10-15 11:00:00,Hydro pumped storage,137.5
+2024-10-15 11:15:00,Hydro pumped storage,48.7
+2024-10-15 11:00:00,Others,187.2
+2024-10-15 11:15:00,Others,187.2
+2024-10-15 11:00:00,Waste,1118.9
+2024-10-15 11:15:00,Waste,1108.7
+2024-10-15 11:00:00,Wind offshore,1475.8
+2024-10-15 11:15:00,Wind offshore,1526.6
+2024-10-15 11:00:00,Wind onshore,4420.4
+2024-10-15 11:15:00,Wind onshore,4597.7
+2024-10-15 11:00:00,Solar,22496.5
+2024-10-15 11:15:00,Solar,22277.7
+2024-10-15 11:00:00,Load,63964.6
+2024-10-15 11:15:00,Load,63812.1
+2024-10-15 11:00:00,Residual load,35571.9
+2024-10-15 11:15:00,Residual load,35410.1
+2024-10-15 11:00:00,Renewable share of generation,65.3
+2024-10-15 11:15:00,Renewable share of generation,65.7
+2024-10-15 11:00:00,Renewable share of load,57.3
+2024-10-15 11:15:00,Renewable share of load,57.3
+2024-10-15 11:15:00,Hydro pumped storage consumption,-3863.7
+2024-10-15 11:30:00,Hydro pumped storage consumption,-4118.8
+2024-10-15 11:15:00,Cross border electricity trading,8506.6
+2024-10-15 11:30:00,Cross border electricity trading,8788.0
+2024-10-15 11:15:00,Hydro Run-of-River,2580.2
+2024-10-15 11:30:00,Hydro Run-of-River,2582.2
+2024-10-15 11:15:00,Biomass,4860.2
+2024-10-15 11:30:00,Biomass,4880.8
+2024-10-15 11:15:00,Fossil brown coal / lignite,10525.6
+2024-10-15 11:30:00,Fossil brown coal / lignite,10162.3
+2024-10-15 11:15:00,Fossil hard coal,3626.2
+2024-10-15 11:30:00,Fossil hard coal,3487.6
+2024-10-15 11:15:00,Fossil oil,237.3
+2024-10-15 11:30:00,Fossil oil,237.3
+2024-10-15 11:15:00,Fossil gas,3889.1
+2024-10-15 11:30:00,Fossil gas,3882.6
+2024-10-15 11:15:00,Geothermal,15.4
+2024-10-15 11:30:00,Geothermal,15.4
+2024-10-15 11:15:00,Hydro water reservoir,186.4
+2024-10-15 11:30:00,Hydro water reservoir,203.0
+2024-10-15 11:15:00,Hydro pumped storage,48.7
+2024-10-15 11:30:00,Hydro pumped storage,35.5
+2024-10-15 11:15:00,Others,187.2
+2024-10-15 11:30:00,Others,187.2
+2024-10-15 11:15:00,Waste,1108.7
+2024-10-15 11:30:00,Waste,1098.4
+2024-10-15 11:15:00,Wind offshore,1526.6
+2024-10-15 11:30:00,Wind offshore,1574.6
+2024-10-15 11:15:00,Wind onshore,4597.7
+2024-10-15 11:30:00,Wind onshore,4705.1
+2024-10-15 11:15:00,Solar,22277.7
+2024-10-15 11:30:00,Solar,21932.8
+2024-10-15 11:15:00,Load,63812.1
+2024-10-15 11:30:00,Load,63088.6
+2024-10-15 11:15:00,Residual load,35410.1
+2024-10-15 11:30:00,Residual load,34876.0
+2024-10-15 11:15:00,Renewable share of generation,65.7
+2024-10-15 11:30:00,Renewable share of generation,66.2
+2024-10-15 11:15:00,Renewable share of load,57.3
+2024-10-15 11:30:00,Renewable share of load,57.7
+2024-10-15 11:30:00,Hydro pumped storage consumption,-4118.8
+2024-10-15 11:45:00,Hydro pumped storage consumption,-4307.1
+2024-10-15 11:30:00,Cross border electricity trading,8788.0
+2024-10-15 11:45:00,Cross border electricity trading,8798.8
+2024-10-15 11:30:00,Hydro Run-of-River,2582.2
+2024-10-15 11:45:00,Hydro Run-of-River,2582.2
+2024-10-15 11:30:00,Biomass,4880.8
+2024-10-15 11:45:00,Biomass,4910.1
+2024-10-15 11:30:00,Fossil brown coal / lignite,10162.3
+2024-10-15 11:45:00,Fossil brown coal / lignite,9926.4
+2024-10-15 11:30:00,Fossil hard coal,3487.6
+2024-10-15 11:45:00,Fossil hard coal,3342.3
+2024-10-15 11:30:00,Fossil oil,237.3
+2024-10-15 11:45:00,Fossil oil,237.3
+2024-10-15 11:30:00,Fossil gas,3882.6
+2024-10-15 11:45:00,Fossil gas,3872.4
+2024-10-15 11:30:00,Geothermal,15.4
+2024-10-15 11:45:00,Geothermal,15.4
+2024-10-15 11:30:00,Hydro water reservoir,203.0
+2024-10-15 11:45:00,Hydro water reservoir,189.1
+2024-10-15 11:30:00,Hydro pumped storage,35.5
+2024-10-15 11:45:00,Hydro pumped storage,18.1
+2024-10-15 11:30:00,Others,187.2
+2024-10-15 11:45:00,Others,187.2
+2024-10-15 11:30:00,Waste,1098.4
+2024-10-15 11:45:00,Waste,1147.4
+2024-10-15 11:30:00,Wind offshore,1574.6
+2024-10-15 11:45:00,Wind offshore,1689.2
+2024-10-15 11:30:00,Wind onshore,4705.1
+2024-10-15 11:45:00,Wind onshore,4809.7
+2024-10-15 11:30:00,Solar,21932.8
+2024-10-15 11:45:00,Solar,21440.0
+2024-10-15 11:30:00,Load,63088.6
+2024-10-15 11:45:00,Load,62787.4
+2024-10-15 11:30:00,Residual load,34876.0
+2024-10-15 11:45:00,Residual load,34848.4
+2024-10-15 11:30:00,Renewable share of generation,66.2
+2024-10-15 11:45:00,Renewable share of generation,66.5
+2024-10-15 11:30:00,Renewable share of load,57.7
+2024-10-15 11:45:00,Renewable share of load,57.6
+2024-10-15 11:45:00,Hydro pumped storage consumption,-4307.1
+2024-10-15 12:00:00,Hydro pumped storage consumption,-4173.4
+2024-10-15 11:45:00,Cross border electricity trading,8798.8
+2024-10-15 12:00:00,Cross border electricity trading,7721.8
+2024-10-15 11:45:00,Hydro Run-of-River,2582.2
+2024-10-15 12:00:00,Hydro Run-of-River,2571.8
+2024-10-15 11:45:00,Biomass,4910.1
+2024-10-15 12:00:00,Biomass,4934.6
+2024-10-15 11:45:00,Fossil brown coal / lignite,9926.4
+2024-10-15 12:00:00,Fossil brown coal / lignite,9869.7
+2024-10-15 11:45:00,Fossil hard coal,3342.3
+2024-10-15 12:00:00,Fossil hard coal,3173.8
+2024-10-15 11:45:00,Fossil oil,237.3
+2024-10-15 12:00:00,Fossil oil,237.3
+2024-10-15 11:45:00,Fossil gas,3872.4
+2024-10-15 12:00:00,Fossil gas,4011.6
+2024-10-15 11:45:00,Geothermal,15.4
+2024-10-15 12:00:00,Geothermal,15.4
+2024-10-15 11:45:00,Hydro water reservoir,189.1
+2024-10-15 12:00:00,Hydro water reservoir,206.8
+2024-10-15 11:45:00,Hydro pumped storage,18.1
+2024-10-15 12:00:00,Hydro pumped storage,214.8
+2024-10-15 11:45:00,Others,187.2
+2024-10-15 12:00:00,Others,187.2
+2024-10-15 11:45:00,Waste,1147.4
+2024-10-15 12:00:00,Waste,1157.0
+2024-10-15 11:45:00,Wind offshore,1689.2
+2024-10-15 12:00:00,Wind offshore,1775.6
+2024-10-15 11:45:00,Wind onshore,4809.7
+2024-10-15 12:00:00,Wind onshore,4883.4
+2024-10-15 11:45:00,Solar,21440.0
+2024-10-15 12:00:00,Solar,20748.6
+2024-10-15 11:45:00,Load,62787.4
+2024-10-15 12:00:00,Load,62111.1
+2024-10-15 11:45:00,Residual load,34848.4
+2024-10-15 12:00:00,Residual load,34703.5
+2024-10-15 11:45:00,Renewable share of generation,66.5
+2024-10-15 12:00:00,Renewable share of generation,66.1
+2024-10-15 11:45:00,Renewable share of load,57.6
+2024-10-15 12:00:00,Renewable share of load,57.5
+2024-10-15 12:00:00,Hydro pumped storage consumption,-4173.4
+2024-10-15 12:15:00,Hydro pumped storage consumption,-3813.5
+2024-10-15 12:00:00,Cross border electricity trading,7721.8
+2024-10-15 12:15:00,Cross border electricity trading,7730.8
+2024-10-15 12:00:00,Hydro Run-of-River,2571.8
+2024-10-15 12:15:00,Hydro Run-of-River,2568.4
+2024-10-15 12:00:00,Biomass,4934.6
+2024-10-15 12:15:00,Biomass,4931.9
+2024-10-15 12:00:00,Fossil brown coal / lignite,9869.7
+2024-10-15 12:15:00,Fossil brown coal / lignite,9907.2
+2024-10-15 12:00:00,Fossil hard coal,3173.8
+2024-10-15 12:15:00,Fossil hard coal,3105.8
+2024-10-15 12:00:00,Fossil oil,237.3
+2024-10-15 12:15:00,Fossil oil,237.3
+2024-10-15 12:00:00,Fossil gas,4011.6
+2024-10-15 12:15:00,Fossil gas,4090.6
+2024-10-15 12:00:00,Geothermal,15.4
+2024-10-15 12:15:00,Geothermal,15.4
+2024-10-15 12:00:00,Hydro water reservoir,206.8
+2024-10-15 12:15:00,Hydro water reservoir,273.8
+2024-10-15 12:00:00,Hydro pumped storage,214.8
+2024-10-15 12:15:00,Hydro pumped storage,210.8
+2024-10-15 12:00:00,Others,187.2
+2024-10-15 12:15:00,Others,187.2
+2024-10-15 12:00:00,Waste,1157.0
+2024-10-15 12:15:00,Waste,1188.8
+2024-10-15 12:00:00,Wind offshore,1775.6
+2024-10-15 12:15:00,Wind offshore,1925.8
+2024-10-15 12:00:00,Wind onshore,4883.4
+2024-10-15 12:15:00,Wind onshore,5011.5
+2024-10-15 12:00:00,Solar,20748.6
+2024-10-15 12:15:00,Solar,19936.9
+2024-10-15 12:00:00,Load,62111.1
+2024-10-15 12:15:00,Load,61806.9
+2024-10-15 12:00:00,Residual load,34703.5
+2024-10-15 12:15:00,Residual load,34932.7
+2024-10-15 12:00:00,Renewable share of generation,66.1
+2024-10-15 12:15:00,Renewable share of generation,65.7
+2024-10-15 12:00:00,Renewable share of load,57.5
+2024-10-15 12:15:00,Renewable share of load,57.0
+2024-10-15 12:15:00,Hydro pumped storage consumption,-3813.5
+2024-10-15 12:30:00,Hydro pumped storage consumption,-3553.9
+2024-10-15 12:15:00,Cross border electricity trading,7730.8
+2024-10-15 12:30:00,Cross border electricity trading,7619.3
+2024-10-15 12:15:00,Hydro Run-of-River,2568.4
+2024-10-15 12:30:00,Hydro Run-of-River,2565.0
+2024-10-15 12:15:00,Biomass,4931.9
+2024-10-15 12:30:00,Biomass,4948.9
+2024-10-15 12:15:00,Fossil brown coal / lignite,9907.2
+2024-10-15 12:30:00,Fossil brown coal / lignite,10100.6
+2024-10-15 12:15:00,Fossil hard coal,3105.8
+2024-10-15 12:30:00,Fossil hard coal,3173.2
+2024-10-15 12:15:00,Fossil oil,237.3
+2024-10-15 12:30:00,Fossil oil,237.3
+2024-10-15 12:15:00,Fossil gas,4090.6
+2024-10-15 12:30:00,Fossil gas,4120.9
+2024-10-15 12:15:00,Geothermal,15.4
+2024-10-15 12:30:00,Geothermal,15.4
+2024-10-15 12:15:00,Hydro water reservoir,273.8
+2024-10-15 12:30:00,Hydro water reservoir,311.2
+2024-10-15 12:15:00,Hydro pumped storage,210.8
+2024-10-15 12:30:00,Hydro pumped storage,282.3
+2024-10-15 12:15:00,Others,187.2
+2024-10-15 12:30:00,Others,187.2
+2024-10-15 12:15:00,Waste,1188.8
+2024-10-15 12:30:00,Waste,1187.2
+2024-10-15 12:15:00,Wind offshore,1925.8
+2024-10-15 12:30:00,Wind offshore,2166.5
+2024-10-15 12:15:00,Wind onshore,5011.5
+2024-10-15 12:30:00,Wind onshore,5180.3
+2024-10-15 12:15:00,Solar,19936.9
+2024-10-15 12:30:00,Solar,19052.1
+2024-10-15 12:15:00,Load,61806.9
+2024-10-15 12:30:00,Load,61460.4
+2024-10-15 12:15:00,Residual load,34932.7
+2024-10-15 12:30:00,Residual load,35061.4
+2024-10-15 12:15:00,Renewable share of generation,65.7
+2024-10-15 12:30:00,Renewable share of generation,65.0
+2024-10-15 12:15:00,Renewable share of load,57.0
+2024-10-15 12:30:00,Renewable share of load,56.6
+2024-10-15 12:30:00,Hydro pumped storage consumption,-3553.9
+2024-10-15 12:45:00,Hydro pumped storage consumption,-3397.6
+2024-10-15 12:30:00,Cross border electricity trading,7619.3
+2024-10-15 12:45:00,Cross border electricity trading,7359.3
+2024-10-15 12:30:00,Hydro Run-of-River,2565.0
+2024-10-15 12:45:00,Hydro Run-of-River,2566.2
+2024-10-15 12:30:00,Biomass,4948.9
+2024-10-15 12:45:00,Biomass,4975.0
+2024-10-15 12:30:00,Fossil brown coal / lignite,10100.6
+2024-10-15 12:45:00,Fossil brown coal / lignite,10742.1
+2024-10-15 12:30:00,Fossil hard coal,3173.2
+2024-10-15 12:45:00,Fossil hard coal,3489.6
+2024-10-15 12:30:00,Fossil oil,237.3
+2024-10-15 12:45:00,Fossil oil,237.3
+2024-10-15 12:30:00,Fossil gas,4120.9
+2024-10-15 12:45:00,Fossil gas,4132.0
+2024-10-15 12:30:00,Geothermal,15.4
+2024-10-15 12:45:00,Geothermal,15.4
+2024-10-15 12:30:00,Hydro water reservoir,311.2
+2024-10-15 12:45:00,Hydro water reservoir,237.0
+2024-10-15 12:30:00,Hydro pumped storage,282.3
+2024-10-15 12:45:00,Hydro pumped storage,163.1
+2024-10-15 12:30:00,Others,187.2
+2024-10-15 12:45:00,Others,187.2
+2024-10-15 12:30:00,Waste,1187.2
+2024-10-15 12:45:00,Waste,1172.1
+2024-10-15 12:30:00,Wind offshore,2166.5
+2024-10-15 12:45:00,Wind offshore,2352.8
+2024-10-15 12:30:00,Wind onshore,5180.3
+2024-10-15 12:45:00,Wind onshore,5447.8
+2024-10-15 12:30:00,Solar,19052.1
+2024-10-15 12:45:00,Solar,18089.5
+2024-10-15 12:30:00,Load,61460.4
+2024-10-15 12:45:00,Load,61047.5
+2024-10-15 12:30:00,Residual load,35061.4
+2024-10-15 12:45:00,Residual load,35157.4
+2024-10-15 12:30:00,Renewable share of generation,65.0
+2024-10-15 12:45:00,Renewable share of generation,63.6
+2024-10-15 12:30:00,Renewable share of load,56.6
+2024-10-15 12:45:00,Renewable share of load,56.1
+2024-10-15 12:45:00,Hydro pumped storage consumption,-3397.6
+2024-10-15 13:00:00,Hydro pumped storage consumption,-1656.0
+2024-10-15 12:45:00,Cross border electricity trading,7359.3
+2024-10-15 13:00:00,Cross border electricity trading,5571.6
+2024-10-15 12:45:00,Hydro Run-of-River,2566.2
+2024-10-15 13:00:00,Hydro Run-of-River,2561.0
+2024-10-15 12:45:00,Biomass,4975.0
+2024-10-15 13:00:00,Biomass,4983.8
+2024-10-15 12:45:00,Fossil brown coal / lignite,10742.1
+2024-10-15 13:00:00,Fossil brown coal / lignite,10930.1
+2024-10-15 12:45:00,Fossil hard coal,3489.6
+2024-10-15 13:00:00,Fossil hard coal,3808.2
+2024-10-15 12:45:00,Fossil oil,237.3
+2024-10-15 13:00:00,Fossil oil,237.3
+2024-10-15 12:45:00,Fossil gas,4132.0
+2024-10-15 13:00:00,Fossil gas,4280.1
+2024-10-15 12:45:00,Geothermal,15.4
+2024-10-15 13:00:00,Geothermal,15.4
+2024-10-15 12:45:00,Hydro water reservoir,237.0
+2024-10-15 13:00:00,Hydro water reservoir,228.7
+2024-10-15 12:45:00,Hydro pumped storage,163.1
+2024-10-15 13:00:00,Hydro pumped storage,278.8
+2024-10-15 12:45:00,Others,187.2
+2024-10-15 13:00:00,Others,187.2
+2024-10-15 12:45:00,Waste,1172.1
+2024-10-15 13:00:00,Waste,1166.7
+2024-10-15 12:45:00,Wind offshore,2352.8
+2024-10-15 13:00:00,Wind offshore,2435.0
+2024-10-15 12:45:00,Wind onshore,5447.8
+2024-10-15 13:00:00,Wind onshore,5612.6
+2024-10-15 12:45:00,Solar,18089.5
+2024-10-15 13:00:00,Solar,16988.9
+2024-10-15 12:45:00,Load,61047.5
+2024-10-15 13:00:00,Load,60570.3
+2024-10-15 12:45:00,Residual load,35157.4
+2024-10-15 13:00:00,Residual load,35534.0
+2024-10-15 12:45:00,Renewable share of generation,63.6
+2024-10-15 13:00:00,Renewable share of generation,62.1
+2024-10-15 12:45:00,Renewable share of load,56.1
+2024-10-15 13:00:00,Renewable share of load,55.1
+2024-10-15 13:00:00,Hydro pumped storage consumption,-1656.0
+2024-10-15 13:15:00,Hydro pumped storage consumption,-860.6
+2024-10-15 13:00:00,Cross border electricity trading,5571.6
+2024-10-15 13:15:00,Cross border electricity trading,5543.5
+2024-10-15 13:00:00,Hydro Run-of-River,2561.0
+2024-10-15 13:15:00,Hydro Run-of-River,2558.1
+2024-10-15 13:00:00,Biomass,4983.8
+2024-10-15 13:15:00,Biomass,4987.5
+2024-10-15 13:00:00,Fossil brown coal / lignite,10930.1
+2024-10-15 13:15:00,Fossil brown coal / lignite,11083.4
+2024-10-15 13:00:00,Fossil hard coal,3808.2
+2024-10-15 13:15:00,Fossil hard coal,4027.8
+2024-10-15 13:00:00,Fossil oil,237.3
+2024-10-15 13:15:00,Fossil oil,237.3
+2024-10-15 13:00:00,Fossil gas,4280.1
+2024-10-15 13:15:00,Fossil gas,4309.4
+2024-10-15 13:00:00,Geothermal,15.4
+2024-10-15 13:15:00,Geothermal,15.4
+2024-10-15 13:00:00,Hydro water reservoir,228.7
+2024-10-15 13:15:00,Hydro water reservoir,198.2
+2024-10-15 13:00:00,Hydro pumped storage,278.8
+2024-10-15 13:15:00,Hydro pumped storage,310.0
+2024-10-15 13:00:00,Others,187.2
+2024-10-15 13:15:00,Others,187.1
+2024-10-15 13:00:00,Waste,1166.7
+2024-10-15 13:15:00,Waste,1174.3
+2024-10-15 13:00:00,Wind offshore,2435.0
+2024-10-15 13:15:00,Wind offshore,2667.2
+2024-10-15 13:00:00,Wind onshore,5612.6
+2024-10-15 13:15:00,Wind onshore,5770.4
+2024-10-15 13:00:00,Solar,16988.9
+2024-10-15 13:15:00,Solar,15793.4
+2024-10-15 13:00:00,Load,60570.3
+2024-10-15 13:15:00,Load,60583.3
+2024-10-15 13:00:00,Residual load,35534.0
+2024-10-15 13:15:00,Residual load,36352.2
+2024-10-15 13:00:00,Renewable share of generation,62.1
+2024-10-15 13:15:00,Renewable share of generation,61.0
+2024-10-15 13:00:00,Renewable share of load,55.1
+2024-10-15 13:15:00,Renewable share of load,53.7
+2024-10-15 13:15:00,Hydro pumped storage consumption,-860.6
+2024-10-15 13:30:00,Hydro pumped storage consumption,-185.0
+2024-10-15 13:15:00,Cross border electricity trading,5543.5
+2024-10-15 13:30:00,Cross border electricity trading,5236.8
+2024-10-15 13:15:00,Hydro Run-of-River,2558.1
+2024-10-15 13:30:00,Hydro Run-of-River,2554.3
+2024-10-15 13:15:00,Biomass,4987.5
+2024-10-15 13:30:00,Biomass,4998.9
+2024-10-15 13:15:00,Fossil brown coal / lignite,11083.4
+2024-10-15 13:30:00,Fossil brown coal / lignite,11149.7
+2024-10-15 13:15:00,Fossil hard coal,4027.8
+2024-10-15 13:30:00,Fossil hard coal,4237.9
+2024-10-15 13:15:00,Fossil oil,237.3
+2024-10-15 13:30:00,Fossil oil,237.3
+2024-10-15 13:15:00,Fossil gas,4309.4
+2024-10-15 13:30:00,Fossil gas,4412.9
+2024-10-15 13:15:00,Geothermal,15.4
+2024-10-15 13:30:00,Geothermal,15.4
+2024-10-15 13:15:00,Hydro water reservoir,198.2
+2024-10-15 13:30:00,Hydro water reservoir,177.0
+2024-10-15 13:15:00,Hydro pumped storage,310.0
+2024-10-15 13:30:00,Hydro pumped storage,427.1
+2024-10-15 13:15:00,Others,187.1
+2024-10-15 13:30:00,Others,187.1
+2024-10-15 13:15:00,Waste,1174.3
+2024-10-15 13:30:00,Waste,1192.6
+2024-10-15 13:15:00,Wind offshore,2667.2
+2024-10-15 13:30:00,Wind offshore,2979.3
+2024-10-15 13:15:00,Wind onshore,5770.4
+2024-10-15 13:30:00,Wind onshore,5961.3
+2024-10-15 13:15:00,Solar,15793.4
+2024-10-15 13:30:00,Solar,14363.6
+2024-10-15 13:15:00,Load,60583.3
+2024-10-15 13:30:00,Load,60286.8
+2024-10-15 13:15:00,Residual load,36352.2
+2024-10-15 13:30:00,Residual load,36982.6
+2024-10-15 13:15:00,Renewable share of generation,61.0
+2024-10-15 13:30:00,Renewable share of generation,59.8
+2024-10-15 13:15:00,Renewable share of load,53.7
+2024-10-15 13:30:00,Renewable share of load,52.4
+2024-10-15 13:30:00,Hydro pumped storage consumption,-185.0
+2024-10-15 13:45:00,Hydro pumped storage consumption,-109.0
+2024-10-15 13:30:00,Cross border electricity trading,5236.8
+2024-10-15 13:45:00,Cross border electricity trading,5225.8
+2024-10-15 13:30:00,Hydro Run-of-River,2554.3
+2024-10-15 13:45:00,Hydro Run-of-River,2556.3
+2024-10-15 13:30:00,Biomass,4998.9
+2024-10-15 13:45:00,Biomass,5011.3
+2024-10-15 13:30:00,Fossil brown coal / lignite,11149.7
+2024-10-15 13:45:00,Fossil brown coal / lignite,11205.5
+2024-10-15 13:30:00,Fossil hard coal,4237.9
+2024-10-15 13:45:00,Fossil hard coal,4434.7
+2024-10-15 13:30:00,Fossil oil,237.3
+2024-10-15 13:45:00,Fossil oil,237.3
+2024-10-15 13:30:00,Fossil gas,4412.9
+2024-10-15 13:45:00,Fossil gas,4439.9
+2024-10-15 13:30:00,Geothermal,15.4
+2024-10-15 13:45:00,Geothermal,15.4
+2024-10-15 13:30:00,Hydro water reservoir,177.0
+2024-10-15 13:45:00,Hydro water reservoir,210.7
+2024-10-15 13:30:00,Hydro pumped storage,427.1
+2024-10-15 13:45:00,Hydro pumped storage,863.9
+2024-10-15 13:30:00,Others,187.1
+2024-10-15 13:45:00,Others,187.2
+2024-10-15 13:30:00,Waste,1192.6
+2024-10-15 13:45:00,Waste,1194.1
+2024-10-15 13:30:00,Wind offshore,2979.3
+2024-10-15 13:45:00,Wind offshore,3136.4
+2024-10-15 13:30:00,Wind onshore,5961.3
+2024-10-15 13:45:00,Wind onshore,6051.1
+2024-10-15 13:30:00,Solar,14363.6
+2024-10-15 13:45:00,Solar,12964.5
+2024-10-15 13:30:00,Load,60286.8
+2024-10-15 13:45:00,Load,59857.3
+2024-10-15 13:30:00,Residual load,36982.6
+2024-10-15 13:45:00,Residual load,37705.3
+2024-10-15 13:30:00,Renewable share of generation,59.8
+2024-10-15 13:45:00,Renewable share of generation,58.1
+2024-10-15 13:30:00,Renewable share of load,52.4
+2024-10-15 13:45:00,Renewable share of load,51.0
+2024-10-15 13:45:00,Hydro pumped storage consumption,-109.0
+2024-10-15 14:00:00,Hydro pumped storage consumption,-1245.6
+2024-10-15 13:45:00,Cross border electricity trading,5225.8
+2024-10-15 14:00:00,Cross border electricity trading,7119.5
+2024-10-15 13:45:00,Hydro Run-of-River,2556.3
+2024-10-15 14:00:00,Hydro Run-of-River,2563.5
+2024-10-15 13:45:00,Biomass,5011.3
+2024-10-15 14:00:00,Biomass,5038.7
+2024-10-15 13:45:00,Fossil brown coal / lignite,11205.5
+2024-10-15 14:00:00,Fossil brown coal / lignite,11321.2
+2024-10-15 13:45:00,Fossil hard coal,4434.7
+2024-10-15 14:00:00,Fossil hard coal,4525.6
+2024-10-15 13:45:00,Fossil oil,237.3
+2024-10-15 14:00:00,Fossil oil,237.3
+2024-10-15 13:45:00,Fossil gas,4439.9
+2024-10-15 14:00:00,Fossil gas,4528.5
+2024-10-15 13:45:00,Geothermal,15.4
+2024-10-15 14:00:00,Geothermal,15.4
+2024-10-15 13:45:00,Hydro water reservoir,210.7
+2024-10-15 14:00:00,Hydro water reservoir,117.6
+2024-10-15 13:45:00,Hydro pumped storage,863.9
+2024-10-15 14:00:00,Hydro pumped storage,355.3
+2024-10-15 13:45:00,Others,187.2
+2024-10-15 14:00:00,Others,187.2
+2024-10-15 13:45:00,Waste,1194.1
+2024-10-15 14:00:00,Waste,1199.3
+2024-10-15 13:45:00,Wind offshore,3136.4
+2024-10-15 14:00:00,Wind offshore,3378.8
+2024-10-15 13:45:00,Wind onshore,6051.1
+2024-10-15 14:00:00,Wind onshore,6207.5
+2024-10-15 13:45:00,Solar,12964.5
+2024-10-15 14:00:00,Solar,11421.6
+2024-10-15 13:45:00,Load,59857.3
+2024-10-15 14:00:00,Load,60158.4
+2024-10-15 13:45:00,Residual load,37705.3
+2024-10-15 14:00:00,Residual load,39150.5
+2024-10-15 13:45:00,Renewable share of generation,58.1
+2024-10-15 14:00:00,Renewable share of generation,57.4
+2024-10-15 13:45:00,Renewable share of load,51.0
+2024-10-15 14:00:00,Renewable share of load,48.7
+2024-10-15 14:00:00,Hydro pumped storage consumption,-1245.6
+2024-10-15 14:15:00,Hydro pumped storage consumption,-1064.9
+2024-10-15 14:00:00,Cross border electricity trading,7119.5
+2024-10-15 14:15:00,Cross border electricity trading,6820.0
+2024-10-15 14:00:00,Hydro Run-of-River,2563.5
+2024-10-15 14:15:00,Hydro Run-of-River,2590.8
+2024-10-15 14:00:00,Biomass,5038.7
+2024-10-15 14:15:00,Biomass,5063.9
+2024-10-15 14:00:00,Fossil brown coal / lignite,11321.2
+2024-10-15 14:15:00,Fossil brown coal / lignite,11543.8
+2024-10-15 14:00:00,Fossil hard coal,4525.6
+2024-10-15 14:15:00,Fossil hard coal,4705.9
+2024-10-15 14:00:00,Fossil oil,237.3
+2024-10-15 14:15:00,Fossil oil,237.3
+2024-10-15 14:00:00,Fossil gas,4528.5
+2024-10-15 14:15:00,Fossil gas,4651.9
+2024-10-15 14:00:00,Geothermal,15.4
+2024-10-15 14:15:00,Geothermal,15.4
+2024-10-15 14:00:00,Hydro water reservoir,117.6
+2024-10-15 14:15:00,Hydro water reservoir,186.1
+2024-10-15 14:00:00,Hydro pumped storage,355.3
+2024-10-15 14:15:00,Hydro pumped storage,608.0
+2024-10-15 14:00:00,Others,187.2
+2024-10-15 14:15:00,Others,187.2
+2024-10-15 14:00:00,Waste,1199.3
+2024-10-15 14:15:00,Waste,1182.5
+2024-10-15 14:00:00,Wind offshore,3378.8
+2024-10-15 14:15:00,Wind offshore,3633.2
+2024-10-15 14:00:00,Wind onshore,6207.5
+2024-10-15 14:15:00,Wind onshore,6395.4
+2024-10-15 14:00:00,Solar,11421.6
+2024-10-15 14:15:00,Solar,9793.2
+2024-10-15 14:00:00,Load,60158.4
+2024-10-15 14:15:00,Load,59742.0
+2024-10-15 14:00:00,Residual load,39150.5
+2024-10-15 14:15:00,Residual load,39920.2
+2024-10-15 14:00:00,Renewable share of generation,57.4
+2024-10-15 14:15:00,Renewable share of generation,55.6
+2024-10-15 14:00:00,Renewable share of load,48.7
+2024-10-15 14:15:00,Renewable share of load,47.3
+2024-10-15 14:15:00,Hydro pumped storage consumption,-1064.9
+2024-10-15 14:30:00,Hydro pumped storage consumption,-178.7
+2024-10-15 14:15:00,Cross border electricity trading,6820.0
+2024-10-15 14:30:00,Cross border electricity trading,6610.3
+2024-10-15 14:15:00,Hydro Run-of-River,2590.8
+2024-10-15 14:30:00,Hydro Run-of-River,2583.7
+2024-10-15 14:15:00,Biomass,5063.9
+2024-10-15 14:30:00,Biomass,5076.2
+2024-10-15 14:15:00,Fossil brown coal / lignite,11543.8
+2024-10-15 14:30:00,Fossil brown coal / lignite,11593.0
+2024-10-15 14:15:00,Fossil hard coal,4705.9
+2024-10-15 14:30:00,Fossil hard coal,4854.0
+2024-10-15 14:15:00,Fossil oil,237.3
+2024-10-15 14:30:00,Fossil oil,237.3
+2024-10-15 14:15:00,Fossil gas,4651.9
+2024-10-15 14:30:00,Fossil gas,4680.0
+2024-10-15 14:15:00,Geothermal,15.4
+2024-10-15 14:30:00,Geothermal,15.4
+2024-10-15 14:15:00,Hydro water reservoir,186.1
+2024-10-15 14:30:00,Hydro water reservoir,251.0
+2024-10-15 14:15:00,Hydro pumped storage,608.0
+2024-10-15 14:30:00,Hydro pumped storage,1432.8
+2024-10-15 14:15:00,Others,187.2
+2024-10-15 14:30:00,Others,187.1
+2024-10-15 14:15:00,Waste,1182.5
+2024-10-15 14:30:00,Waste,1183.7
+2024-10-15 14:15:00,Wind offshore,3633.2
+2024-10-15 14:30:00,Wind offshore,3815.1
+2024-10-15 14:15:00,Wind onshore,6395.4
+2024-10-15 14:30:00,Wind onshore,6541.1
+2024-10-15 14:15:00,Solar,9793.2
+2024-10-15 14:30:00,Solar,8071.9
+2024-10-15 14:15:00,Load,59742.0
+2024-10-15 14:30:00,Load,59115.2
+2024-10-15 14:15:00,Residual load,39920.2
+2024-10-15 14:30:00,Residual load,40687.1
+2024-10-15 14:15:00,Renewable share of generation,55.6
+2024-10-15 14:30:00,Renewable share of generation,53.3
+2024-10-15 14:15:00,Renewable share of load,47.3
+2024-10-15 14:30:00,Renewable share of load,45.5
+2024-10-15 14:30:00,Hydro pumped storage consumption,-178.7
+2024-10-15 14:45:00,Hydro pumped storage consumption,-116.8
+2024-10-15 14:30:00,Cross border electricity trading,6610.3
+2024-10-15 14:45:00,Cross border electricity trading,6389.3
+2024-10-15 14:30:00,Hydro Run-of-River,2583.7
+2024-10-15 14:45:00,Hydro Run-of-River,2580.7
+2024-10-15 14:30:00,Biomass,5076.2
+2024-10-15 14:45:00,Biomass,5092.5
+2024-10-15 14:30:00,Fossil brown coal / lignite,11593.0
+2024-10-15 14:45:00,Fossil brown coal / lignite,11592.3
+2024-10-15 14:30:00,Fossil hard coal,4854.0
+2024-10-15 14:45:00,Fossil hard coal,4933.5
+2024-10-15 14:30:00,Fossil oil,237.3
+2024-10-15 14:45:00,Fossil oil,237.3
+2024-10-15 14:30:00,Fossil gas,4680.0
+2024-10-15 14:45:00,Fossil gas,4753.6
+2024-10-15 14:30:00,Geothermal,15.4
+2024-10-15 14:45:00,Geothermal,15.4
+2024-10-15 14:30:00,Hydro water reservoir,251.0
+2024-10-15 14:45:00,Hydro water reservoir,351.8
+2024-10-15 14:30:00,Hydro pumped storage,1432.8
+2024-10-15 14:45:00,Hydro pumped storage,2306.7
+2024-10-15 14:30:00,Others,187.1
+2024-10-15 14:45:00,Others,187.1
+2024-10-15 14:30:00,Waste,1183.7
+2024-10-15 14:45:00,Waste,1183.7
+2024-10-15 14:30:00,Wind offshore,3815.1
+2024-10-15 14:45:00,Wind offshore,4008.7
+2024-10-15 14:30:00,Wind onshore,6541.1
+2024-10-15 14:45:00,Wind onshore,6847.7
+2024-10-15 14:30:00,Solar,8071.9
+2024-10-15 14:45:00,Solar,6347.9
+2024-10-15 14:30:00,Load,59115.2
+2024-10-15 14:45:00,Load,59256.7
+2024-10-15 14:30:00,Residual load,40687.1
+2024-10-15 14:45:00,Residual load,42052.5
+2024-10-15 14:30:00,Renewable share of generation,53.3
+2024-10-15 14:45:00,Renewable share of generation,51.2
+2024-10-15 14:30:00,Renewable share of load,45.5
+2024-10-15 14:45:00,Renewable share of load,43.5
+2024-10-15 14:45:00,Hydro pumped storage consumption,-116.8
+2024-10-15 15:00:00,Hydro pumped storage consumption,-11.8
+2024-10-15 14:45:00,Cross border electricity trading,6389.3
+2024-10-15 15:00:00,Cross border electricity trading,6857.1
+2024-10-15 14:45:00,Hydro Run-of-River,2580.7
+2024-10-15 15:00:00,Hydro Run-of-River,2580.3
+2024-10-15 14:45:00,Biomass,5092.5
+2024-10-15 15:00:00,Biomass,5121.6
+2024-10-15 14:45:00,Fossil brown coal / lignite,11592.3
+2024-10-15 15:00:00,Fossil brown coal / lignite,11585.2
+2024-10-15 14:45:00,Fossil hard coal,4933.5
+2024-10-15 15:00:00,Fossil hard coal,4991.0
+2024-10-15 14:45:00,Fossil oil,237.3
+2024-10-15 15:00:00,Fossil oil,237.3
+2024-10-15 14:45:00,Fossil gas,4753.6
+2024-10-15 15:00:00,Fossil gas,5125.8
+2024-10-15 14:45:00,Geothermal,15.4
+2024-10-15 15:00:00,Geothermal,15.4
+2024-10-15 14:45:00,Hydro water reservoir,351.8
+2024-10-15 15:00:00,Hydro water reservoir,445.1
+2024-10-15 14:45:00,Hydro pumped storage,2306.7
+2024-10-15 15:00:00,Hydro pumped storage,3070.4
+2024-10-15 14:45:00,Others,187.1
+2024-10-15 15:00:00,Others,187.1
+2024-10-15 14:45:00,Waste,1183.7
+2024-10-15 15:00:00,Waste,1196.8
+2024-10-15 14:45:00,Wind offshore,4008.7
+2024-10-15 15:00:00,Wind offshore,4286.7
+2024-10-15 14:45:00,Wind onshore,6847.7
+2024-10-15 15:00:00,Wind onshore,7088.9
+2024-10-15 14:45:00,Solar,6347.9
+2024-10-15 15:00:00,Solar,4720.8
+2024-10-15 14:45:00,Load,59256.7
+2024-10-15 15:00:00,Load,59357.9
+2024-10-15 14:45:00,Residual load,42052.5
+2024-10-15 15:00:00,Residual load,43261.5
+2024-10-15 14:45:00,Renewable share of generation,51.2
+2024-10-15 15:00:00,Renewable share of generation,49.0
+2024-10-15 14:45:00,Renewable share of load,43.5
+2024-10-15 15:00:00,Renewable share of load,41.8
+2024-10-15 15:00:00,Hydro pumped storage consumption,-11.8
+2024-10-15 15:15:00,Hydro pumped storage consumption,-11.6
+2024-10-15 15:00:00,Cross border electricity trading,6857.1
+2024-10-15 15:15:00,Cross border electricity trading,6693.2
+2024-10-15 15:00:00,Hydro Run-of-River,2580.3
+2024-10-15 15:15:00,Hydro Run-of-River,2587.2
+2024-10-15 15:00:00,Biomass,5121.6
+2024-10-15 15:15:00,Biomass,5130.7
+2024-10-15 15:00:00,Fossil brown coal / lignite,11585.2
+2024-10-15 15:15:00,Fossil brown coal / lignite,11637.8
+2024-10-15 15:00:00,Fossil hard coal,4991.0
+2024-10-15 15:15:00,Fossil hard coal,5039.2
+2024-10-15 15:00:00,Fossil oil,237.3
+2024-10-15 15:15:00,Fossil oil,237.3
+2024-10-15 15:00:00,Fossil gas,5125.8
+2024-10-15 15:15:00,Fossil gas,5364.5
+2024-10-15 15:00:00,Geothermal,15.4
+2024-10-15 15:15:00,Geothermal,15.4
+2024-10-15 15:00:00,Hydro water reservoir,445.1
+2024-10-15 15:15:00,Hydro water reservoir,487.2
+2024-10-15 15:00:00,Hydro pumped storage,3070.4
+2024-10-15 15:15:00,Hydro pumped storage,3790.4
+2024-10-15 15:00:00,Others,187.1
+2024-10-15 15:15:00,Others,187.2
+2024-10-15 15:00:00,Waste,1196.8
+2024-10-15 15:15:00,Waste,1197.0
+2024-10-15 15:00:00,Wind offshore,4286.7
+2024-10-15 15:15:00,Wind offshore,4492.5
+2024-10-15 15:00:00,Wind onshore,7088.9
+2024-10-15 15:15:00,Wind onshore,7420.6
+2024-10-15 15:00:00,Solar,4720.8
+2024-10-15 15:15:00,Solar,3231.1
+2024-10-15 15:00:00,Load,59357.9
+2024-10-15 15:15:00,Load,59471.9
+2024-10-15 15:00:00,Residual load,43261.5
+2024-10-15 15:15:00,Residual load,44327.8
+2024-10-15 15:00:00,Renewable share of generation,49.0
+2024-10-15 15:15:00,Renewable share of generation,47.1
+2024-10-15 15:00:00,Renewable share of load,41.8
+2024-10-15 15:15:00,Renewable share of load,40.2
+2024-10-15 15:15:00,Hydro pumped storage consumption,-11.6
+2024-10-15 15:30:00,Hydro pumped storage consumption,-13.8
+2024-10-15 15:15:00,Cross border electricity trading,6693.2
+2024-10-15 15:30:00,Cross border electricity trading,6612.0
+2024-10-15 15:15:00,Hydro Run-of-River,2587.2
+2024-10-15 15:30:00,Hydro Run-of-River,2588.0
+2024-10-15 15:15:00,Biomass,5130.7
+2024-10-15 15:30:00,Biomass,5153.9
+2024-10-15 15:15:00,Fossil brown coal / lignite,11637.8
+2024-10-15 15:30:00,Fossil brown coal / lignite,11649.1
+2024-10-15 15:15:00,Fossil hard coal,5039.2
+2024-10-15 15:30:00,Fossil hard coal,5048.1
+2024-10-15 15:15:00,Fossil oil,237.3
+2024-10-15 15:30:00,Fossil oil,237.3
+2024-10-15 15:15:00,Fossil gas,5364.5
+2024-10-15 15:30:00,Fossil gas,5511.4
+2024-10-15 15:15:00,Geothermal,15.4
+2024-10-15 15:30:00,Geothermal,15.4
+2024-10-15 15:15:00,Hydro water reservoir,487.2
+2024-10-15 15:30:00,Hydro water reservoir,529.4
+2024-10-15 15:15:00,Hydro pumped storage,3790.4
+2024-10-15 15:30:00,Hydro pumped storage,5087.8
+2024-10-15 15:15:00,Others,187.2
+2024-10-15 15:30:00,Others,187.1
+2024-10-15 15:15:00,Waste,1197.0
+2024-10-15 15:30:00,Waste,1199.6
+2024-10-15 15:15:00,Wind offshore,4492.5
+2024-10-15 15:30:00,Wind offshore,4748.2
+2024-10-15 15:15:00,Wind onshore,7420.6
+2024-10-15 15:30:00,Wind onshore,7854.1
+2024-10-15 15:15:00,Solar,3231.1
+2024-10-15 15:30:00,Solar,1936.8
+2024-10-15 15:15:00,Load,59471.9
+2024-10-15 15:30:00,Load,59760.0
+2024-10-15 15:15:00,Residual load,44327.8
+2024-10-15 15:30:00,Residual load,45220.8
+2024-10-15 15:15:00,Renewable share of generation,47.1
+2024-10-15 15:30:00,Renewable share of generation,45.2
+2024-10-15 15:15:00,Renewable share of load,40.2
+2024-10-15 15:30:00,Renewable share of load,39.1
+2024-10-15 15:30:00,Hydro pumped storage consumption,-13.8
+2024-10-15 15:45:00,Hydro pumped storage consumption,-4.1
+2024-10-15 15:30:00,Cross border electricity trading,6612.0
+2024-10-15 15:45:00,Cross border electricity trading,6739.6
+2024-10-15 15:30:00,Hydro Run-of-River,2588.0
+2024-10-15 15:45:00,Hydro Run-of-River,2581.1
+2024-10-15 15:30:00,Biomass,5153.9
+2024-10-15 15:45:00,Biomass,5165.6
+2024-10-15 15:30:00,Fossil brown coal / lignite,11649.1
+2024-10-15 15:45:00,Fossil brown coal / lignite,11627.2
+2024-10-15 15:30:00,Fossil hard coal,5048.1
+2024-10-15 15:45:00,Fossil hard coal,5026.9
+2024-10-15 15:30:00,Fossil oil,237.3
+2024-10-15 15:45:00,Fossil oil,294.9
+2024-10-15 15:30:00,Fossil gas,5511.4
+2024-10-15 15:45:00,Fossil gas,5595.6
+2024-10-15 15:30:00,Geothermal,15.4
+2024-10-15 15:45:00,Geothermal,15.4
+2024-10-15 15:30:00,Hydro water reservoir,529.4
+2024-10-15 15:45:00,Hydro water reservoir,491.5
+2024-10-15 15:30:00,Hydro pumped storage,5087.8
+2024-10-15 15:45:00,Hydro pumped storage,5316.1
+2024-10-15 15:30:00,Others,187.1
+2024-10-15 15:45:00,Others,187.1
+2024-10-15 15:30:00,Waste,1199.6
+2024-10-15 15:45:00,Waste,1203.1
+2024-10-15 15:30:00,Wind offshore,4748.2
+2024-10-15 15:45:00,Wind offshore,4937.1
+2024-10-15 15:30:00,Wind onshore,7854.1
+2024-10-15 15:45:00,Wind onshore,8515.9
+2024-10-15 15:30:00,Solar,1936.8
+2024-10-15 15:45:00,Solar,946.9
+2024-10-15 15:30:00,Load,59760.0
+2024-10-15 15:45:00,Load,59818.6
+2024-10-15 15:30:00,Residual load,45220.8
+2024-10-15 15:45:00,Residual load,45418.6
+2024-10-15 15:30:00,Renewable share of generation,45.2
+2024-10-15 15:45:00,Renewable share of generation,44.7
+2024-10-15 15:30:00,Renewable share of load,39.1
+2024-10-15 15:45:00,Renewable share of load,38.8
+2024-10-15 15:45:00,Hydro pumped storage consumption,-4.1
+2024-10-15 16:00:00,Hydro pumped storage consumption,-3.7
+2024-10-15 15:45:00,Cross border electricity trading,6739.6
+2024-10-15 16:00:00,Cross border electricity trading,5941.0
+2024-10-15 15:45:00,Hydro Run-of-River,2581.1
+2024-10-15 16:00:00,Hydro Run-of-River,2577.3
+2024-10-15 15:45:00,Biomass,5165.6
+2024-10-15 16:00:00,Biomass,5177.8
+2024-10-15 15:45:00,Fossil brown coal / lignite,11627.2
+2024-10-15 16:00:00,Fossil brown coal / lignite,11616.9
+2024-10-15 15:45:00,Fossil hard coal,5026.9
+2024-10-15 16:00:00,Fossil hard coal,4969.4
+2024-10-15 15:45:00,Fossil oil,294.9
+2024-10-15 16:00:00,Fossil oil,415.4
+2024-10-15 15:45:00,Fossil gas,5595.6
+2024-10-15 16:00:00,Fossil gas,5921.1
+2024-10-15 15:45:00,Geothermal,15.4
+2024-10-15 16:00:00,Geothermal,15.4
+2024-10-15 15:45:00,Hydro water reservoir,491.5
+2024-10-15 16:00:00,Hydro water reservoir,394.3
+2024-10-15 15:45:00,Hydro pumped storage,5316.1
+2024-10-15 16:00:00,Hydro pumped storage,5363.4
+2024-10-15 15:45:00,Others,187.1
+2024-10-15 16:00:00,Others,187.0
+2024-10-15 15:45:00,Waste,1203.1
+2024-10-15 16:00:00,Waste,1202.5
+2024-10-15 15:45:00,Wind offshore,4937.1
+2024-10-15 16:00:00,Wind offshore,5090.1
+2024-10-15 15:45:00,Wind onshore,8515.9
+2024-10-15 16:00:00,Wind onshore,9639.7
+2024-10-15 15:45:00,Solar,946.9
+2024-10-15 16:00:00,Solar,313.5
+2024-10-15 15:45:00,Load,59818.6
+2024-10-15 16:00:00,Load,59833.7
+2024-10-15 15:45:00,Residual load,45418.6
+2024-10-15 16:00:00,Residual load,44790.4
+2024-10-15 15:45:00,Renewable share of generation,44.7
+2024-10-15 16:00:00,Renewable share of generation,45.0
+2024-10-15 15:45:00,Renewable share of load,38.8
+2024-10-15 16:00:00,Renewable share of load,39.7
+2024-10-15 16:00:00,Hydro pumped storage consumption,-3.7
+2024-10-15 16:15:00,Hydro pumped storage consumption,-3.5
+2024-10-15 16:00:00,Cross border electricity trading,5941.0
+2024-10-15 16:15:00,Cross border electricity trading,5589.0
+2024-10-15 16:00:00,Hydro Run-of-River,2577.3
+2024-10-15 16:15:00,Hydro Run-of-River,2577.3
+2024-10-15 16:00:00,Biomass,5177.8
+2024-10-15 16:15:00,Biomass,5185.9
+2024-10-15 16:00:00,Fossil brown coal / lignite,11616.9
+2024-10-15 16:15:00,Fossil brown coal / lignite,11584.3
+2024-10-15 16:00:00,Fossil hard coal,4969.4
+2024-10-15 16:15:00,Fossil hard coal,4885.0
+2024-10-15 16:00:00,Fossil oil,415.4
+2024-10-15 16:15:00,Fossil oil,417.3
+2024-10-15 16:00:00,Fossil gas,5921.1
+2024-10-15 16:15:00,Fossil gas,6185.6
+2024-10-15 16:00:00,Geothermal,15.4
+2024-10-15 16:15:00,Geothermal,15.4
+2024-10-15 16:00:00,Hydro water reservoir,394.3
+2024-10-15 16:15:00,Hydro water reservoir,363.6
+2024-10-15 16:00:00,Hydro pumped storage,5363.4
+2024-10-15 16:15:00,Hydro pumped storage,5214.3
+2024-10-15 16:00:00,Others,187.0
+2024-10-15 16:15:00,Others,187.0
+2024-10-15 16:00:00,Waste,1202.5
+2024-10-15 16:15:00,Waste,1201.6
+2024-10-15 16:00:00,Wind offshore,5090.1
+2024-10-15 16:15:00,Wind offshore,5311.1
+2024-10-15 16:00:00,Wind onshore,9639.7
+2024-10-15 16:15:00,Wind onshore,10865.5
+2024-10-15 16:00:00,Solar,313.5
+2024-10-15 16:15:00,Solar,54.3
+2024-10-15 16:00:00,Load,59833.7
+2024-10-15 16:15:00,Load,59989.9
+2024-10-15 16:00:00,Residual load,44790.4
+2024-10-15 16:15:00,Residual load,43759.0
+2024-10-15 16:00:00,Renewable share of generation,45.0
+2024-10-15 16:15:00,Renewable share of generation,46.1
+2024-10-15 16:00:00,Renewable share of load,39.7
+2024-10-15 16:15:00,Renewable share of load,41.6
+2024-10-15 16:15:00,Hydro pumped storage consumption,-3.5
+2024-10-15 16:30:00,Hydro pumped storage consumption,-3.4
+2024-10-15 16:15:00,Cross border electricity trading,5589.0
+2024-10-15 16:30:00,Cross border electricity trading,5501.5
+2024-10-15 16:15:00,Hydro Run-of-River,2577.3
+2024-10-15 16:30:00,Hydro Run-of-River,2580.4
+2024-10-15 16:15:00,Biomass,5185.9
+2024-10-15 16:30:00,Biomass,5174.7
+2024-10-15 16:15:00,Fossil brown coal / lignite,11584.3
+2024-10-15 16:30:00,Fossil brown coal / lignite,11620.6
+2024-10-15 16:15:00,Fossil hard coal,4885.0
+2024-10-15 16:30:00,Fossil hard coal,4854.1
+2024-10-15 16:15:00,Fossil oil,417.3
+2024-10-15 16:30:00,Fossil oil,378.0
+2024-10-15 16:15:00,Fossil gas,6185.6
+2024-10-15 16:30:00,Fossil gas,6155.5
+2024-10-15 16:15:00,Geothermal,15.4
+2024-10-15 16:30:00,Geothermal,15.4
+2024-10-15 16:15:00,Hydro water reservoir,363.6
+2024-10-15 16:30:00,Hydro water reservoir,440.3
+2024-10-15 16:15:00,Hydro pumped storage,5214.3
+2024-10-15 16:30:00,Hydro pumped storage,5297.7
+2024-10-15 16:15:00,Others,187.0
+2024-10-15 16:30:00,Others,187.0
+2024-10-15 16:15:00,Waste,1201.6
+2024-10-15 16:30:00,Waste,1205.3
+2024-10-15 16:15:00,Wind offshore,5311.1
+2024-10-15 16:30:00,Wind offshore,5010.9
+2024-10-15 16:15:00,Wind onshore,10865.5
+2024-10-15 16:30:00,Wind onshore,12023.5
+2024-10-15 16:15:00,Solar,54.3
+2024-10-15 16:30:00,Solar,4.3
+2024-10-15 16:15:00,Load,59989.9
+2024-10-15 16:30:00,Load,61015.3
+2024-10-15 16:15:00,Residual load,43759.0
+2024-10-15 16:30:00,Residual load,43976.6
+2024-10-15 16:15:00,Renewable share of generation,46.1
+2024-10-15 16:30:00,Renewable share of generation,47.0
+2024-10-15 16:15:00,Renewable share of load,41.6
+2024-10-15 16:30:00,Renewable share of load,42.3
+2024-10-15 16:30:00,Hydro pumped storage consumption,-3.4
+2024-10-15 16:45:00,Hydro pumped storage consumption,-5.1
+2024-10-15 16:30:00,Cross border electricity trading,5501.5
+2024-10-15 16:45:00,Cross border electricity trading,5534.3
+2024-10-15 16:30:00,Hydro Run-of-River,2580.4
+2024-10-15 16:45:00,Hydro Run-of-River,2580.0
+2024-10-15 16:30:00,Biomass,5174.7
+2024-10-15 16:45:00,Biomass,5141.0
+2024-10-15 16:30:00,Fossil brown coal / lignite,11620.6
+2024-10-15 16:45:00,Fossil brown coal / lignite,11559.9
+2024-10-15 16:30:00,Fossil hard coal,4854.1
+2024-10-15 16:45:00,Fossil hard coal,4728.2
+2024-10-15 16:30:00,Fossil oil,378.0
+2024-10-15 16:45:00,Fossil oil,239.3
+2024-10-15 16:30:00,Fossil gas,6155.5
+2024-10-15 16:45:00,Fossil gas,6164.2
+2024-10-15 16:30:00,Geothermal,15.4
+2024-10-15 16:45:00,Geothermal,15.4
+2024-10-15 16:30:00,Hydro water reservoir,440.3
+2024-10-15 16:45:00,Hydro water reservoir,436.5
+2024-10-15 16:30:00,Hydro pumped storage,5297.7
+2024-10-15 16:45:00,Hydro pumped storage,4206.8
+2024-10-15 16:30:00,Others,187.0
+2024-10-15 16:45:00,Others,186.9
+2024-10-15 16:30:00,Waste,1205.3
+2024-10-15 16:45:00,Waste,1199.4
+2024-10-15 16:30:00,Wind offshore,5010.9
+2024-10-15 16:45:00,Wind offshore,5145.1
+2024-10-15 16:30:00,Wind onshore,12023.5
+2024-10-15 16:45:00,Wind onshore,13193.2
+2024-10-15 16:30:00,Solar,4.3
+2024-10-15 16:45:00,Solar,0.5
+2024-10-15 16:30:00,Load,61015.3
+2024-10-15 16:45:00,Load,62220.6
+2024-10-15 16:30:00,Residual load,43976.6
+2024-10-15 16:45:00,Residual load,43881.9
+2024-10-15 16:30:00,Renewable share of generation,47.0
+2024-10-15 16:45:00,Renewable share of generation,49.4
+2024-10-15 16:30:00,Renewable share of load,42.3
+2024-10-15 16:45:00,Renewable share of load,43.5
+2024-10-15 16:45:00,Hydro pumped storage consumption,-5.1
+2024-10-15 17:00:00,Hydro pumped storage consumption,-13.0
+2024-10-15 16:45:00,Cross border electricity trading,5534.3
+2024-10-15 17:00:00,Cross border electricity trading,4898.2
+2024-10-15 16:45:00,Hydro Run-of-River,2580.0
+2024-10-15 17:00:00,Hydro Run-of-River,2579.2
+2024-10-15 16:45:00,Biomass,5141.0
+2024-10-15 17:00:00,Biomass,5136.4
+2024-10-15 16:45:00,Fossil brown coal / lignite,11559.9
+2024-10-15 17:00:00,Fossil brown coal / lignite,11599.4
+2024-10-15 16:45:00,Fossil hard coal,4728.2
+2024-10-15 17:00:00,Fossil hard coal,4590.6
+2024-10-15 16:45:00,Fossil oil,239.3
+2024-10-15 17:00:00,Fossil oil,237.3
+2024-10-15 16:45:00,Fossil gas,6164.2
+2024-10-15 17:00:00,Fossil gas,6324.6
+2024-10-15 16:45:00,Geothermal,15.4
+2024-10-15 17:00:00,Geothermal,15.4
+2024-10-15 16:45:00,Hydro water reservoir,436.5
+2024-10-15 17:00:00,Hydro water reservoir,480.5
+2024-10-15 16:45:00,Hydro pumped storage,4206.8
+2024-10-15 17:00:00,Hydro pumped storage,3099.0
+2024-10-15 16:45:00,Others,186.9
+2024-10-15 17:00:00,Others,187.0
+2024-10-15 16:45:00,Waste,1199.4
+2024-10-15 17:00:00,Waste,1200.4
+2024-10-15 16:45:00,Wind offshore,5145.1
+2024-10-15 17:00:00,Wind offshore,5291.8
+2024-10-15 16:45:00,Wind onshore,13193.2
+2024-10-15 17:00:00,Wind onshore,14447.6
+2024-10-15 16:45:00,Solar,0.5
+2024-10-15 17:00:00,Solar,0.0
+2024-10-15 16:45:00,Load,62220.6
+2024-10-15 17:00:00,Load,62658.1
+2024-10-15 16:45:00,Residual load,43881.9
+2024-10-15 17:00:00,Residual load,42918.8
+2024-10-15 16:45:00,Renewable share of generation,49.4
+2024-10-15 17:00:00,Renewable share of generation,51.7
+2024-10-15 16:45:00,Renewable share of load,43.5
+2024-10-15 17:00:00,Renewable share of load,45.5
+2024-10-15 17:00:00,Hydro pumped storage consumption,-13.0
+2024-10-15 17:15:00,Hydro pumped storage consumption,-12.6
+2024-10-15 17:00:00,Cross border electricity trading,4898.2
+2024-10-15 17:15:00,Cross border electricity trading,4879.0
+2024-10-15 17:00:00,Hydro Run-of-River,2579.2
+2024-10-15 17:15:00,Hydro Run-of-River,2580.2
+2024-10-15 17:00:00,Biomass,5136.4
+2024-10-15 17:15:00,Biomass,5127.6
+2024-10-15 17:00:00,Fossil brown coal / lignite,11599.4
+2024-10-15 17:15:00,Fossil brown coal / lignite,11519.2
+2024-10-15 17:00:00,Fossil hard coal,4590.6
+2024-10-15 17:15:00,Fossil hard coal,4208.1
+2024-10-15 17:00:00,Fossil oil,237.3
+2024-10-15 17:15:00,Fossil oil,237.3
+2024-10-15 17:00:00,Fossil gas,6324.6
+2024-10-15 17:15:00,Fossil gas,6557.8
+2024-10-15 17:00:00,Geothermal,15.4
+2024-10-15 17:15:00,Geothermal,15.4
+2024-10-15 17:00:00,Hydro water reservoir,480.5
+2024-10-15 17:15:00,Hydro water reservoir,403.6
+2024-10-15 17:00:00,Hydro pumped storage,3099.0
+2024-10-15 17:15:00,Hydro pumped storage,2495.9
+2024-10-15 17:00:00,Others,187.0
+2024-10-15 17:15:00,Others,187.1
+2024-10-15 17:00:00,Waste,1200.4
+2024-10-15 17:15:00,Waste,1183.2
+2024-10-15 17:00:00,Wind offshore,5291.8
+2024-10-15 17:15:00,Wind offshore,5494.1
+2024-10-15 17:00:00,Wind onshore,14447.6
+2024-10-15 17:15:00,Wind onshore,15826.2
+2024-10-15 17:00:00,Solar,0.0
+2024-10-15 17:15:00,Solar,0.0
+2024-10-15 17:00:00,Load,62658.1
+2024-10-15 17:15:00,Load,61967.8
+2024-10-15 17:00:00,Residual load,42918.8
+2024-10-15 17:15:00,Residual load,40647.5
+2024-10-15 17:00:00,Renewable share of generation,51.7
+2024-10-15 17:15:00,Renewable share of generation,53.7
+2024-10-15 17:00:00,Renewable share of load,45.5
+2024-10-15 17:15:00,Renewable share of load,48.4
+2024-10-15 17:15:00,Hydro pumped storage consumption,-12.6
+2024-10-15 17:30:00,Hydro pumped storage consumption,-13.3
+2024-10-15 17:15:00,Cross border electricity trading,4879.0
+2024-10-15 17:30:00,Cross border electricity trading,4578.1
+2024-10-15 17:15:00,Hydro Run-of-River,2580.2
+2024-10-15 17:30:00,Hydro Run-of-River,2582.0
+2024-10-15 17:15:00,Biomass,5127.6
+2024-10-15 17:30:00,Biomass,5110.7
+2024-10-15 17:15:00,Fossil brown coal / lignite,11519.2
+2024-10-15 17:30:00,Fossil brown coal / lignite,11501.4
+2024-10-15 17:15:00,Fossil hard coal,4208.1
+2024-10-15 17:30:00,Fossil hard coal,3858.3
+2024-10-15 17:15:00,Fossil oil,237.3
+2024-10-15 17:30:00,Fossil oil,237.3
+2024-10-15 17:15:00,Fossil gas,6557.8
+2024-10-15 17:30:00,Fossil gas,6452.3
+2024-10-15 17:15:00,Geothermal,15.4
+2024-10-15 17:30:00,Geothermal,15.4
+2024-10-15 17:15:00,Hydro water reservoir,403.6
+2024-10-15 17:30:00,Hydro water reservoir,327.8
+2024-10-15 17:15:00,Hydro pumped storage,2495.9
+2024-10-15 17:30:00,Hydro pumped storage,2045.3
+2024-10-15 17:15:00,Others,187.1
+2024-10-15 17:30:00,Others,187.1
+2024-10-15 17:15:00,Waste,1183.2
+2024-10-15 17:30:00,Waste,1168.7
+2024-10-15 17:15:00,Wind offshore,5494.1
+2024-10-15 17:30:00,Wind offshore,5682.7
+2024-10-15 17:15:00,Wind onshore,15826.2
+2024-10-15 17:30:00,Wind onshore,17192.0
+2024-10-15 17:15:00,Solar,0.0
+2024-10-15 17:30:00,Solar,0.0
+2024-10-15 17:15:00,Load,61967.8
+2024-10-15 17:30:00,Load,61970.1
+2024-10-15 17:15:00,Residual load,40647.5
+2024-10-15 17:30:00,Residual load,39095.4
+2024-10-15 17:15:00,Renewable share of generation,53.7
+2024-10-15 17:30:00,Renewable share of generation,55.8
+2024-10-15 17:15:00,Renewable share of load,48.4
+2024-10-15 17:30:00,Renewable share of load,50.8
+2024-10-15 17:30:00,Hydro pumped storage consumption,-13.3
+2024-10-15 17:45:00,Hydro pumped storage consumption,-12.4
+2024-10-15 17:30:00,Cross border electricity trading,4578.1
+2024-10-15 17:45:00,Cross border electricity trading,4665.2
+2024-10-15 17:30:00,Hydro Run-of-River,2582.0
+2024-10-15 17:45:00,Hydro Run-of-River,2585.3
+2024-10-15 17:30:00,Biomass,5110.7
+2024-10-15 17:45:00,Biomass,5057.6
+2024-10-15 17:30:00,Fossil brown coal / lignite,11501.4
+2024-10-15 17:45:00,Fossil brown coal / lignite,11447.0
+2024-10-15 17:30:00,Fossil hard coal,3858.3
+2024-10-15 17:45:00,Fossil hard coal,3539.2
+2024-10-15 17:30:00,Fossil oil,237.3
+2024-10-15 17:45:00,Fossil oil,237.3
+2024-10-15 17:30:00,Fossil gas,6452.3
+2024-10-15 17:45:00,Fossil gas,6297.5
+2024-10-15 17:30:00,Geothermal,15.4
+2024-10-15 17:45:00,Geothermal,15.4
+2024-10-15 17:30:00,Hydro water reservoir,327.8
+2024-10-15 17:45:00,Hydro water reservoir,245.9
+2024-10-15 17:30:00,Hydro pumped storage,2045.3
+2024-10-15 17:45:00,Hydro pumped storage,1415.9
+2024-10-15 17:30:00,Others,187.1
+2024-10-15 17:45:00,Others,187.1
+2024-10-15 17:30:00,Waste,1168.7
+2024-10-15 17:45:00,Waste,1175.7
+2024-10-15 17:30:00,Wind offshore,5682.7
+2024-10-15 17:45:00,Wind offshore,5508.8
+2024-10-15 17:30:00,Wind onshore,17192.0
+2024-10-15 17:45:00,Wind onshore,18050.1
+2024-10-15 17:30:00,Solar,0.0
+2024-10-15 17:45:00,Solar,0.0
+2024-10-15 17:30:00,Load,61970.1
+2024-10-15 17:45:00,Load,61643.7
+2024-10-15 17:30:00,Residual load,39095.4
+2024-10-15 17:45:00,Residual load,38084.8
+2024-10-15 17:30:00,Renewable share of generation,55.8
+2024-10-15 17:45:00,Renewable share of generation,57.4
+2024-10-15 17:30:00,Renewable share of load,50.8
+2024-10-15 17:45:00,Renewable share of load,51.9
+2024-10-15 17:45:00,Hydro pumped storage consumption,-12.4
+2024-10-15 18:00:00,Hydro pumped storage consumption,-39.4
+2024-10-15 17:45:00,Cross border electricity trading,4665.2
+2024-10-15 18:00:00,Cross border electricity trading,1551.4
+2024-10-15 17:45:00,Hydro Run-of-River,2585.3
+2024-10-15 18:00:00,Hydro Run-of-River,2586.4
+2024-10-15 17:45:00,Biomass,5057.6
+2024-10-15 18:00:00,Biomass,5045.9
+2024-10-15 17:45:00,Fossil brown coal / lignite,11447.0
+2024-10-15 18:00:00,Fossil brown coal / lignite,11214.3
+2024-10-15 17:45:00,Fossil hard coal,3539.2
+2024-10-15 18:00:00,Fossil hard coal,3137.6
+2024-10-15 17:45:00,Fossil oil,237.3
+2024-10-15 18:00:00,Fossil oil,237.3
+2024-10-15 17:45:00,Fossil gas,6297.5
+2024-10-15 18:00:00,Fossil gas,5935.0
+2024-10-15 17:45:00,Geothermal,15.4
+2024-10-15 18:00:00,Geothermal,15.4
+2024-10-15 17:45:00,Hydro water reservoir,245.9
+2024-10-15 18:00:00,Hydro water reservoir,311.8
+2024-10-15 17:45:00,Hydro pumped storage,1415.9
+2024-10-15 18:00:00,Hydro pumped storage,1958.4
+2024-10-15 17:45:00,Others,187.1
+2024-10-15 18:00:00,Others,187.0
+2024-10-15 17:45:00,Waste,1175.7
+2024-10-15 18:00:00,Waste,1170.0
+2024-10-15 17:45:00,Wind offshore,5508.8
+2024-10-15 18:00:00,Wind offshore,5168.2
+2024-10-15 17:45:00,Wind onshore,18050.1
+2024-10-15 18:00:00,Wind onshore,18803.2
+2024-10-15 17:45:00,Solar,0.0
+2024-10-15 18:00:00,Solar,0.0
+2024-10-15 17:45:00,Load,61643.7
+2024-10-15 18:00:00,Load,60477.3
+2024-10-15 17:45:00,Residual load,38084.8
+2024-10-15 18:00:00,Residual load,36505.8
+2024-10-15 17:45:00,Renewable share of generation,57.4
+2024-10-15 18:00:00,Renewable share of generation,58.2
+2024-10-15 17:45:00,Renewable share of load,51.9
+2024-10-15 18:00:00,Renewable share of load,53.7
+2024-10-15 18:00:00,Hydro pumped storage consumption,-39.4
+2024-10-15 18:15:00,Hydro pumped storage consumption,-13.2
+2024-10-15 18:00:00,Cross border electricity trading,1551.4
+2024-10-15 18:15:00,Cross border electricity trading,1646.7
+2024-10-15 18:00:00,Hydro Run-of-River,2586.4
+2024-10-15 18:15:00,Hydro Run-of-River,2585.2
+2024-10-15 18:00:00,Biomass,5045.9
+2024-10-15 18:15:00,Biomass,5032.9
+2024-10-15 18:00:00,Fossil brown coal / lignite,11214.3
+2024-10-15 18:15:00,Fossil brown coal / lignite,11054.7
+2024-10-15 18:00:00,Fossil hard coal,3137.6
+2024-10-15 18:15:00,Fossil hard coal,2881.6
+2024-10-15 18:00:00,Fossil oil,237.3
+2024-10-15 18:15:00,Fossil oil,237.3
+2024-10-15 18:00:00,Fossil gas,5935.0
+2024-10-15 18:15:00,Fossil gas,5787.3
+2024-10-15 18:00:00,Geothermal,15.4
+2024-10-15 18:15:00,Geothermal,15.4
+2024-10-15 18:00:00,Hydro water reservoir,311.8
+2024-10-15 18:15:00,Hydro water reservoir,192.2
+2024-10-15 18:00:00,Hydro pumped storage,1958.4
+2024-10-15 18:15:00,Hydro pumped storage,1490.3
+2024-10-15 18:00:00,Others,187.0
+2024-10-15 18:15:00,Others,186.9
+2024-10-15 18:00:00,Waste,1170.0
+2024-10-15 18:15:00,Waste,1191.5
+2024-10-15 18:00:00,Wind offshore,5168.2
+2024-10-15 18:15:00,Wind offshore,5168.6
+2024-10-15 18:00:00,Wind onshore,18803.2
+2024-10-15 18:15:00,Wind onshore,19511.9
+2024-10-15 18:00:00,Solar,0.0
+2024-10-15 18:15:00,Solar,0.0
+2024-10-15 18:00:00,Load,60477.3
+2024-10-15 18:15:00,Load,59679.4
+2024-10-15 18:00:00,Residual load,36505.8
+2024-10-15 18:15:00,Residual load,34999.0
+2024-10-15 18:00:00,Renewable share of generation,58.2
+2024-10-15 18:15:00,Renewable share of generation,59.8
+2024-10-15 18:00:00,Renewable share of load,53.7
+2024-10-15 18:15:00,Renewable share of load,55.4
+2024-10-15 18:15:00,Hydro pumped storage consumption,-13.2
+2024-10-15 18:30:00,Hydro pumped storage consumption,-18.3
+2024-10-15 18:15:00,Cross border electricity trading,1646.7
+2024-10-15 18:30:00,Cross border electricity trading,2646.5
+2024-10-15 18:15:00,Hydro Run-of-River,2585.2
+2024-10-15 18:30:00,Hydro Run-of-River,2587.2
+2024-10-15 18:15:00,Biomass,5032.9
+2024-10-15 18:30:00,Biomass,5034.0
+2024-10-15 18:15:00,Fossil brown coal / lignite,11054.7
+2024-10-15 18:30:00,Fossil brown coal / lignite,10775.0
+2024-10-15 18:15:00,Fossil hard coal,2881.6
+2024-10-15 18:30:00,Fossil hard coal,2644.4
+2024-10-15 18:15:00,Fossil oil,237.3
+2024-10-15 18:30:00,Fossil oil,237.3
+2024-10-15 18:15:00,Fossil gas,5787.3
+2024-10-15 18:30:00,Fossil gas,5668.2
+2024-10-15 18:15:00,Geothermal,15.4
+2024-10-15 18:30:00,Geothermal,15.4
+2024-10-15 18:15:00,Hydro water reservoir,192.2
+2024-10-15 18:30:00,Hydro water reservoir,237.6
+2024-10-15 18:15:00,Hydro pumped storage,1490.3
+2024-10-15 18:30:00,Hydro pumped storage,732.8
+2024-10-15 18:15:00,Others,186.9
+2024-10-15 18:30:00,Others,186.9
+2024-10-15 18:15:00,Waste,1191.5
+2024-10-15 18:30:00,Waste,1205.5
+2024-10-15 18:15:00,Wind offshore,5168.6
+2024-10-15 18:30:00,Wind offshore,5171.4
+2024-10-15 18:15:00,Wind onshore,19511.9
+2024-10-15 18:30:00,Wind onshore,20012.0
+2024-10-15 18:15:00,Solar,0.0
+2024-10-15 18:30:00,Solar,0.0
+2024-10-15 18:15:00,Load,59679.4
+2024-10-15 18:30:00,Load,58994.5
+2024-10-15 18:15:00,Residual load,34999.0
+2024-10-15 18:30:00,Residual load,33811.1
+2024-10-15 18:15:00,Renewable share of generation,59.8
+2024-10-15 18:30:00,Renewable share of generation,61.7
+2024-10-15 18:15:00,Renewable share of load,55.4
+2024-10-15 18:30:00,Renewable share of load,57.0
+2024-10-15 18:30:00,Hydro pumped storage consumption,-18.3
+2024-10-15 18:45:00,Hydro pumped storage consumption,-19.6
+2024-10-15 18:30:00,Cross border electricity trading,2646.5
+2024-10-15 18:45:00,Cross border electricity trading,2669.9
+2024-10-15 18:30:00,Hydro Run-of-River,2587.2
+2024-10-15 18:45:00,Hydro Run-of-River,2589.1
+2024-10-15 18:30:00,Biomass,5034.0
+2024-10-15 18:45:00,Biomass,4990.9
+2024-10-15 18:30:00,Fossil brown coal / lignite,10775.0
+2024-10-15 18:45:00,Fossil brown coal / lignite,10275.5
+2024-10-15 18:30:00,Fossil hard coal,2644.4
+2024-10-15 18:45:00,Fossil hard coal,2575.9
+2024-10-15 18:30:00,Fossil oil,237.3
+2024-10-15 18:45:00,Fossil oil,237.3
+2024-10-15 18:30:00,Fossil gas,5668.2
+2024-10-15 18:45:00,Fossil gas,5586.0
+2024-10-15 18:30:00,Geothermal,15.4
+2024-10-15 18:45:00,Geothermal,15.4
+2024-10-15 18:30:00,Hydro water reservoir,237.6
+2024-10-15 18:45:00,Hydro water reservoir,120.8
+2024-10-15 18:30:00,Hydro pumped storage,732.8
+2024-10-15 18:45:00,Hydro pumped storage,428.9
+2024-10-15 18:30:00,Others,186.9
+2024-10-15 18:45:00,Others,187.0
+2024-10-15 18:30:00,Waste,1205.5
+2024-10-15 18:45:00,Waste,1209.9
+2024-10-15 18:30:00,Wind offshore,5171.4
+2024-10-15 18:45:00,Wind offshore,5243.9
+2024-10-15 18:30:00,Wind onshore,20012.0
+2024-10-15 18:45:00,Wind onshore,20457.3
+2024-10-15 18:30:00,Solar,0.0
+2024-10-15 18:45:00,Solar,0.0
+2024-10-15 18:30:00,Load,58994.5
+2024-10-15 18:45:00,Load,58227.4
+2024-10-15 18:30:00,Residual load,33811.1
+2024-10-15 18:45:00,Residual load,32526.2
+2024-10-15 18:30:00,Renewable share of generation,61.7
+2024-10-15 18:45:00,Renewable share of generation,63.0
+2024-10-15 18:30:00,Renewable share of load,57.0
+2024-10-15 18:45:00,Renewable share of load,58.4
+2024-10-15 18:45:00,Hydro pumped storage consumption,-19.6
+2024-10-15 19:00:00,Hydro pumped storage consumption,-62.4
+2024-10-15 18:45:00,Cross border electricity trading,2669.9
+2024-10-15 19:00:00,Cross border electricity trading,1597.4
+2024-10-15 18:45:00,Hydro Run-of-River,2589.1
+2024-10-15 19:00:00,Hydro Run-of-River,2591.2
+2024-10-15 18:45:00,Biomass,4990.9
+2024-10-15 19:00:00,Biomass,4984.8
+2024-10-15 18:45:00,Fossil brown coal / lignite,10275.5
+2024-10-15 19:00:00,Fossil brown coal / lignite,9915.9
+2024-10-15 18:45:00,Fossil hard coal,2575.9
+2024-10-15 19:00:00,Fossil hard coal,2193.0
+2024-10-15 18:45:00,Fossil oil,237.3
+2024-10-15 19:00:00,Fossil oil,237.3
+2024-10-15 18:45:00,Fossil gas,5586.0
+2024-10-15 19:00:00,Fossil gas,5367.7
+2024-10-15 18:45:00,Geothermal,15.4
+2024-10-15 19:00:00,Geothermal,15.4
+2024-10-15 18:45:00,Hydro water reservoir,120.8
+2024-10-15 19:00:00,Hydro water reservoir,121.8
+2024-10-15 18:45:00,Hydro pumped storage,428.9
+2024-10-15 19:00:00,Hydro pumped storage,298.9
+2024-10-15 18:45:00,Others,187.0
+2024-10-15 19:00:00,Others,186.9
+2024-10-15 18:45:00,Waste,1209.9
+2024-10-15 19:00:00,Waste,1189.5
+2024-10-15 18:45:00,Wind offshore,5243.9
+2024-10-15 19:00:00,Wind offshore,5458.4
+2024-10-15 18:45:00,Wind onshore,20457.3
+2024-10-15 19:00:00,Wind onshore,21142.9
+2024-10-15 18:45:00,Solar,0.0
+2024-10-15 19:00:00,Solar,0.0
+2024-10-15 18:45:00,Load,58227.4
+2024-10-15 19:00:00,Load,56706.9
+2024-10-15 18:45:00,Residual load,32526.2
+2024-10-15 19:00:00,Residual load,30105.6
+2024-10-15 18:45:00,Renewable share of generation,63.0
+2024-10-15 19:00:00,Renewable share of generation,64.9
+2024-10-15 18:45:00,Renewable share of load,58.4
+2024-10-15 19:00:00,Renewable share of load,61.5
+2024-10-15 19:00:00,Hydro pumped storage consumption,-62.4
+2024-10-15 19:15:00,Hydro pumped storage consumption,-307.7
+2024-10-15 19:00:00,Cross border electricity trading,1597.4
+2024-10-15 19:15:00,Cross border electricity trading,1597.4
+2024-10-15 19:00:00,Hydro Run-of-River,2591.2
+2024-10-15 19:15:00,Hydro Run-of-River,2595.0
+2024-10-15 19:00:00,Biomass,4984.8
+2024-10-15 19:15:00,Biomass,4972.8
+2024-10-15 19:00:00,Fossil brown coal / lignite,9915.9
+2024-10-15 19:15:00,Fossil brown coal / lignite,9850.2
+2024-10-15 19:00:00,Fossil hard coal,2193.0
+2024-10-15 19:15:00,Fossil hard coal,1826.8
+2024-10-15 19:00:00,Fossil oil,237.3
+2024-10-15 19:15:00,Fossil oil,237.3
+2024-10-15 19:00:00,Fossil gas,5367.7
+2024-10-15 19:15:00,Fossil gas,5094.8
+2024-10-15 19:00:00,Geothermal,15.4
+2024-10-15 19:15:00,Geothermal,15.4
+2024-10-15 19:00:00,Hydro water reservoir,121.8
+2024-10-15 19:15:00,Hydro water reservoir,57.0
+2024-10-15 19:00:00,Hydro pumped storage,298.9
+2024-10-15 19:15:00,Hydro pumped storage,183.7
+2024-10-15 19:00:00,Others,186.9
+2024-10-15 19:15:00,Others,186.9
+2024-10-15 19:00:00,Waste,1189.5
+2024-10-15 19:15:00,Waste,1182.1
+2024-10-15 19:00:00,Wind offshore,5458.4
+2024-10-15 19:15:00,Wind offshore,5453.6
+2024-10-15 19:00:00,Wind onshore,21142.9
+2024-10-15 19:15:00,Wind onshore,21942.2
+2024-10-15 19:00:00,Solar,0.0
+2024-10-15 19:15:00,Solar,0.0
+2024-10-15 19:00:00,Load,56706.9
+2024-10-15 19:15:00,Load,55964.1
+2024-10-15 19:00:00,Residual load,30105.6
+2024-10-15 19:15:00,Residual load,28568.3
+2024-10-15 19:00:00,Renewable share of generation,64.9
+2024-10-15 19:15:00,Renewable share of generation,66.4
+2024-10-15 19:00:00,Renewable share of load,61.5
+2024-10-15 19:15:00,Renewable share of load,63.6
+2024-10-15 19:15:00,Hydro pumped storage consumption,-307.7
+2024-10-15 19:30:00,Hydro pumped storage consumption,-949.3
+2024-10-15 19:15:00,Cross border electricity trading,1597.4
+2024-10-15 19:30:00,Cross border electricity trading,1666.1
+2024-10-15 19:15:00,Hydro Run-of-River,2595.0
+2024-10-15 19:30:00,Hydro Run-of-River,2596.5
+2024-10-15 19:15:00,Biomass,4972.8
+2024-10-15 19:30:00,Biomass,4959.4
+2024-10-15 19:15:00,Fossil brown coal / lignite,9850.2
+2024-10-15 19:30:00,Fossil brown coal / lignite,9657.0
+2024-10-15 19:15:00,Fossil hard coal,1826.8
+2024-10-15 19:30:00,Fossil hard coal,1825.2
+2024-10-15 19:15:00,Fossil oil,237.3
+2024-10-15 19:30:00,Fossil oil,237.3
+2024-10-15 19:15:00,Fossil gas,5094.8
+2024-10-15 19:30:00,Fossil gas,4892.4
+2024-10-15 19:15:00,Geothermal,15.4
+2024-10-15 19:30:00,Geothermal,15.4
+2024-10-15 19:15:00,Hydro water reservoir,57.0
+2024-10-15 19:30:00,Hydro water reservoir,117.7
+2024-10-15 19:15:00,Hydro pumped storage,183.7
+2024-10-15 19:30:00,Hydro pumped storage,171.8
+2024-10-15 19:15:00,Others,186.9
+2024-10-15 19:30:00,Others,186.9
+2024-10-15 19:15:00,Waste,1182.1
+2024-10-15 19:30:00,Waste,1183.5
+2024-10-15 19:15:00,Wind offshore,5453.6
+2024-10-15 19:30:00,Wind offshore,5341.4
+2024-10-15 19:15:00,Wind onshore,21942.2
+2024-10-15 19:30:00,Wind onshore,22382.0
+2024-10-15 19:15:00,Solar,0.0
+2024-10-15 19:30:00,Solar,0.0
+2024-10-15 19:15:00,Load,55964.1
+2024-10-15 19:30:00,Load,55050.7
+2024-10-15 19:15:00,Residual load,28568.3
+2024-10-15 19:30:00,Residual load,27327.2
+2024-10-15 19:15:00,Renewable share of generation,66.4
+2024-10-15 19:30:00,Renewable share of generation,67.2
+2024-10-15 19:15:00,Renewable share of load,63.6
+2024-10-15 19:30:00,Renewable share of load,65.3
+2024-10-15 19:30:00,Hydro pumped storage consumption,-949.3
+2024-10-15 19:45:00,Hydro pumped storage consumption,-1245.7
+2024-10-15 19:30:00,Cross border electricity trading,1666.1
+2024-10-15 19:45:00,Cross border electricity trading,1781.6
+2024-10-15 19:30:00,Hydro Run-of-River,2596.5
+2024-10-15 19:45:00,Hydro Run-of-River,2601.2
+2024-10-15 19:30:00,Biomass,4959.4
+2024-10-15 19:45:00,Biomass,4924.8
+2024-10-15 19:30:00,Fossil brown coal / lignite,9657.0
+2024-10-15 19:45:00,Fossil brown coal / lignite,9032.2
+2024-10-15 19:30:00,Fossil hard coal,1825.2
+2024-10-15 19:45:00,Fossil hard coal,1844.9
+2024-10-15 19:30:00,Fossil oil,237.3
+2024-10-15 19:45:00,Fossil oil,237.3
+2024-10-15 19:30:00,Fossil gas,4892.4
+2024-10-15 19:45:00,Fossil gas,4703.3
+2024-10-15 19:30:00,Geothermal,15.4
+2024-10-15 19:45:00,Geothermal,15.4
+2024-10-15 19:30:00,Hydro water reservoir,117.7
+2024-10-15 19:45:00,Hydro water reservoir,66.7
+2024-10-15 19:30:00,Hydro pumped storage,171.8
+2024-10-15 19:45:00,Hydro pumped storage,60.0
+2024-10-15 19:30:00,Others,186.9
+2024-10-15 19:45:00,Others,186.3
+2024-10-15 19:30:00,Waste,1183.5
+2024-10-15 19:45:00,Waste,1178.5
+2024-10-15 19:30:00,Wind offshore,5341.4
+2024-10-15 19:45:00,Wind offshore,5245.9
+2024-10-15 19:30:00,Wind onshore,22382.0
+2024-10-15 19:45:00,Wind onshore,22911.2
+2024-10-15 19:30:00,Solar,0.0
+2024-10-15 19:45:00,Solar,0.0
+2024-10-15 19:30:00,Load,55050.7
+2024-10-15 19:45:00,Load,54211.0
+2024-10-15 19:30:00,Residual load,27327.2
+2024-10-15 19:45:00,Residual load,26053.8
+2024-10-15 19:30:00,Renewable share of generation,67.2
+2024-10-15 19:45:00,Renewable share of generation,68.5
+2024-10-15 19:30:00,Renewable share of load,65.3
+2024-10-15 19:45:00,Renewable share of load,67.0
+2024-10-15 19:45:00,Hydro pumped storage consumption,-1245.7
+2024-10-15 20:00:00,Hydro pumped storage consumption,-1040.7
+2024-10-15 19:45:00,Cross border electricity trading,1781.6
+2024-10-15 20:00:00,Cross border electricity trading,1892.6
+2024-10-15 19:45:00,Hydro Run-of-River,2601.2
+2024-10-15 20:00:00,Hydro Run-of-River,2604.9
+2024-10-15 19:45:00,Biomass,4924.8
+2024-10-15 20:00:00,Biomass,4912.9
+2024-10-15 19:45:00,Fossil brown coal / lignite,9032.2
+2024-10-15 20:00:00,Fossil brown coal / lignite,7761.1
+2024-10-15 19:45:00,Fossil hard coal,1844.9
+2024-10-15 20:00:00,Fossil hard coal,1843.0
+2024-10-15 19:45:00,Fossil oil,237.3
+2024-10-15 20:00:00,Fossil oil,237.3
+2024-10-15 19:45:00,Fossil gas,4703.3
+2024-10-15 20:00:00,Fossil gas,4420.3
+2024-10-15 19:45:00,Geothermal,15.4
+2024-10-15 20:00:00,Geothermal,15.4
+2024-10-15 19:45:00,Hydro water reservoir,66.7
+2024-10-15 20:00:00,Hydro water reservoir,152.1
+2024-10-15 19:45:00,Hydro pumped storage,60.0
+2024-10-15 20:00:00,Hydro pumped storage,315.3
+2024-10-15 19:45:00,Others,186.3
+2024-10-15 20:00:00,Others,173.7
+2024-10-15 19:45:00,Waste,1178.5
+2024-10-15 20:00:00,Waste,1186.9
+2024-10-15 19:45:00,Wind offshore,5245.9
+2024-10-15 20:00:00,Wind offshore,4976.1
+2024-10-15 19:45:00,Wind onshore,22911.2
+2024-10-15 20:00:00,Wind onshore,22823.5
+2024-10-15 19:45:00,Solar,0.0
+2024-10-15 20:00:00,Solar,0.0
+2024-10-15 19:45:00,Load,54211.0
+2024-10-15 20:00:00,Load,53021.5
+2024-10-15 19:45:00,Residual load,26053.8
+2024-10-15 20:00:00,Residual load,25221.8
+2024-10-15 19:45:00,Renewable share of generation,68.5
+2024-10-15 20:00:00,Renewable share of generation,70.1
+2024-10-15 19:45:00,Renewable share of load,67.0
+2024-10-15 20:00:00,Renewable share of load,68.0
+2024-10-15 20:00:00,Hydro pumped storage consumption,-1040.7
+2024-10-15 20:15:00,Hydro pumped storage consumption,-1133.2
+2024-10-15 20:00:00,Cross border electricity trading,1892.6
+2024-10-15 20:15:00,Cross border electricity trading,1975.4
+2024-10-15 20:00:00,Hydro Run-of-River,2604.9
+2024-10-15 20:15:00,Hydro Run-of-River,2603.8
+2024-10-15 20:00:00,Biomass,4912.9
+2024-10-15 20:15:00,Biomass,4896.1
+2024-10-15 20:00:00,Fossil brown coal / lignite,7761.1
+2024-10-15 20:15:00,Fossil brown coal / lignite,7919.1
+2024-10-15 20:00:00,Fossil hard coal,1843.0
+2024-10-15 20:15:00,Fossil hard coal,1825.9
+2024-10-15 20:00:00,Fossil oil,237.3
+2024-10-15 20:15:00,Fossil oil,237.3
+2024-10-15 20:00:00,Fossil gas,4420.3
+2024-10-15 20:15:00,Fossil gas,4314.1
+2024-10-15 20:00:00,Geothermal,15.4
+2024-10-15 20:15:00,Geothermal,15.4
+2024-10-15 20:00:00,Hydro water reservoir,152.1
+2024-10-15 20:15:00,Hydro water reservoir,84.0
+2024-10-15 20:00:00,Hydro pumped storage,315.3
+2024-10-15 20:15:00,Hydro pumped storage,334.1
+2024-10-15 20:00:00,Others,173.7
+2024-10-15 20:15:00,Others,157.6
+2024-10-15 20:00:00,Waste,1186.9
+2024-10-15 20:15:00,Waste,1184.6
+2024-10-15 20:00:00,Wind offshore,4976.1
+2024-10-15 20:15:00,Wind offshore,4980.1
+2024-10-15 20:00:00,Wind onshore,22823.5
+2024-10-15 20:15:00,Wind onshore,22813.3
+2024-10-15 20:00:00,Solar,0.0
+2024-10-15 20:15:00,Solar,0.0
+2024-10-15 20:00:00,Load,53021.5
+2024-10-15 20:15:00,Load,52633.2
+2024-10-15 20:00:00,Residual load,25221.8
+2024-10-15 20:15:00,Residual load,24839.8
+2024-10-15 20:00:00,Renewable share of generation,70.1
+2024-10-15 20:15:00,Renewable share of generation,70.0
+2024-10-15 20:00:00,Renewable share of load,68.0
+2024-10-15 20:15:00,Renewable share of load,68.3
+2024-10-15 20:15:00,Hydro pumped storage consumption,-1133.2
+2024-10-15 20:30:00,Hydro pumped storage consumption,-1169.6
+2024-10-15 20:15:00,Cross border electricity trading,1975.4
+2024-10-15 20:30:00,Cross border electricity trading,1858.2
+2024-10-15 20:15:00,Hydro Run-of-River,2603.8
+2024-10-15 20:30:00,Hydro Run-of-River,2608.5
+2024-10-15 20:15:00,Biomass,4896.1
+2024-10-15 20:30:00,Biomass,4894.9
+2024-10-15 20:15:00,Fossil brown coal / lignite,7919.1
+2024-10-15 20:30:00,Fossil brown coal / lignite,7479.4
+2024-10-15 20:15:00,Fossil hard coal,1825.9
+2024-10-15 20:30:00,Fossil hard coal,1815.8
+2024-10-15 20:15:00,Fossil oil,237.3
+2024-10-15 20:30:00,Fossil oil,237.3
+2024-10-15 20:15:00,Fossil gas,4314.1
+2024-10-15 20:30:00,Fossil gas,4243.5
+2024-10-15 20:15:00,Geothermal,15.4
+2024-10-15 20:30:00,Geothermal,15.4
+2024-10-15 20:15:00,Hydro water reservoir,84.0
+2024-10-15 20:30:00,Hydro water reservoir,53.7
+2024-10-15 20:15:00,Hydro pumped storage,334.1
+2024-10-15 20:30:00,Hydro pumped storage,60.8
+2024-10-15 20:15:00,Others,157.6
+2024-10-15 20:30:00,Others,141.1
+2024-10-15 20:15:00,Waste,1184.6
+2024-10-15 20:30:00,Waste,1187.8
+2024-10-15 20:15:00,Wind offshore,4980.1
+2024-10-15 20:30:00,Wind offshore,4875.4
+2024-10-15 20:15:00,Wind onshore,22813.3
+2024-10-15 20:30:00,Wind onshore,23150.0
+2024-10-15 20:15:00,Solar,0.0
+2024-10-15 20:30:00,Solar,0.0
+2024-10-15 20:15:00,Load,52633.2
+2024-10-15 20:30:00,Load,51741.0
+2024-10-15 20:15:00,Residual load,24839.8
+2024-10-15 20:30:00,Residual load,23715.6
+2024-10-15 20:15:00,Renewable share of generation,70.0
+2024-10-15 20:30:00,Renewable share of generation,71.2
+2024-10-15 20:15:00,Renewable share of load,68.3
+2024-10-15 20:30:00,Renewable share of load,69.9
+2024-10-15 20:30:00,Hydro pumped storage consumption,-1169.6
+2024-10-15 20:45:00,Hydro pumped storage consumption,-1285.8
+2024-10-15 20:30:00,Cross border electricity trading,1858.2
+2024-10-15 20:45:00,Cross border electricity trading,1915.7
+2024-10-15 20:30:00,Hydro Run-of-River,2608.5
+2024-10-15 20:45:00,Hydro Run-of-River,2606.4
+2024-10-15 20:30:00,Biomass,4894.9
+2024-10-15 20:45:00,Biomass,4867.3
+2024-10-15 20:30:00,Fossil brown coal / lignite,7479.4
+2024-10-15 20:45:00,Fossil brown coal / lignite,7480.9
+2024-10-15 20:30:00,Fossil hard coal,1815.8
+2024-10-15 20:45:00,Fossil hard coal,1786.1
+2024-10-15 20:30:00,Fossil oil,237.3
+2024-10-15 20:45:00,Fossil oil,237.3
+2024-10-15 20:30:00,Fossil gas,4243.5
+2024-10-15 20:45:00,Fossil gas,4165.8
+2024-10-15 20:30:00,Geothermal,15.4
+2024-10-15 20:45:00,Geothermal,15.4
+2024-10-15 20:30:00,Hydro water reservoir,53.7
+2024-10-15 20:45:00,Hydro water reservoir,37.4
+2024-10-15 20:30:00,Hydro pumped storage,60.8
+2024-10-15 20:45:00,Hydro pumped storage,62.1
+2024-10-15 20:30:00,Others,141.1
+2024-10-15 20:45:00,Others,126.9
+2024-10-15 20:30:00,Waste,1187.8
+2024-10-15 20:45:00,Waste,1184.7
+2024-10-15 20:30:00,Wind offshore,4875.4
+2024-10-15 20:45:00,Wind offshore,4622.0
+2024-10-15 20:30:00,Wind onshore,23150.0
+2024-10-15 20:45:00,Wind onshore,23381.0
+2024-10-15 20:30:00,Solar,0.0
+2024-10-15 20:45:00,Solar,0.0
+2024-10-15 20:30:00,Load,51741.0
+2024-10-15 20:45:00,Load,50800.7
+2024-10-15 20:30:00,Residual load,23715.6
+2024-10-15 20:45:00,Residual load,22797.7
+2024-10-15 20:30:00,Renewable share of generation,71.2
+2024-10-15 20:45:00,Renewable share of generation,71.4
+2024-10-15 20:30:00,Renewable share of load,69.9
+2024-10-15 20:45:00,Renewable share of load,71.0
+2024-10-15 20:45:00,Hydro pumped storage consumption,-1285.8
+2024-10-15 21:00:00,Hydro pumped storage consumption,-828.7
+2024-10-15 20:45:00,Cross border electricity trading,1915.7
+2024-10-15 21:00:00,Cross border electricity trading,-1093.3
+2024-10-15 20:45:00,Hydro Run-of-River,2606.4
+2024-10-15 21:00:00,Hydro Run-of-River,2605.2
+2024-10-15 20:45:00,Biomass,4867.3
+2024-10-15 21:00:00,Biomass,4851.7
+2024-10-15 20:45:00,Fossil brown coal / lignite,7480.9
+2024-10-15 21:00:00,Fossil brown coal / lignite,6673.6
+2024-10-15 20:45:00,Fossil hard coal,1786.1
+2024-10-15 21:00:00,Fossil hard coal,1773.1
+2024-10-15 20:45:00,Fossil oil,237.3
+2024-10-15 21:00:00,Fossil oil,237.3
+2024-10-15 20:45:00,Fossil gas,4165.8
+2024-10-15 21:00:00,Fossil gas,3521.8
+2024-10-15 20:45:00,Geothermal,15.4
+2024-10-15 21:00:00,Geothermal,15.4
+2024-10-15 20:45:00,Hydro water reservoir,37.4
+2024-10-15 21:00:00,Hydro water reservoir,188.2
+2024-10-15 20:45:00,Hydro pumped storage,62.1
+2024-10-15 21:00:00,Hydro pumped storage,221.5
+2024-10-15 20:45:00,Others,126.9
+2024-10-15 21:00:00,Others,125.4
+2024-10-15 20:45:00,Waste,1184.7
+2024-10-15 21:00:00,Waste,1183.9
+2024-10-15 20:45:00,Wind offshore,4622.0
+2024-10-15 21:00:00,Wind offshore,4453.4
+2024-10-15 20:45:00,Wind onshore,23381.0
+2024-10-15 21:00:00,Wind onshore,24261.3
+2024-10-15 20:45:00,Solar,0.0
+2024-10-15 21:00:00,Solar,0.0
+2024-10-15 20:45:00,Load,50800.7
+2024-10-15 21:00:00,Load,50054.3
+2024-10-15 20:45:00,Residual load,22797.7
+2024-10-15 21:00:00,Residual load,21339.7
+2024-10-15 20:45:00,Renewable share of generation,71.4
+2024-10-15 21:00:00,Renewable share of generation,73.7
+2024-10-15 20:45:00,Renewable share of load,71.0
+2024-10-15 21:00:00,Renewable share of load,73.8
+2024-10-15 21:00:00,Hydro pumped storage consumption,-828.7
+2024-10-15 21:15:00,Hydro pumped storage consumption,-960.1
+2024-10-15 21:00:00,Cross border electricity trading,-1093.3
+2024-10-15 21:15:00,Cross border electricity trading,-1003.4
+2024-10-15 21:00:00,Hydro Run-of-River,2605.2
+2024-10-15 21:15:00,Hydro Run-of-River,2605.6
+2024-10-15 21:00:00,Biomass,4851.7
+2024-10-15 21:15:00,Biomass,4850.1
+2024-10-15 21:00:00,Fossil brown coal / lignite,6673.6
+2024-10-15 21:15:00,Fossil brown coal / lignite,6058.2
+2024-10-15 21:00:00,Fossil hard coal,1773.1
+2024-10-15 21:15:00,Fossil hard coal,1823.7
+2024-10-15 21:00:00,Fossil oil,237.3
+2024-10-15 21:15:00,Fossil oil,237.3
+2024-10-15 21:00:00,Fossil gas,3521.8
+2024-10-15 21:15:00,Fossil gas,3442.8
+2024-10-15 21:00:00,Geothermal,15.4
+2024-10-15 21:15:00,Geothermal,15.4
+2024-10-15 21:00:00,Hydro water reservoir,188.2
+2024-10-15 21:15:00,Hydro water reservoir,43.7
+2024-10-15 21:00:00,Hydro pumped storage,221.5
+2024-10-15 21:15:00,Hydro pumped storage,198.3
+2024-10-15 21:00:00,Others,125.4
+2024-10-15 21:15:00,Others,125.5
+2024-10-15 21:00:00,Waste,1183.9
+2024-10-15 21:15:00,Waste,1190.6
+2024-10-15 21:00:00,Wind offshore,4453.4
+2024-10-15 21:15:00,Wind offshore,4580.3
+2024-10-15 21:00:00,Wind onshore,24261.3
+2024-10-15 21:15:00,Wind onshore,24603.7
+2024-10-15 21:00:00,Solar,0.0
+2024-10-15 21:15:00,Solar,0.0
+2024-10-15 21:00:00,Load,50054.3
+2024-10-15 21:15:00,Load,48726.2
+2024-10-15 21:00:00,Residual load,21339.7
+2024-10-15 21:15:00,Residual load,19542.2
+2024-10-15 21:00:00,Renewable share of generation,73.7
+2024-10-15 21:15:00,Renewable share of generation,74.9
+2024-10-15 21:00:00,Renewable share of load,73.8
+2024-10-15 21:15:00,Renewable share of load,76.5
+2024-10-15 21:15:00,Hydro pumped storage consumption,-960.1
+2024-10-15 21:30:00,Hydro pumped storage consumption,-840.1
+2024-10-15 21:15:00,Cross border electricity trading,-1003.4
+2024-10-15 21:30:00,Cross border electricity trading,-1407.5
+2024-10-15 21:15:00,Hydro Run-of-River,2605.6
+2024-10-15 21:30:00,Hydro Run-of-River,2603.7
+2024-10-15 21:15:00,Biomass,4850.1
+2024-10-15 21:30:00,Biomass,4825.4
+2024-10-15 21:15:00,Fossil brown coal / lignite,6058.2
+2024-10-15 21:30:00,Fossil brown coal / lignite,6057.4
+2024-10-15 21:15:00,Fossil hard coal,1823.7
+2024-10-15 21:30:00,Fossil hard coal,1933.4
+2024-10-15 21:15:00,Fossil oil,237.3
+2024-10-15 21:30:00,Fossil oil,237.3
+2024-10-15 21:15:00,Fossil gas,3442.8
+2024-10-15 21:30:00,Fossil gas,3412.9
+2024-10-15 21:15:00,Geothermal,15.4
+2024-10-15 21:30:00,Geothermal,15.4
+2024-10-15 21:15:00,Hydro water reservoir,43.7
+2024-10-15 21:30:00,Hydro water reservoir,70.9
+2024-10-15 21:15:00,Hydro pumped storage,198.3
+2024-10-15 21:30:00,Hydro pumped storage,118.4
+2024-10-15 21:15:00,Others,125.5
+2024-10-15 21:30:00,Others,125.5
+2024-10-15 21:15:00,Waste,1190.6
+2024-10-15 21:30:00,Waste,1180.7
+2024-10-15 21:15:00,Wind offshore,4580.3
+2024-10-15 21:30:00,Wind offshore,4597.5
+2024-10-15 21:15:00,Wind onshore,24603.7
+2024-10-15 21:30:00,Wind onshore,24679.8
+2024-10-15 21:15:00,Solar,0.0
+2024-10-15 21:30:00,Solar,0.0
+2024-10-15 21:15:00,Load,48726.2
+2024-10-15 21:30:00,Load,48137.5
+2024-10-15 21:15:00,Residual load,19542.2
+2024-10-15 21:30:00,Residual load,18860.3
+2024-10-15 21:15:00,Renewable share of generation,74.9
+2024-10-15 21:30:00,Renewable share of generation,74.9
+2024-10-15 21:15:00,Renewable share of load,76.5
+2024-10-15 21:30:00,Renewable share of load,77.6
+2024-10-15 21:30:00,Hydro pumped storage consumption,-840.1
+2024-10-15 21:45:00,Hydro pumped storage consumption,-1426.2
+2024-10-15 21:30:00,Cross border electricity trading,-1407.5
+2024-10-15 21:45:00,Cross border electricity trading,-1532.6
+2024-10-15 21:30:00,Hydro Run-of-River,2603.7
+2024-10-15 21:45:00,Hydro Run-of-River,2604.2
+2024-10-15 21:30:00,Biomass,4825.4
+2024-10-15 21:45:00,Biomass,4799.3
+2024-10-15 21:30:00,Fossil brown coal / lignite,6057.4
+2024-10-15 21:45:00,Fossil brown coal / lignite,5828.6
+2024-10-15 21:30:00,Fossil hard coal,1933.4
+2024-10-15 21:45:00,Fossil hard coal,2021.8
+2024-10-15 21:30:00,Fossil oil,237.3
+2024-10-15 21:45:00,Fossil oil,237.3
+2024-10-15 21:30:00,Fossil gas,3412.9
+2024-10-15 21:45:00,Fossil gas,3421.8
+2024-10-15 21:30:00,Geothermal,15.4
+2024-10-15 21:45:00,Geothermal,15.4
+2024-10-15 21:30:00,Hydro water reservoir,70.9
+2024-10-15 21:45:00,Hydro water reservoir,60.3
+2024-10-15 21:30:00,Hydro pumped storage,118.4
+2024-10-15 21:45:00,Hydro pumped storage,55.8
+2024-10-15 21:30:00,Others,125.5
+2024-10-15 21:45:00,Others,125.4
+2024-10-15 21:30:00,Waste,1180.7
+2024-10-15 21:45:00,Waste,1188.7
+2024-10-15 21:30:00,Wind offshore,4597.5
+2024-10-15 21:45:00,Wind offshore,4524.0
+2024-10-15 21:30:00,Wind onshore,24679.8
+2024-10-15 21:45:00,Wind onshore,24831.2
+2024-10-15 21:30:00,Solar,0.0
+2024-10-15 21:45:00,Solar,0.0
+2024-10-15 21:30:00,Load,48137.5
+2024-10-15 21:45:00,Load,47479.9
+2024-10-15 21:30:00,Residual load,18860.3
+2024-10-15 21:45:00,Residual load,18124.7
+2024-10-15 21:30:00,Renewable share of generation,74.9
+2024-10-15 21:45:00,Renewable share of generation,75.2
+2024-10-15 21:30:00,Renewable share of load,77.6
+2024-10-15 21:45:00,Renewable share of load,78.8
+2024-10-15 21:45:00,Hydro pumped storage consumption,-1426.2
+2024-10-15 22:00:00,Hydro pumped storage consumption,-2460.1
+2024-10-15 21:45:00,Cross border electricity trading,-1532.6
+2024-10-15 22:00:00,Cross border electricity trading,-1794.9
+2024-10-15 21:45:00,Hydro Run-of-River,2604.2
+2024-10-15 22:00:00,Hydro Run-of-River,2598.0
+2024-10-15 21:45:00,Biomass,4799.3
+2024-10-15 22:00:00,Biomass,4784.1
+2024-10-15 21:45:00,Fossil brown coal / lignite,5828.6
+2024-10-15 22:00:00,Fossil brown coal / lignite,5627.1
+2024-10-15 21:45:00,Fossil hard coal,2021.8
+2024-10-15 22:00:00,Fossil hard coal,2191.3
+2024-10-15 21:45:00,Fossil oil,237.3
+2024-10-15 22:00:00,Fossil oil,243.4
+2024-10-15 21:45:00,Fossil gas,3421.8
+2024-10-15 22:00:00,Fossil gas,3153.1
+2024-10-15 21:45:00,Geothermal,15.4
+2024-10-15 22:00:00,Geothermal,15.4
+2024-10-15 21:45:00,Hydro water reservoir,60.3
+2024-10-15 22:00:00,Hydro water reservoir,209.7
+2024-10-15 21:45:00,Hydro pumped storage,55.8
+2024-10-15 22:00:00,Hydro pumped storage,179.7
+2024-10-15 21:45:00,Others,125.4
+2024-10-15 22:00:00,Others,125.5
+2024-10-15 21:45:00,Waste,1188.7
+2024-10-15 22:00:00,Waste,1173.6
+2024-10-15 21:45:00,Wind offshore,4524.0
+2024-10-15 22:00:00,Wind offshore,4184.4
+2024-10-15 21:45:00,Wind onshore,24831.2
+2024-10-15 22:00:00,Wind onshore,25326.2
+2024-10-15 21:45:00,Solar,0.0
+2024-10-15 22:00:00,Solar,0.0
+2024-10-15 21:45:00,Load,47479.9
+2024-10-15 22:00:00,Load,47139.2
+2024-10-15 21:45:00,Residual load,18124.7
+2024-10-15 22:00:00,Residual load,17628.5
+2024-10-15 21:45:00,Renewable share of generation,75.2
+2024-10-15 22:00:00,Renewable share of generation,75.6
+2024-10-15 21:45:00,Renewable share of load,78.8
+2024-10-15 22:00:00,Renewable share of load,79.9

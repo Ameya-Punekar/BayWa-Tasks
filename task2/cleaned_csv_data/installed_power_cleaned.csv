@@ -1,0 +1,924 @@
+time,production_name,production_value
+01.2009,Solar,6.767
+01.2009,Battery Storage (Power),0.001
+01.2009,Battery Storage (Capacity),0.001
+02.2009,Solar,6.784
+02.2009,Battery Storage (Power),0.001
+02.2009,Battery Storage (Capacity),0.001
+03.2009,Solar,6.839
+03.2009,Battery Storage (Power),0.001
+03.2009,Battery Storage (Capacity),0.001
+04.2009,Solar,6.954
+04.2009,Battery Storage (Power),0.001
+04.2009,Battery Storage (Capacity),0.001
+05.2009,Solar,7.104
+05.2009,Battery Storage (Power),0.001
+05.2009,Battery Storage (Capacity),0.001
+06.2009,Solar,7.31
+06.2009,Battery Storage (Power),0.002
+06.2009,Battery Storage (Capacity),0.002
+07.2009,Solar,7.617
+07.2009,Battery Storage (Power),0.002
+07.2009,Battery Storage (Capacity),0.002
+08.2009,Solar,7.908
+08.2009,Battery Storage (Power),0.002
+08.2009,Battery Storage (Capacity),0.002
+09.2009,Solar,8.235
+09.2009,Battery Storage (Power),0.002
+09.2009,Battery Storage (Capacity),0.002
+10.2009,Solar,8.614
+10.2009,Battery Storage (Power),0.002
+10.2009,Battery Storage (Capacity),0.002
+11.2009,Solar,9.117
+11.2009,Battery Storage (Power),0.002
+11.2009,Battery Storage (Capacity),0.002
+12.2009,Solar,10.566
+12.2009,Battery Storage (Power),0.002
+12.2009,Battery Storage (Capacity),0.002
+01.2010,Solar,10.788
+01.2010,Battery Storage (Power),0.002
+01.2010,Battery Storage (Capacity),0.002
+02.2010,Solar,10.952
+02.2010,Battery Storage (Power),0.002
+02.2010,Battery Storage (Capacity),0.002
+03.2010,Solar,11.283
+03.2010,Battery Storage (Power),0.002
+03.2010,Battery Storage (Capacity),0.002
+04.2010,Solar,11.737
+04.2010,Battery Storage (Power),0.002
+04.2010,Battery Storage (Capacity),0.002
+05.2010,Solar,12.31
+05.2010,Battery Storage (Power),0.003
+05.2010,Battery Storage (Capacity),0.003
+06.2010,Solar,14.419
+06.2010,Battery Storage (Power),0.003
+06.2010,Battery Storage (Capacity),0.003
+07.2010,Solar,15.082
+07.2010,Battery Storage (Power),0.003
+07.2010,Battery Storage (Capacity),0.003
+08.2010,Solar,15.446
+08.2010,Battery Storage (Power),0.003
+08.2010,Battery Storage (Capacity),0.003
+09.2010,Solar,16.1
+09.2010,Battery Storage (Power),0.003
+09.2010,Battery Storage (Capacity),0.003
+10.2010,Solar,16.435
+10.2010,Battery Storage (Power),0.004
+10.2010,Battery Storage (Capacity),0.003
+11.2010,Solar,16.8
+11.2010,Battery Storage (Power),0.004
+11.2010,Battery Storage (Capacity),0.004
+12.2010,Solar,17.944
+12.2010,Battery Storage (Power),0.004
+12.2010,Battery Storage (Capacity),0.004
+01.2011,Solar,18.21
+01.2011,Battery Storage (Power),0.004
+01.2011,Battery Storage (Capacity),0.004
+02.2011,Solar,18.31
+02.2011,Battery Storage (Power),0.004
+02.2011,Battery Storage (Capacity),0.004
+03.2011,Solar,18.457
+03.2011,Battery Storage (Power),0.004
+03.2011,Battery Storage (Capacity),0.004
+04.2011,Solar,18.656
+04.2011,Battery Storage (Power),0.004
+04.2011,Battery Storage (Capacity),0.004
+05.2011,Solar,19.027
+05.2011,Battery Storage (Power),0.004
+05.2011,Battery Storage (Capacity),0.004
+06.2011,Solar,19.657
+06.2011,Battery Storage (Power),0.004
+06.2011,Battery Storage (Capacity),0.005
+07.2011,Solar,20.229
+07.2011,Battery Storage (Power),0.005
+07.2011,Battery Storage (Capacity),0.005
+08.2011,Solar,20.841
+08.2011,Battery Storage (Power),0.005
+08.2011,Battery Storage (Capacity),0.005
+09.2011,Solar,21.301
+09.2011,Battery Storage (Power),0.005
+09.2011,Battery Storage (Capacity),0.005
+10.2011,Solar,21.787
+10.2011,Battery Storage (Power),0.005
+10.2011,Battery Storage (Capacity),0.006
+11.2011,Solar,22.446
+11.2011,Battery Storage (Power),0.006
+11.2011,Battery Storage (Capacity),0.006
+12.2011,Biomass,6.134
+12.2011,Solar,25.429
+12.2011,Battery Storage (Power),0.006
+12.2011,Battery Storage (Capacity),0.006
+01.2012,Solar,25.983
+01.2012,Battery Storage (Power),0.006
+01.2012,Battery Storage (Capacity),0.006
+02.2012,Solar,26.213
+02.2012,Battery Storage (Power),0.006
+02.2012,Battery Storage (Capacity),0.007
+03.2012,Solar,27.436
+03.2012,Battery Storage (Power),0.006
+03.2012,Battery Storage (Capacity),0.007
+04.2012,Solar,27.795
+04.2012,Battery Storage (Power),0.006
+04.2012,Battery Storage (Capacity),0.007
+05.2012,Solar,28.049
+05.2012,Battery Storage (Power),0.007
+05.2012,Battery Storage (Capacity),0.008
+06.2012,Solar,29.84
+06.2012,Battery Storage (Power),0.007
+06.2012,Battery Storage (Capacity),0.008
+07.2012,Solar,30.363
+07.2012,Battery Storage (Power),0.007
+07.2012,Battery Storage (Capacity),0.009
+08.2012,Solar,30.691
+08.2012,Battery Storage (Power),0.008
+08.2012,Battery Storage (Capacity),0.01
+09.2012,Solar,31.663
+09.2012,Battery Storage (Power),0.009
+09.2012,Battery Storage (Capacity),0.011
+10.2012,Solar,32.271
+10.2012,Battery Storage (Power),0.009
+10.2012,Battery Storage (Capacity),0.011
+11.2012,Solar,32.704
+11.2012,Battery Storage (Power),0.01
+11.2012,Battery Storage (Capacity),0.012
+12.2012,Biomass,6.335
+12.2012,Solar,33.033
+12.2012,Battery Storage (Power),0.01
+12.2012,Battery Storage (Capacity),0.013
+01.2013,Solar,33.686
+01.2013,Battery Storage (Power),0.011
+01.2013,Battery Storage (Capacity),0.013
+02.2013,Solar,33.897
+02.2013,Battery Storage (Power),0.011
+02.2013,Battery Storage (Capacity),0.014
+03.2013,Solar,34.185
+03.2013,Battery Storage (Power),0.012
+03.2013,Battery Storage (Capacity),0.015
+04.2013,Solar,34.552
+04.2013,Battery Storage (Power),0.013
+04.2013,Battery Storage (Capacity),0.016
+05.2013,Solar,34.897
+05.2013,Battery Storage (Power),0.014
+05.2013,Battery Storage (Capacity),0.018
+06.2013,Solar,35.207
+06.2013,Battery Storage (Power),0.016
+06.2013,Battery Storage (Capacity),0.02
+07.2013,Solar,35.519
+07.2013,Battery Storage (Power),0.017
+07.2013,Battery Storage (Capacity),0.022
+08.2013,Solar,35.81
+08.2013,Battery Storage (Power),0.019
+08.2013,Battery Storage (Capacity),0.025
+09.2013,Solar,36.103
+09.2013,Battery Storage (Power),0.021
+09.2013,Battery Storage (Capacity),0.027
+10.2013,Solar,36.326
+10.2013,Battery Storage (Power),0.023
+10.2013,Battery Storage (Capacity),0.03
+11.2013,Solar,36.544
+11.2013,Battery Storage (Power),0.024
+11.2013,Battery Storage (Capacity),0.032
+12.2013,Biomass,6.582
+12.2013,Wind offshore,0.508
+12.2013,Wind onshore,32.969
+12.2013,Solar,36.71
+12.2013,Battery Storage (Power),0.025
+12.2013,Battery Storage (Capacity),0.033
+01.2014,Solar,36.903
+01.2014,Battery Storage (Power),0.027
+01.2014,Battery Storage (Capacity),0.035
+02.2014,Solar,37.013
+02.2014,Battery Storage (Power),0.029
+02.2014,Battery Storage (Capacity),0.038
+03.2014,Solar,37.169
+03.2014,Battery Storage (Power),0.031
+03.2014,Battery Storage (Capacity),0.041
+04.2014,Solar,37.331
+04.2014,Battery Storage (Power),0.033
+04.2014,Battery Storage (Capacity),0.044
+05.2014,Solar,37.535
+05.2014,Battery Storage (Power),0.036
+05.2014,Battery Storage (Capacity),0.048
+06.2014,Solar,37.723
+06.2014,Battery Storage (Power),0.039
+06.2014,Battery Storage (Capacity),0.053
+07.2014,Solar,38.065
+07.2014,Battery Storage (Power),0.041
+07.2014,Battery Storage (Capacity),0.056
+08.2014,Biomass,6.757
+08.2014,Wind onshore,35.576
+08.2014,Solar,38.205
+08.2014,Battery Storage (Power),0.05
+08.2014,Battery Storage (Capacity),0.066
+09.2014,Biomass,6.758
+09.2014,Wind onshore,35.897
+09.2014,Solar,38.315
+09.2014,Battery Storage (Power),0.054
+09.2014,Battery Storage (Capacity),0.071
+10.2014,Biomass,6.765
+10.2014,Wind onshore,36.278
+10.2014,Solar,38.39
+10.2014,Battery Storage (Power),0.056
+10.2014,Battery Storage (Capacity),0.075
+11.2014,Biomass,6.771
+11.2014,Wind onshore,36.804
+11.2014,Solar,38.496
+11.2014,Battery Storage (Power),0.058
+11.2014,Battery Storage (Capacity),0.078
+12.2014,Biomass,6.799
+12.2014,Wind offshore,0.994
+12.2014,Wind onshore,37.62
+12.2014,Solar,37.9
+12.2014,Battery Storage (Power),0.06
+12.2014,Battery Storage (Capacity),0.08
+01.2015,Biomass,6.814
+01.2015,Wind onshore,38.077
+01.2015,Solar,38.021
+01.2015,Battery Storage (Power),0.063
+01.2015,Battery Storage (Capacity),0.085
+02.2015,Biomass,6.817
+02.2015,Wind onshore,38.268
+02.2015,Solar,38.118
+02.2015,Battery Storage (Power),0.066
+02.2015,Battery Storage (Capacity),0.089
+03.2015,Biomass,6.819
+03.2015,Wind onshore,38.449
+03.2015,Solar,38.216
+03.2015,Battery Storage (Power),0.068
+03.2015,Battery Storage (Capacity),0.092
+04.2015,Biomass,6.82
+04.2015,Wind onshore,38.618
+04.2015,Solar,38.308
+04.2015,Battery Storage (Power),0.071
+04.2015,Battery Storage (Capacity),0.096
+05.2015,Biomass,6.822
+05.2015,Wind onshore,38.75
+05.2015,Solar,38.409
+05.2015,Battery Storage (Power),0.074
+05.2015,Battery Storage (Capacity),0.101
+06.2015,Biomass,6.824
+06.2015,Wind onshore,38.961
+06.2015,Solar,38.504
+06.2015,Battery Storage (Power),0.077
+06.2015,Battery Storage (Capacity),0.106
+07.2015,Biomass,6.825
+07.2015,Wind onshore,39.187
+07.2015,Solar,38.672
+07.2015,Battery Storage (Power),0.085
+07.2015,Battery Storage (Capacity),0.115
+08.2015,Biomass,6.826
+08.2015,Wind onshore,39.413
+08.2015,Solar,38.938
+08.2015,Battery Storage (Power),0.09
+08.2015,Battery Storage (Capacity),0.122
+09.2015,Biomass,6.828
+09.2015,Wind onshore,39.707
+09.2015,Solar,39.066
+09.2015,Battery Storage (Power),0.094
+09.2015,Battery Storage (Capacity),0.127
+10.2015,Biomass,6.83
+10.2015,Wind onshore,39.992
+10.2015,Solar,39.146
+10.2015,Battery Storage (Power),0.097
+10.2015,Battery Storage (Capacity),0.132
+11.2015,Biomass,6.832
+11.2015,Wind onshore,40.492
+11.2015,Solar,39.216
+11.2015,Battery Storage (Power),0.1
+11.2015,Battery Storage (Capacity),0.137
+12.2015,Biomass,7.034
+12.2015,Wind offshore,3.283
+12.2015,Wind onshore,41.297
+12.2015,Solar,39.216
+12.2015,Battery Storage (Power),0.108
+12.2015,Battery Storage (Capacity),0.145
+01.2016,Biomass,7.036
+01.2016,Wind offshore,3.475
+01.2016,Wind onshore,41.662
+01.2016,Solar,39.298
+01.2016,Battery Storage (Power),0.111
+01.2016,Battery Storage (Capacity),0.15
+02.2016,Biomass,7.038
+02.2016,Wind offshore,3.545
+02.2016,Wind onshore,41.864
+02.2016,Solar,39.348
+02.2016,Battery Storage (Power),0.115
+02.2016,Battery Storage (Capacity),0.155
+03.2016,Biomass,7.041
+03.2016,Wind offshore,3.665
+03.2016,Wind onshore,42.292
+03.2016,Solar,39.426
+03.2016,Battery Storage (Power),0.119
+03.2016,Battery Storage (Capacity),0.162
+04.2016,Biomass,7.043
+04.2016,Wind offshore,3.741
+04.2016,Wind onshore,42.576
+04.2016,Solar,39.509
+04.2016,Battery Storage (Power),0.123
+04.2016,Battery Storage (Capacity),0.168
+05.2016,Biomass,7.045
+05.2016,Wind offshore,3.892
+05.2016,Wind onshore,42.763
+05.2016,Solar,39.609
+05.2016,Battery Storage (Power),0.129
+05.2016,Battery Storage (Capacity),0.177
+06.2016,Biomass,7.048
+06.2016,Wind offshore,3.892
+06.2016,Wind onshore,43.31
+06.2016,Solar,39.728
+06.2016,Battery Storage (Power),0.144
+06.2016,Battery Storage (Capacity),0.195
+07.2016,Biomass,7.05
+07.2016,Wind offshore,3.986
+07.2016,Wind onshore,43.565
+07.2016,Solar,39.81
+07.2016,Battery Storage (Power),0.2
+07.2016,Battery Storage (Capacity),0.255
+08.2016,Biomass,7.051
+08.2016,Wind offshore,3.892
+08.2016,Wind onshore,43.766
+08.2016,Solar,39.898
+08.2016,Battery Storage (Power),0.234
+08.2016,Battery Storage (Capacity),0.292
+09.2016,Biomass,7.052
+09.2016,Wind offshore,3.974
+09.2016,Wind onshore,44.31
+09.2016,Solar,40.006
+09.2016,Battery Storage (Power),0.254
+09.2016,Battery Storage (Capacity),0.315
+10.2016,Biomass,7.054
+10.2016,Wind offshore,4.03
+10.2016,Wind onshore,44.608
+10.2016,Solar,40.114
+10.2016,Battery Storage (Power),0.259
+10.2016,Battery Storage (Capacity),0.322
+11.2016,Biomass,7.061
+11.2016,Wind offshore,4.13
+11.2016,Wind onshore,44.849
+11.2016,Solar,40.298
+11.2016,Battery Storage (Power),0.278
+11.2016,Battery Storage (Capacity),0.344
+12.2016,Biomass,7.259
+12.2016,Wind offshore,4.152
+12.2016,Wind onshore,45.283
+12.2016,Solar,40.679
+12.2016,Battery Storage (Power),0.282
+12.2016,Battery Storage (Capacity),0.35
+01.2017,Biomass,7.263
+01.2017,Wind offshore,4.166
+01.2017,Wind onshore,45.693
+01.2017,Solar,40.797
+01.2017,Battery Storage (Power),0.287
+01.2017,Battery Storage (Capacity),0.357
+02.2017,Biomass,7.268
+02.2017,Wind offshore,4.286
+02.2017,Wind onshore,46.073
+02.2017,Solar,40.919
+02.2017,Battery Storage (Power),0.296
+02.2017,Battery Storage (Capacity),0.371
+03.2017,Biomass,7.27
+03.2017,Wind offshore,4.425
+03.2017,Wind onshore,46.477
+03.2017,Solar,41.03
+03.2017,Battery Storage (Power),0.317
+03.2017,Battery Storage (Capacity),0.397
+04.2017,Biomass,7.273
+04.2017,Wind offshore,4.606
+04.2017,Wind onshore,46.821
+04.2017,Solar,41.162
+04.2017,Battery Storage (Power),0.329
+04.2017,Battery Storage (Capacity),0.413
+05.2017,Biomass,7.276
+05.2017,Wind offshore,4.746
+05.2017,Wind onshore,47.339
+05.2017,Solar,41.374
+05.2017,Battery Storage (Power),0.354
+05.2017,Battery Storage (Capacity),0.447
+06.2017,Biomass,7.277
+06.2017,Wind offshore,4.82
+06.2017,Wind onshore,47.81
+06.2017,Solar,41.581
+06.2017,Battery Storage (Power),0.392
+06.2017,Battery Storage (Capacity),0.493
+07.2017,Biomass,7.277
+07.2017,Wind offshore,4.989
+07.2017,Wind onshore,48.242
+07.2017,Solar,41.735
+07.2017,Battery Storage (Power),0.403
+07.2017,Battery Storage (Capacity),0.509
+08.2017,Biomass,7.281
+08.2017,Wind offshore,4.832
+08.2017,Wind onshore,48.674
+08.2017,Solar,41.898
+08.2017,Battery Storage (Power),0.425
+08.2017,Battery Storage (Capacity),0.539
+09.2017,Biomass,7.284
+09.2017,Wind offshore,4.912
+09.2017,Wind onshore,49.284
+09.2017,Solar,42.015
+09.2017,Battery Storage (Power),0.434
+09.2017,Battery Storage (Capacity),0.554
+10.2017,Biomass,7.286
+10.2017,Wind offshore,5.265
+10.2017,Wind onshore,49.806
+10.2017,Solar,42.164
+10.2017,Battery Storage (Power),0.445
+10.2017,Battery Storage (Capacity),0.571
+11.2017,Biomass,7.287
+11.2017,Wind offshore,5.265
+11.2017,Wind onshore,50.106
+11.2017,Solar,42.28
+11.2017,Battery Storage (Power),0.454
+11.2017,Battery Storage (Capacity),0.583
+12.2017,Biomass,7.566
+12.2017,Wind offshore,5.406
+12.2017,Wind onshore,50.174
+12.2017,Solar,42.293
+12.2017,Battery Storage (Power),0.464
+12.2017,Battery Storage (Capacity),0.6
+01.2018,Biomass,7.567
+01.2018,Wind offshore,5.406
+01.2018,Wind onshore,50.565
+01.2018,Solar,42.582
+01.2018,Battery Storage (Power),0.471
+01.2018,Battery Storage (Capacity),0.612
+02.2018,Biomass,7.568
+02.2018,Wind offshore,5.406
+02.2018,Wind onshore,50.768
+02.2018,Solar,42.784
+02.2018,Battery Storage (Power),0.479
+02.2018,Battery Storage (Capacity),0.626
+03.2018,Biomass,7.572
+03.2018,Wind offshore,5.406
+03.2018,Wind onshore,51.279
+03.2018,Solar,42.941
+03.2018,Battery Storage (Power),0.542
+03.2018,Battery Storage (Capacity),0.695
+04.2018,Biomass,7.574
+04.2018,Wind offshore,5.406
+04.2018,Wind onshore,51.586
+04.2018,Solar,43.166
+04.2018,Battery Storage (Power),0.588
+04.2018,Battery Storage (Capacity),0.778
+05.2018,Biomass,7.578
+05.2018,Wind offshore,5.406
+05.2018,Wind onshore,51.66
+05.2018,Solar,43.361
+05.2018,Battery Storage (Power),0.615
+05.2018,Battery Storage (Capacity),0.821
+06.2018,Biomass,7.579
+06.2018,Wind offshore,5.406
+06.2018,Wind onshore,52.085
+06.2018,Solar,43.703
+06.2018,Battery Storage (Power),0.643
+06.2018,Battery Storage (Capacity),0.85
+07.2018,Biomass,7.581
+07.2018,Wind offshore,5.508
+07.2018,Wind onshore,52.229
+07.2018,Solar,43.973
+07.2018,Battery Storage (Power),0.658
+07.2018,Battery Storage (Capacity),0.872
+08.2018,Biomass,7.584
+08.2018,Wind offshore,5.649
+08.2018,Wind onshore,52.287
+08.2018,Solar,44.327
+08.2018,Battery Storage (Power),0.678
+08.2018,Battery Storage (Capacity),0.899
+09.2018,Biomass,7.587
+09.2018,Wind offshore,5.649
+09.2018,Wind onshore,52.484
+09.2018,Solar,44.526
+09.2018,Battery Storage (Power),0.69
+09.2018,Battery Storage (Capacity),0.919
+10.2018,Biomass,7.591
+10.2018,Wind offshore,5.868
+10.2018,Wind onshore,52.612
+10.2018,Solar,44.708
+10.2018,Battery Storage (Power),0.718
+10.2018,Battery Storage (Capacity),0.963
+11.2018,Biomass,7.593
+11.2018,Wind offshore,6.411
+11.2018,Wind onshore,52.709
+11.2018,Solar,44.932
+11.2018,Battery Storage (Power),0.726
+11.2018,Battery Storage (Capacity),0.977
+12.2018,Biomass,7.993
+12.2018,Wind offshore,6.393
+12.2018,Wind onshore,52.328
+12.2018,Solar,45.207
+12.2018,Battery Storage (Power),0.739
+12.2018,Battery Storage (Capacity),0.999
+01.2019,Biomass,7.995
+01.2019,Wind offshore,6.405
+01.2019,Wind onshore,52.42
+01.2019,Solar,45.759
+01.2019,Battery Storage (Power),0.75
+01.2019,Battery Storage (Capacity),1.018
+02.2019,Biomass,8.004
+02.2019,Wind offshore,6.411
+02.2019,Wind onshore,52.476
+02.2019,Solar,46.153
+02.2019,Battery Storage (Power),0.795
+02.2019,Battery Storage (Capacity),1.069
+03.2019,Biomass,8.01
+03.2019,Wind offshore,6.447
+03.2019,Wind onshore,52.515
+03.2019,Solar,46.469
+03.2019,Battery Storage (Power),0.811
+03.2019,Battery Storage (Capacity),1.098
+04.2019,Biomass,8.011
+04.2019,Wind offshore,6.523
+04.2019,Wind onshore,52.549
+04.2019,Solar,46.76
+04.2019,Battery Storage (Power),0.853
+04.2019,Battery Storage (Capacity),1.154
+05.2019,Biomass,8.015
+05.2019,Wind offshore,6.607
+05.2019,Wind onshore,52.594
+05.2019,Solar,46.986
+05.2019,Battery Storage (Power),0.872
+05.2019,Battery Storage (Capacity),1.186
+06.2019,Biomass,8.019
+06.2019,Wind offshore,6.661
+06.2019,Wind onshore,52.626
+06.2019,Solar,47.258
+06.2019,Battery Storage (Power),0.911
+06.2019,Battery Storage (Capacity),1.251
+07.2019,Biomass,8.022
+07.2019,Wind offshore,6.661
+07.2019,Wind onshore,52.723
+07.2019,Solar,47.56
+07.2019,Battery Storage (Power),0.929
+07.2019,Battery Storage (Capacity),1.285
+08.2019,Biomass,8.028
+08.2019,Wind offshore,6.987
+08.2019,Wind onshore,52.756
+08.2019,Solar,47.882
+08.2019,Battery Storage (Power),0.951
+08.2019,Battery Storage (Capacity),1.324
+09.2019,Biomass,8.036
+09.2019,Wind offshore,7.415
+09.2019,Wind onshore,52.894
+09.2019,Solar,48.167
+09.2019,Battery Storage (Power),0.975
+09.2019,Battery Storage (Capacity),1.366
+10.2019,Biomass,8.044
+10.2019,Wind offshore,7.462
+10.2019,Wind onshore,52.981
+10.2019,Solar,48.543
+10.2019,Battery Storage (Power),0.997
+10.2019,Battery Storage (Capacity),1.407
+11.2019,Biomass,8.051
+11.2019,Wind offshore,7.481
+11.2019,Wind onshore,53.052
+11.2019,Solar,48.812
+11.2019,Battery Storage (Power),1.014
+11.2019,Battery Storage (Capacity),1.435
+12.2019,Biomass,8.337
+12.2019,Wind offshore,7.555
+12.2019,Wind onshore,53.187
+12.2019,Solar,48.864
+12.2019,Battery Storage (Power),1.044
+12.2019,Battery Storage (Capacity),1.487
+01.2020,Biomass,8.34
+01.2020,Wind offshore,7.692
+01.2020,Wind onshore,53.374
+01.2020,Solar,49.201
+01.2020,Battery Storage (Power),1.076
+01.2020,Battery Storage (Capacity),1.538
+02.2020,Biomass,8.351
+02.2020,Wind offshore,7.705
+02.2020,Wind onshore,53.544
+02.2020,Solar,49.537
+02.2020,Battery Storage (Power),1.106
+02.2020,Battery Storage (Capacity),1.593
+03.2020,Biomass,8.356
+03.2020,Wind offshore,7.711
+03.2020,Wind onshore,53.634
+03.2020,Solar,49.9
+03.2020,Battery Storage (Power),1.135
+03.2020,Battery Storage (Capacity),1.648
+04.2020,Biomass,8.362
+04.2020,Wind offshore,7.736
+04.2020,Wind onshore,53.713
+04.2020,Solar,50.271
+04.2020,Battery Storage (Power),1.166
+04.2020,Battery Storage (Capacity),1.704
+05.2020,Biomass,8.362
+05.2020,Wind offshore,7.755
+05.2020,Wind onshore,53.784
+05.2020,Solar,50.714
+05.2020,Battery Storage (Power),1.199
+05.2020,Battery Storage (Capacity),1.766
+06.2020,Biomass,8.367
+06.2020,Wind offshore,7.781
+06.2020,Wind onshore,53.879
+06.2020,Solar,51.146
+06.2020,Battery Storage (Power),1.249
+06.2020,Battery Storage (Capacity),1.849
+07.2020,Biomass,8.371
+07.2020,Wind offshore,7.793
+07.2020,Wind onshore,53.95
+07.2020,Solar,51.573
+07.2020,Battery Storage (Power),1.287
+07.2020,Battery Storage (Capacity),1.915
+08.2020,Biomass,8.388
+08.2020,Wind offshore,7.793
+08.2020,Wind onshore,54.059
+08.2020,Solar,51.972
+08.2020,Battery Storage (Power),1.334
+08.2020,Battery Storage (Capacity),1.998
+09.2020,Biomass,8.389
+09.2020,Wind offshore,7.793
+09.2020,Wind onshore,54.167
+09.2020,Solar,52.357
+09.2020,Battery Storage (Power),1.39
+09.2020,Battery Storage (Capacity),2.092
+10.2020,Biomass,8.393
+10.2020,Wind offshore,7.793
+10.2020,Wind onshore,54.308
+10.2020,Solar,52.77
+10.2020,Battery Storage (Power),1.51
+10.2020,Battery Storage (Capacity),2.235
+11.2020,Biomass,8.4
+11.2020,Wind offshore,7.793
+11.2020,Wind onshore,54.457
+11.2020,Solar,53.223
+11.2020,Battery Storage (Power),1.566
+11.2020,Battery Storage (Capacity),2.32
+12.2020,Biomass,8.722
+12.2020,Wind offshore,7.874
+12.2020,Wind onshore,54.247
+12.2020,Solar,54.434
+12.2020,Battery Storage (Power),1.622
+12.2020,Battery Storage (Capacity),2.407
+01.2021,Biomass,8.731
+01.2021,Wind offshore,7.874
+01.2021,Wind onshore,54.407
+01.2021,Solar,54.858
+01.2021,Battery Storage (Power),1.67
+01.2021,Battery Storage (Capacity),2.479
+02.2021,Biomass,8.736
+02.2021,Wind offshore,7.874
+02.2021,Wind onshore,54.608
+02.2021,Solar,55.204
+02.2021,Battery Storage (Power),1.733
+02.2021,Battery Storage (Capacity),2.582
+03.2021,Biomass,8.738
+03.2021,Wind offshore,7.874
+03.2021,Wind onshore,54.797
+03.2021,Solar,55.751
+03.2021,Battery Storage (Power),1.794
+03.2021,Battery Storage (Capacity),2.685
+04.2021,Biomass,8.742
+04.2021,Wind offshore,7.874
+04.2021,Wind onshore,54.987
+04.2021,Solar,56.358
+04.2021,Battery Storage (Power),1.857
+04.2021,Battery Storage (Capacity),2.79
+05.2021,Biomass,8.743
+05.2021,Wind offshore,7.874
+05.2021,Wind onshore,55.074
+05.2021,Solar,56.753
+05.2021,Battery Storage (Power),1.932
+05.2021,Battery Storage (Capacity),2.915
+06.2021,Biomass,8.746
+06.2021,Wind offshore,7.874
+06.2021,Wind onshore,55.254
+06.2021,Solar,57.176
+06.2021,Battery Storage (Power),2.007
+06.2021,Battery Storage (Capacity),3.04
+07.2021,Biomass,8.749
+07.2021,Wind offshore,7.874
+07.2021,Wind onshore,55.387
+07.2021,Solar,57.612
+07.2021,Battery Storage (Power),2.085
+07.2021,Battery Storage (Capacity),3.162
+08.2021,Biomass,8.751
+08.2021,Wind offshore,7.874
+08.2021,Wind onshore,55.495
+08.2021,Solar,58.049
+08.2021,Battery Storage (Power),2.165
+08.2021,Battery Storage (Capacity),3.296
+09.2021,Biomass,8.755
+09.2021,Wind offshore,7.874
+09.2021,Wind onshore,55.636
+09.2021,Solar,58.456
+09.2021,Battery Storage (Power),2.247
+09.2021,Battery Storage (Capacity),3.431
+10.2021,Biomass,8.757
+10.2021,Wind offshore,7.874
+10.2021,Wind onshore,55.828
+10.2021,Solar,58.869
+10.2021,Battery Storage (Power),2.327
+10.2021,Battery Storage (Capacity),3.565
+11.2021,Biomass,8.765
+11.2021,Wind offshore,7.874
+11.2021,Wind onshore,55.951
+11.2021,Solar,59.276
+11.2021,Battery Storage (Power),2.41
+11.2021,Battery Storage (Capacity),3.685
+12.2021,Biomass,8.847
+12.2021,Wind offshore,7.874
+12.2021,Wind onshore,55.874
+12.2021,Solar,60.145
+12.2021,Battery Storage (Power),2.495
+12.2021,Battery Storage (Capacity),3.82
+01.2022,Biomass,8.853
+01.2022,Wind offshore,7.874
+01.2022,Wind onshore,55.958
+01.2022,Solar,60.652
+01.2022,Battery Storage (Power),2.569
+01.2022,Battery Storage (Capacity),3.943
+02.2022,Biomass,8.855
+02.2022,Wind offshore,7.874
+02.2022,Wind onshore,56.099
+02.2022,Solar,61.351
+02.2022,Battery Storage (Power),2.669
+02.2022,Battery Storage (Capacity),4.11
+03.2022,Biomass,8.862
+03.2022,Wind offshore,7.874
+03.2022,Wind onshore,56.213
+03.2022,Solar,62.194
+03.2022,Battery Storage (Power),2.774
+03.2022,Battery Storage (Capacity),4.272
+04.2022,Biomass,8.869
+04.2022,Wind offshore,7.874
+04.2022,Wind onshore,56.31
+04.2022,Solar,62.682
+04.2022,Battery Storage (Power),2.881
+04.2022,Battery Storage (Capacity),4.446
+05.2022,Biomass,8.874
+05.2022,Wind offshore,7.874
+05.2022,Wind onshore,56.509
+05.2022,Solar,63.325
+05.2022,Battery Storage (Power),2.984
+05.2022,Battery Storage (Capacity),4.613
+06.2022,Biomass,8.881
+06.2022,Wind offshore,7.874
+06.2022,Wind onshore,56.735
+06.2022,Solar,63.885
+06.2022,Battery Storage (Power),3.086
+06.2022,Battery Storage (Capacity),4.773
+07.2022,Biomass,8.876
+07.2022,Wind offshore,7.883
+07.2022,Wind onshore,56.912
+07.2022,Solar,64.366
+07.2022,Battery Storage (Power),3.239
+07.2022,Battery Storage (Capacity),5.013
+08.2022,Biomass,8.878
+08.2022,Wind offshore,8.045
+08.2022,Wind onshore,57.052
+08.2022,Solar,65.048
+08.2022,Battery Storage (Power),3.404
+08.2022,Battery Storage (Capacity),5.262
+09.2022,Biomass,8.881
+09.2022,Wind offshore,8.054
+09.2022,Wind onshore,57.293
+09.2022,Solar,65.863
+09.2022,Battery Storage (Power),3.568
+09.2022,Battery Storage (Capacity),5.501
+10.2022,Biomass,8.89
+10.2022,Wind offshore,8.099
+10.2022,Wind onshore,57.442
+10.2022,Solar,66.502
+10.2022,Battery Storage (Power),3.781
+10.2022,Battery Storage (Capacity),5.795
+11.2022,Biomass,8.894
+11.2022,Wind offshore,8.171
+11.2022,Wind onshore,57.69
+11.2022,Solar,67.155
+11.2022,Battery Storage (Power),4.124
+11.2022,Battery Storage (Capacity),6.195
+12.2022,Biomass,8.908
+12.2022,Wind offshore,8.216
+12.2022,Wind onshore,57.979
+12.2022,Solar,67.691
+12.2022,Battery Storage (Power),4.406
+12.2022,Battery Storage (Capacity),6.625
+01.2023,Biomass,8.908
+01.2023,Wind offshore,8.254
+01.2023,Wind onshore,58.034
+01.2023,Solar,68.69
+01.2023,Battery Storage (Power),4.671
+01.2023,Battery Storage (Capacity),7.003
+02.2023,Biomass,8.911
+02.2023,Wind offshore,8.292
+02.2023,Wind onshore,58.179
+02.2023,Solar,69.601
+02.2023,Battery Storage (Power),5.002
+02.2023,Battery Storage (Capacity),7.487
+03.2023,Biomass,8.917
+03.2023,Wind offshore,8.359
+03.2023,Wind onshore,58.444
+03.2023,Solar,70.848
+03.2023,Battery Storage (Power),5.313
+03.2023,Battery Storage (Capacity),7.922
+04.2023,Biomass,8.901
+04.2023,Wind offshore,8.426
+04.2023,Wind onshore,58.681
+04.2023,Solar,72.015
+04.2023,Battery Storage (Power),5.663
+04.2023,Battery Storage (Capacity),8.428
+05.2023,Biomass,8.906
+05.2023,Wind offshore,8.445
+05.2023,Wind onshore,58.948
+05.2023,Solar,73.333
+05.2023,Battery Storage (Power),6.051
+05.2023,Battery Storage (Capacity),8.992
+06.2023,Biomass,8.907
+06.2023,Wind offshore,8.445
+06.2023,Wind onshore,59.268
+06.2023,Solar,74.692
+06.2023,Battery Storage (Power),6.424
+06.2023,Battery Storage (Capacity),9.526
+07.2023,Biomass,8.913
+07.2023,Wind offshore,8.445
+07.2023,Wind onshore,59.451
+07.2023,Solar,76.186
+07.2023,Battery Storage (Power),6.798
+07.2023,Battery Storage (Capacity),10.06
+08.2023,Biomass,8.955
+08.2023,Wind offshore,8.445
+08.2023,Wind onshore,59.608
+08.2023,Solar,77.564
+08.2023,Battery Storage (Power),7.188
+08.2023,Battery Storage (Capacity),10.634
+09.2023,Biomass,8.978
+09.2023,Wind offshore,8.445
+09.2023,Wind onshore,59.994
+09.2023,Solar,78.772
+09.2023,Battery Storage (Power),7.549
+09.2023,Battery Storage (Capacity),11.157
+10.2023,Biomass,8.981
+10.2023,Wind offshore,8.445
+10.2023,Wind onshore,60.406
+10.2023,Solar,80.274
+10.2023,Battery Storage (Power),7.93
+10.2023,Battery Storage (Capacity),11.721
+11.2023,Biomass,8.995
+11.2023,Wind offshore,8.473
+11.2023,Wind onshore,60.606
+11.2023,Solar,81.694
+11.2023,Battery Storage (Power),8.172
+11.2023,Battery Storage (Capacity),12.067
+12.2023,Biomass,8.962
+12.2023,Wind offshore,8.473
+12.2023,Wind onshore,60.998
+12.2023,Solar,82.926
+12.2023,Battery Storage (Power),8.525
+12.2023,Battery Storage (Capacity),12.565
+01.2024,Biomass,8.964
+01.2024,Wind offshore,8.473
+01.2024,Wind onshore,61.128
+01.2024,Solar,84.509
+01.2024,Battery Storage (Power),8.826
+01.2024,Battery Storage (Capacity),12.99
+02.2024,Biomass,8.97
+02.2024,Wind offshore,8.473
+02.2024,Wind onshore,61.343
+02.2024,Solar,85.733
+02.2024,Battery Storage (Power),9.133
+02.2024,Battery Storage (Capacity),13.415
+03.2024,Biomass,8.986
+03.2024,Wind offshore,8.473
+03.2024,Wind onshore,61.555
+03.2024,Solar,87.097
+03.2024,Battery Storage (Power),9.492
+03.2024,Battery Storage (Capacity),13.932
+04.2024,Biomass,9.005
+04.2024,Wind offshore,8.473
+04.2024,Wind onshore,61.698
+04.2024,Solar,88.377
+04.2024,Battery Storage (Power),9.812
+04.2024,Battery Storage (Capacity),14.377
+05.2024,Biomass,9.03
+05.2024,Wind offshore,8.695
+05.2024,Wind onshore,61.742
+05.2024,Solar,89.547
+05.2024,Battery Storage (Power),10.135
+05.2024,Battery Storage (Capacity),14.83
+06.2024,Biomass,9.036
+06.2024,Wind offshore,8.851
+06.2024,Wind onshore,61.919
+06.2024,Solar,90.914
+06.2024,Battery Storage (Power),10.502
+06.2024,Battery Storage (Capacity),15.346
+07.2024,Biomass,9.035
+07.2024,Wind offshore,9.04
+07.2024,Wind onshore,62.136
+07.2024,Solar,92.433
+07.2024,Battery Storage (Power),10.778
+07.2024,Battery Storage (Capacity),15.744
+08.2024,Biomass,9.057
+08.2024,Wind offshore,9.127
+08.2024,Wind onshore,62.324
+08.2024,Solar,93.339
+08.2024,Battery Storage (Power),11.015
+08.2024,Battery Storage (Capacity),16.073
+09.2024,Biomass,9.061
+09.2024,Wind offshore,9.215
+09.2024,Wind onshore,62.524
+09.2024,Solar,94.299
+09.2024,Battery Storage (Power),11.131
+09.2024,Battery Storage (Capacity),16.235
